@@ -31,8 +31,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=dracula)
 ---
 
 
