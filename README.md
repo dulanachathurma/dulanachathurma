@@ -1,9 +1,13 @@
 # 👋 Hey, I'm Dulana Chathurma.
 
 🚀 I'm doing Software Engineering Honours degree in University of Kelaniya 
+
 🤝 Open to collaborate on software & research.  
+
 🌱 Currently learning  Webdevelopment Course in MIHA Institute
-💬 I hope to one day develop a great mobile app and make it popular, like Facebook or PickMe.  
+
+💬 I hope to one day develop a great mobile app and make it popular, like Facebook or PickMe. 
+
 ⚡ Fun fact: I love blending technology with creativity to build innovative solutions.
 
 ---
@@ -27,7 +31,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USER&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?dulanachathurma=YOUR-USER&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USER&layout=compact)
 
 ---
