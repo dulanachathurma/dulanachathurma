@@ -44,11 +44,11 @@
 
 
 
-## About Me  <img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" width="25"/>
+## <img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" width="25"/> About Me :
 
-Hi! I'm **Dulana Chathurma**, a passionate **Software Engineering (UG) student** at **University of Kelaniya**.  
+[Hi! I'm **Dulana Chathurma**, a passionate **Software Engineering (UG) student** at **University of Kelaniya**.  
 I love **coding, problem-solving, and building impactful projects**.  
-Always eager to **learn new technologies** and improve my skills.
+Always eager to **learn new technologies** and improve my skills.]
 
 
 
