@@ -68,7 +68,7 @@ I am also hoping to obtain a related degree from a good university abroad , afte
 
 "I work to a daily schedule and make creative and spiritual decisions about anything, I also have good architectural design skills innately."
 
-"I am a campus selected student with high results at the right age, and I have been the first in the school many times since my childhood."
+"I am a campus selected student with high results in A/L at the right age, and I have been the first in the school many times since my childhood."
 
 
 ---
