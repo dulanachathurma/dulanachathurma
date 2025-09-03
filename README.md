@@ -79,9 +79,9 @@ Here are the technologies and tools I work with,
 ---
 ## 🔝 Top Contributed Repo
 
-[![Top Contributed Repo](https://img.shields.io/badge/Repo-%F0%9F%94%A5%20your-repo-name-blue?style=flat-square)](https://github.com/dulanachathurma/your-repo-name)
+[![Top Contributed Repo](https://img.shields.io/badge/Repo-%F0%9F%94%A5%20ai--chatbot--sinhala-blue?style=flat-square)](https://github.com/dulanachathurma/ai-chatbot-sinhala)
 
-> A short, professional description about what this repo does or why it matters in your dev journey.
+> 🤖 AI chatbot that understands Sinhala — built using NLP + machine learning. Powered for local language innovation 🇱🇰
 
 ---
 
