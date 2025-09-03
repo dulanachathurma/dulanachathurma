@@ -3,6 +3,35 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vleft=true&width=600&size=32&lines=Software+Engineer(UG)UoK)](https://git.io/typing-svg)
 
 
+## <img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" width="25"/> About Me :
+
+[Hi! I'm **Dulana Chathurma**, a passionate **Software Engineering (UG) student** at **University of Kelaniya**.  
+I love **coding, problem-solving, and building impactful projects**.  
+Always eager to **learn new technologies** and improve my skills.]
+
+
+🚀 I'm doing Software Engineering Honours degree in University of Kelaniya. 
+
+🤝 Open to collaborate on software & research.  
+
+🌱 Currently learning  Web Development Course in MIHA Institute.
+
+💬 I hope to one day develop a great mobile app and make it popular, like Facebook or PickMe. 
+
+💯 Fun fact: I love blending technology with creativity to build innovative solutions.
+
+And also,I have videos 📷 edditing Skills,
+I have new technology mind.
+
+🇵🇪 🇬🇧 🇺🇸 🇳🇿...✈️
+I am also hoping to obtain a related degree from a good university abroad , after this degree , it I get a chance, through a scholarship.✊
+
+📝🗓️"I work to a daily schedule and make creative and spiritual decisions about anything, I also have good architectural design skills innately."
+
+👨‍🎓"I am a campus selected student with high results in A/L at the right age, and I have been the first in the schools and (A/L ,O/L classes) many times since my childhood."
+🙏🇱🇰🙏
+
+---
 #  Contact Me :
 
 
@@ -47,46 +76,6 @@
 </a>
 
 </p>
-
-
-
-
-
-
-## <img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" width="25"/> About Me :
-
-[Hi! I'm **Dulana Chathurma**, a passionate **Software Engineering (UG) student** at **University of Kelaniya**.  
-I love **coding, problem-solving, and building impactful projects**.  
-Always eager to **learn new technologies** and improve my skills.]
-
-
-
-
-🚀 I'm doing Software Engineering Honours degree in University of Kelaniya. 
-
-🤝 Open to collaborate on software & research.  
-
-🌱 Currently learning  Web Development Course in MIHA Institute.
-
-💬 I hope to one day develop a great mobile app and make it popular, like Facebook or PickMe. 
-
-💯 Fun fact: I love blending technology with creativity to build innovative solutions.
-
-And also,I have videos 📷 edditing Skills,
-I have new technology mind.
-
-🇵🇪 🇬🇧 🇺🇸 🇳🇿...✈️
-I am also hoping to obtain a related degree from a good university abroad , after this degree , it I get a chance, through a scholarship.✊
-
-📝🗓️"I work to a daily schedule and make creative and spiritual decisions about anything, I also have good architectural design skills innately."
-
-👨‍🎓"I am a campus selected student with high results in A/L at the right age, and I have been the first in the schools and (A/L ,O/L classes) many times since my childhood."
-🙏🇱🇰🙏
-
-
-
-
----
 
 ## 🌎 Socials :   
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dulanachathurma99@gmail.com)
