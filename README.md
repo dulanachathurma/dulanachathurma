@@ -42,7 +42,7 @@
 
 
 
-
+## About Me :
 
 
 🚀 I'm doing Software Engineering Honours degree in University of Kelaniya 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials :
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dulanachathurma99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulana-chathurma-97748331a)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/dulanachathurma)
@@ -66,7 +66,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack :
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
@@ -76,13 +76,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight)
 ---
 
 
-## 📫 Contact Me
+## 📫 Contact Links :
 - Email: dulanachathurma99@gmail.com 
 - LinkedIn: (https://www.linkedin.com/in/dulana-chathurma-97748331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - GitHub: https://github.com/
