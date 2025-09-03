@@ -71,7 +71,12 @@ Here are the technologies and tools I work with,
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+## ✍️ Random Dev Quote
 
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
 
 # <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Contact Logo" width="30" height="30" /> Contact Me : 
 
