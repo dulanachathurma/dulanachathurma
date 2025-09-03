@@ -5,25 +5,36 @@
 <p align="left">
   <a href="mailto:dulanachathurma99@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" 
-         alt="Gmail" style="border-radius:50%;" width="40" height="40"/>
+         alt="Gmail" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.linkedin.com/in/dulana-chathurma-97748331a/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" 
-         alt="LinkedIn" style="border-radius:50%;" width="40" height="40"/>
+         alt="LinkedIn" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/-GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=121011" 
-         alt="GitHub" style="border-radius:50%;" width="40" height="40"/>
+         alt="GitHub" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://youtube.com/@travelwithdulana?si=d-60KJbgnTILE-V8">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" 
-         alt="YouTube" style="border-radius:50%;" width="40" height="40"/>
+         alt="YouTube" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.facebook.com/share/1EP1Sypxsz/">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" 
-         alt="Facebook" style="border-radius:50%;" width="40" height="40"/>
+         alt="Facebook" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
+
 
 
 
