@@ -81,9 +81,9 @@ Here are the technologies and tools I work with,
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F61?logo=OpenAI&logoColor=white)
 ---
 
 ## 📊 GitHub Stats :
