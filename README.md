@@ -74,7 +74,8 @@ Here are the technologies and tools I work with,
 ---
 ## ✍️ Random Dev Quote
 
-  *"First, solve the problem. Then, write the code."* – John Johnson 
+*"First, solve the problem. Then, write the code."* – John Johnson
+
 
 
 
