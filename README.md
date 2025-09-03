@@ -83,6 +83,11 @@ Here are the technologies and tools I work with,
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight)
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
 
 # <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Contact Logo" width="30" height="30" /> Contact Me :
