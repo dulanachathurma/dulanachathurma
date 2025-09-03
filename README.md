@@ -1,4 +1,6 @@
 # 👋 Hey, I'm Dulana Chathurma.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B6&width=435&lines=Software+Engineer;Full+Stack+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
+
 
 🚀 I'm doing Software Engineering Honours degree in University of Kelaniya 
 
