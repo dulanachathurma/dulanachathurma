@@ -2,6 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vCenter=true&width=600&size=32&lines=Software+Engineer(UG)UoK)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/your-github">
+    <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/channel/your-channel">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.facebook.com/your-profile">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 
 🚀 I'm doing Software Engineering Honours degree in University of Kelaniya 
