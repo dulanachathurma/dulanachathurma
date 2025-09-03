@@ -112,3 +112,5 @@ Here are the technologies and tools I work with,
 - Email: dulanachathurma99@gmail.com 
 - LinkedIn: (https://www.linkedin.com/in/dulana-chathurma-97748331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - GitHub: https://github.com/
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/947XXXXXXXX)
+WhatsApp : 076-7574844
