@@ -1,15 +1,5 @@
 # 👋 Hey, I'm Dulana Chathurma.
-
-<p align="center">
-
-  <!-- Typing SVG -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vleft=true&width=400&size=32&lines=Software+Engineer(UG)+UoK)](https://git.io/typing-svg)
-
-  <!-- Logos -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/University_of_Kelaniya_logo.svg/1200px-University_of_Kelaniya_logo.svg.png" alt="University of Kelaniya Logo" width="60" style="vertical-align:middle; margin-left:15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/SE_icon.png" alt="Software Engineering Logo" width="60" style="vertical-align:middle; margin-left:15px;"/>
-
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vleft=true&width=600&size=32&lines=Software+Engineer(UG)UoK)](https://git.io/typing-svg)
 
 
 #  Contact Me :
