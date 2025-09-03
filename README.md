@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vCenter=true&width=600&size=32&lines=Software+Engineer(UG)UoK)](https://git.io/typing-svg)
 
-<p align="center">
+<p align="left">
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
