@@ -111,9 +111,23 @@ Here are the technologies and tools I work with,
 ---
 
 ## 📊 GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight)
----
+
+<p align="center">
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com?user=dulanachathurma&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  
+  <!-- Total Contributions Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
 
 
 # <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Contact Logo" width="30" height="30" /> Contact Me :
