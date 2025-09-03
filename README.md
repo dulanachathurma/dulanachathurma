@@ -53,8 +53,8 @@ Here are the technologies and tools I work with,
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F61?logo=OpenAI&logoColor=white)
----
 
+---
 ## 📊 GitHub Stats :
 
 <!-- Main Stats + Streak -->
@@ -67,7 +67,7 @@ Here are the technologies and tools I work with,
 <!-- Contribution Graph (reduced size) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="250"/>
 
----
+
 
 # <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Contact Logo" width="30" height="30" /> Contact Me : 
 
