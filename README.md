@@ -85,7 +85,7 @@ I am also hoping to obtain a related degree from a good university abroad , afte
 [![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/dulanachathurma)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@travelwithdulana?si=d-60KJbgnTILE-V8)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1EP1Sypxsz/)
-
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/94767574844)
 
 ---
 
@@ -112,5 +112,5 @@ Here are the technologies and tools I work with,
 - Email: dulanachathurma99@gmail.com 
 - LinkedIn: (https://www.linkedin.com/in/dulana-chathurma-97748331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - GitHub: https://github.com/
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/947XXXXXXXX)
-WhatsApp : 076-7574844
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/94767574844)
+
