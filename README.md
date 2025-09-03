@@ -112,7 +112,7 @@ Here are the technologies and tools I work with,
 
 ## 📊 GitHub Stats :
 
-<p align="center">
+<p align="left">
   <!-- Main Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
   
@@ -120,7 +120,7 @@ Here are the technologies and tools I work with,
   <img src="https://streak-stats.demolab.com?user=dulanachathurma&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
   
