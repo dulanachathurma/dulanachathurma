@@ -53,19 +53,24 @@ Always eager to **learn new technologies** and improve my skills.]
 
 
 
-🚀 I'm doing Software Engineering Honours degree in University of Kelaniya 
+🚀 I'm doing Software Engineering Honours degree in University of Kelaniya. 
 
 🤝 Open to collaborate on software & research.  
 
-🌱 Currently learning  Webdevelopment Course in MIHA Institute
+🌱 Currently learning  Webdevelopment Course in MIHA Institute.
 
 💬 I hope to one day develop a great mobile app and make it popular, like Facebook or PickMe. 
 
-⚡ Fun fact: I love blending technology with creativity to build innovative solutions.
+💯 Fun fact: I love blending technology with creativity to build innovative solutions.
+
+🇵🇪 🇬🇧 🇺🇸 🇳🇿...✈️
+I am also hoping to obtain a related degree from a good university abroad , after this degree , it I get a chance, through a scholarship.✊
+
+
 
 ---
 
-## 🌐 Socials :   
+## 🌎 Socials :   
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dulanachathurma99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulana-chathurma-97748331a)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/dulanachathurma)
