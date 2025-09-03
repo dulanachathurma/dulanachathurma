@@ -58,7 +58,7 @@
 
 ---
 
-## 🌐 Socials :
+## <img src="https://cdn-icons-png.flaticon.com/512/1077/1077046.png" alt="Socials Logo" width="32" height="32" /> Socials :
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dulanachathurma99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulana-chathurma-97748331a)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/dulanachathurma)
@@ -85,7 +85,7 @@ Here are the technologies and tools I work with,
 ---
 
 
-# <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Contact Logo" width="30" height="30" /> Contact Me
+# <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Contact Logo" width="30" height="30" /> Contact Me :
 
 - Email: dulanachathurma99@gmail.com 
 - LinkedIn: (https://www.linkedin.com/in/dulana-chathurma-97748331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
