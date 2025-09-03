@@ -4,21 +4,27 @@
 
 <p align="left">
   <a href="mailto:dulanachathurma99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" 
+         alt="Gmail" style="border-radius:50%;" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/dulana-chathurma-97748331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/dulana-chathurma-97748331a/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" 
+         alt="LinkedIn" style="border-radius:50%;" width="40" height="40"/>
   </a>
   <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=121011" 
+         alt="GitHub" style="border-radius:50%;" width="40" height="40"/>
   </a>
   <a href="https://youtube.com/@travelwithdulana?si=d-60KJbgnTILE-V8">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" 
+         alt="YouTube" style="border-radius:50%;" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/share/1EP1Sypxsz/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" 
+         alt="Facebook" style="border-radius:50%;" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
