@@ -67,6 +67,9 @@ Here are the technologies and tools I work with,
 <!-- Contribution Graph (reduced size) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="250"/>
 
+## 🏆 GitHub Trophies 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Contact Logo" width="30" height="30" /> Contact Me : 
