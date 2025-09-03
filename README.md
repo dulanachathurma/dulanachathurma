@@ -76,14 +76,6 @@ Here are the technologies and tools I work with,
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
-## 🔝 Top Contributed Repo
-
-[![Top Contributed Repo](https://img.shields.io/badge/Repo-%F0%9F%94%A5%20ai--chatbot--sinhala-blue?style=flat-square)](https://github.com/dulanachathurma/ai-chatbot-sinhala)
-
-> 🤖 AI chatbot that understands Sinhala — built using NLP + machine learning. Powered for local language innovation 🇱🇰
-
----
 
 # <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Contact Logo" width="30" height="30" /> Contact Me : 
 
