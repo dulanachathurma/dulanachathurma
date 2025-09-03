@@ -1,4 +1,5 @@
-# 👋 Hey, I'm Dulana Chathurma.
+# 👋 Hey, I'm Dulana Chathurma.<img src="./assets/University_of_Kelaniya_logo.png" alt="University of Kelaniya Logo" width="60"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vleft=true&width=600&size=32&lines=Software+Engineer(UG)UoK)](https://git.io/typing-svg)
 
 
