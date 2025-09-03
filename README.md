@@ -57,7 +57,7 @@ Always eager to **learn new technologies** and improve my skills.]
 
 🤝 Open to collaborate on software & research.  
 
-🌱 Currently learning  Web development Course in MIHA Institute.
+🌱 Currently learning  Web Development Course in MIHA Institute.
 
 💬 I hope to one day develop a great mobile app and make it popular, like Facebook or PickMe. 
 
