@@ -83,6 +83,7 @@ Here are the technologies and tools I work with,
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight)
 ---
+![My GitHub Stats](https://github.com/your-username/your-repository/blob/main/images/Screenshot_20250903_121018_com_android_chrome_CustomTabActivity_edit_5898379222540.jpg)
 
 
 # <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Contact Logo" width="30" height="30" /> Contact Me :
