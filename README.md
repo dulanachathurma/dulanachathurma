@@ -3,19 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vleft=true&width=600&size=32&lines=Software+Engineer(UG)UoK)](https://git.io/typing-svg)
 
 <p align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:dulanachathurma99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/dulana-chathurma-97748331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/your-github">
+  <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.youtube.com/channel/your-channel">
+  <a href="https://youtube.com/@travelwithdulana?si=d-60KJbgnTILE-V8">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.facebook.com/your-profile">
+  <a href="https://www.facebook.com/share/1EP1Sypxsz/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
