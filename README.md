@@ -63,15 +63,16 @@ Always eager to **learn new technologies** and improve my skills.]
 
 💯 Fun fact: I love blending technology with creativity to build innovative solutions.
 
-And also,I have videos edditing Skills,
+And also,I have videos 📷 edditing Skills,
 I have new technology mind.
 
 🇵🇪 🇬🇧 🇺🇸 🇳🇿...✈️
 I am also hoping to obtain a related degree from a good university abroad , after this degree , it I get a chance, through a scholarship.✊
 
-"I work to a daily schedule and make creative and spiritual decisions about anything, I also have good architectural design skills innately."
+📝🗓️"I work to a daily schedule and make creative and spiritual decisions about anything, I also have good architectural design skills innately."
 
-"I am a campus selected student with high results in A/L at the right age, and I have been the first in the schools and (A/L ,O/L classes) many times since my childhood."
+👨‍🎓"I am a campus selected student with high results in A/L at the right age, and I have been the first in the schools and (A/L ,O/L classes) many times since my childhood."
+🙏🇱🇰🙏
 
 
 
