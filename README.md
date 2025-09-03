@@ -37,6 +37,12 @@
          onmouseover="this.style.transform='scale(1.3)'" 
          onmouseout="this.style.transform='scale(1)'" />
   </a>
+  <a href="https://wa.me/94767574844">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
+         alt="Facebook" style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.3)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
 </p>
 
 
