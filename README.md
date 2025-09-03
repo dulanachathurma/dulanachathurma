@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vleft=true&width=600&size=32&lines=Software+Engineer(UG)UoK)](https://git.io/typing-svg)
 
-# <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Contact Logo" width="30" height="30" /> Contact Me :
+#  Contact Me :
 
 
 <p align="left">
@@ -85,7 +85,8 @@ Here are the technologies and tools I work with,
 ---
 
 
-## 📫 Contact Links :
+# <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Contact Logo" width="30" height="30" /> Contact Me
+
 - Email: dulanachathurma99@gmail.com 
 - LinkedIn: (https://www.linkedin.com/in/dulana-chathurma-97748331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - GitHub: https://github.com/
