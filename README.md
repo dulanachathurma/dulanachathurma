@@ -67,8 +67,8 @@
 ---
 
 ## 🛠️ My Skills
-
 Here are the technologies and tools I work with,
+
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
