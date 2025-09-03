@@ -112,8 +112,6 @@ Here are the technologies and tools I work with,
 
 ## 📊 GitHub Stats :
 
-## 📊 GitHub Stats (2025)
-
 <!-- Main Stats + Streak -->
 <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>  
 <img src="https://streak-stats.demolab.com?user=dulanachathurma&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>  
