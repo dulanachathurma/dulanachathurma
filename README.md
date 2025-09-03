@@ -63,7 +63,7 @@ Always eager to **learn new technologies** and improve my skills.]
 
 💯 Fun fact: I love blending technology with creativity to build innovative solutions.
 
-And also,I have videos edditing Skills.
+And also,I have videos edditing Skills,
 I have new technology mind.
 
 🇵🇪 🇬🇧 🇺🇸 🇳🇿...✈️
