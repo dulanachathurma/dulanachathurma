@@ -53,6 +53,7 @@ Here are the technologies and tools I work with,
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F61?logo=OpenAI&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 ## 📊 GitHub Stats :
