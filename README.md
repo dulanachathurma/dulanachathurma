@@ -67,6 +67,15 @@ Here are the technologies and tools I work with,
 
 <!-- Contribution Graph (reduced size) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="250"/>
+### 💾 SQL Projects
+- 📁 [My SQL Database Project](https://github.com/dulanachathurma/my-sql-project)  
+- 🧮 Database structure, table creation, and sample queries included.
+
+### 💻 JavaScript Projects
+- ⚡ [To-Do List App](https://github.com/dulanachathurma/todo-app)  
+- 🎮 [Simple JavaScript Game](https://github.com/dulanachathurma/js-game)
+- 🖼️ [Image Slider Project](https://github.com/dulanachathurma/image-slider)
+
 
 ## 🏆 GitHub Trophies 
 
