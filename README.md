@@ -81,8 +81,11 @@ Here are the technologies and tools I work with,
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="250"/>
 
 
-## 🏆 GitHub Trophies 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+
+## 🏆 GitHub Trophies
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/dulanachathurma)
+
 ---
 ## ✍️ Random Dev Quote
 
