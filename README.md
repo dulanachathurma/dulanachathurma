@@ -121,11 +121,9 @@ Here are the technologies and tools I work with,
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="250"/>
 
 
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10)](https://github.com/dulanachathurma)
-
 
 
 ---
