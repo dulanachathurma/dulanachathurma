@@ -24,9 +24,8 @@
   <a href="https://wa.me/94767574844" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" title="Chat on WhatsApp" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
-  <!-- Black Medium Icon in square shape -->
   <a href="https://medium.com/@dulanachathurma99" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111502.png" alt="Medium" title="Medium" style="border-radius:5px; width:40px; height:40px; background-color:black; padding:5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
+    <img src="https://play-lh.googleusercontent.com/5uMPvygGoe3Y6aLKjdH1bxf567RA2mvY6dIsGocU5LQIyb8YjWkkuQt-m99ITIAwGWsi" alt="Medium" title="Medium" style="border-radius:5px; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
 </p>
 
