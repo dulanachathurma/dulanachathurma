@@ -46,17 +46,6 @@ I am also hoping to obtain a related degree from a good university abroad , afte
 ## 🛠️ My Skills :
 Here are the technologies and tools I work with,
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F61?logo=OpenAI&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-## 🛠 My Tech Stack & Tools
-
 <div align="center">
 
 <p>
@@ -78,6 +67,7 @@ Here are the technologies and tools I work with,
 </div>
 
 ---
+
 ## 📊 GitHub Stats :
 
 <!-- Main Stats + Streak -->
