@@ -5,7 +5,7 @@
 
 ## <img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" width="25"/> About Me :
 
-<p align="center" style="display:flex; gap:10px; align-items:center;">
+<p align="left" style="display:flex; gap:10px; align-items:center;">
   <a href="mailto:dulanachathurma99@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
