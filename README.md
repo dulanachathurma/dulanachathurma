@@ -55,44 +55,14 @@ Here are the technologies and tools I work with,
 ![AI](https://img.shields.io/badge/AI-FF6F61?logo=OpenAI&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-<div align="center">
-
-<h2>💧 Tech Stack — Waterfall Style</h2>
-
-<style>
-.badge-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 10px;
-  animation: waterfall 2s ease-in-out infinite alternate;
-}
-.badge-container img {
-  border-radius: 10px;
-  transition: transform 0.3s, box-shadow 0.3s;
-}
-.badge-container img:hover {
-  transform: translateY(-6px) scale(1.1);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-}
-@keyframes waterfall {
-  from { transform: translateY(0px); }
-  to { transform: translateY(6px); }
-}
-</style>
-
-<div class="badge-container">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/AI-FF6F61?logo=OpenAI&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-</div>
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F61?logo=OpenAI&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 ## 📊 GitHub Stats :
