@@ -5,57 +5,7 @@
 
 ## <img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" width="25"/> About Me :
 
-
-<p align="center" style="display:flex; gap:15px; justify-content:center; align-items:center;">
-  <a href="mailto:dulanachathurma99@gmail.com" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
-         alt="Gmail" 
-         style="border-radius:50%; width:45px; height:45px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;" 
-         onmouseover="this.style.transform='scale(1.25)'; this.style.boxShadow='0 8px 15px rgba(0,0,0,0.3)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.1)';" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/dulana-chathurma-97748331a/" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-         alt="LinkedIn" 
-         style="border-radius:50%; width:45px; height:45px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;" 
-         onmouseover="this.style.transform='scale(1.25)'; this.style.boxShadow='0 8px 15px rgba(0,0,0,0.3)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.1)';" />
-  </a>
-
-  <a href="https://github.com/" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
-         alt="GitHub" 
-         style="border-radius:50%; width:45px; height:45px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;" 
-         onmouseover="this.style.transform='scale(1.25)'; this.style.boxShadow='0 8px 15px rgba(0,0,0,0.3)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.1)';" />
-  </a>
-
-  <a href="https://youtube.com/@travelwithdulana?si=d-60KJbgnTILE-V8" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" 
-         alt="YouTube" 
-         style="border-radius:50%; width:45px; height:45px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;" 
-         onmouseover="this.style.transform='scale(1.25)'; this.style.boxShadow='0 8px 15px rgba(255,0,0,0.4)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.1)';" />
-  </a>
-
-  <a href="https://www.facebook.com/share/1EP1Sypxsz/" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
-         alt="Facebook" 
-         style="border-radius:50%; width:45px; height:45px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;" 
-         onmouseover="this.style.transform='scale(1.25)'; this.style.boxShadow='0 8px 15px rgba(59,89,152,0.4)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.1)';" />
-  </a>
-
-  <a href="https://wa.me/94767574844" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png"
-         alt="WhatsApp"
-         title="Chat on WhatsApp"
-         style="border-radius:50%; width:45px; height:45px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;"
-         onmouseover="this.style.transform='scale(1.25)'; this.style.boxShadow='0 8px 15px rgba(37,211,102,0.4)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.1)';" />
-  </a>
-</p>
+<p align="center" style="display:flex; gap:10px; align-items:center;"> <a href="mailto:dulanachathurma99@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /> </a> <a href="https://www.linkedin.com/in/dulana-chathurma-97748331a/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /> </a> <a href="https://github.com/"> <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /> </a> <a href="https://youtube.com/@travelwithdulana?si=d-60KJbgnTILE-V8"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /> </a> <a href="https://www.facebook.com/share/1EP1Sypxsz/"> <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /> </a> <a href="https://wa.me/94767574844" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp"> <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" title="Chat on WhatsApp" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" /> </a> </p>. mata me logo tika tawa lassanakarala proffesional look ekt denna 2025 ta galapena new style
 
 ---
 [Hi! I'm **Dulana Chathurma**, a passionate **Software Engineering (UG) student** at **University of Kelaniya**.  
