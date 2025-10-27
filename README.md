@@ -59,14 +59,19 @@ Here are the technologies and tools I work with,
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p>
+  <img src="images/c.png" alt="C" width="60" height="60" style="margin: 10px;"/>
+  <img src="images/java.png" alt="Java" width="60" height="60" style="margin: 10px;"/>
+  <img src="images/javascript.png" alt="JavaScript" width="60" height="60" style="margin: 10px;"/>
+  <img src="images/php.png" alt="PHP" width="60" height="60" style="margin: 10px;"/>
+</p>
+
+<p>
+  <img src="images/python.png" alt="Python" width="60" height="60" style="margin: 10px;"/>
+  <img src="images/mysql.png" alt="MySQL" width="60" height="60" style="margin: 10px;"/>
+  <img src="images/ai.png" alt="AI" width="60" height="60" style="margin: 10px;"/>
+  <img src="images/ml.png" alt="Machine Learning" width="60" height="60" style="margin: 10px;"/>
+</p>
 
 </div>
 
