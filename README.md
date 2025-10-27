@@ -82,8 +82,8 @@ Here are the technologies and tools I work with,
 
 
 ## 🏆 GitHub Trophies 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=radical)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dulanachathurma)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 ## ✍️ Random Dev Quote
 
