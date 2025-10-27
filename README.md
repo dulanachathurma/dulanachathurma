@@ -60,20 +60,21 @@ Here are the technologies and tools I work with,
 <div align="center">
 
 <p>
-  <img src="images/c.png" alt="C" width="60" height="60" style="margin: 10px;"/>
-  <img src="images/java.png" alt="Java" width="60" height="60" style="margin: 10px;"/>
-  <img src="images/javascript.png" alt="JavaScript" width="60" height="60" style="margin: 10px;"/>
-  <img src="images/php.png" alt="PHP" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" style="margin: 10px;"/>
 </p>
 
 <p>
-  <img src="images/python.png" alt="Python" width="60" height="60" style="margin: 10px;"/>
-  <img src="images/mysql.png" alt="MySQL" width="60" height="60" style="margin: 10px;"/>
-  <img src="images/ai.png" alt="AI" width="60" height="60" style="margin: 10px;"/>
-  <img src="images/ml.png" alt="Machine Learning" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/artificialintelligence.svg" alt="AI" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Machine Learning" width="60" height="60" style="margin: 10px;"/>
 </p>
 
 </div>
+
 
 ---
 ## 📊 GitHub Stats :
