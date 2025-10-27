@@ -25,7 +25,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" title="Chat on WhatsApp" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
   <a href="https://medium.com/@dulanachathurma99" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Medium_logo_M.png" alt="Medium" title="Medium" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111502.png" alt="Medium" title="Medium" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
 </p>
 
