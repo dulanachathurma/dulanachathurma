@@ -7,27 +7,28 @@
 
 <p align="left" style="display:flex; gap:10px; align-items:center;">
   <a href="mailto:dulanachathurma99@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="border-radius:50%; width:20px; height:20px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="border-radius:50%; width:30px; height:30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.linkedin.com/in/dulana-chathurma-97748331a/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="border-radius:50%; width:30px; height:30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" style="border-radius:50%; width:30px; height:30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://youtube.com/@travelwithdulana?si=d-60KJbgnTILE-V8">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" style="border-radius:50%; width:30px; height:30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.facebook.com/share/1EP1Sypxsz/">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" style="border-radius:50%; width:30px; height:30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://wa.me/94767574844" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" title="Chat on WhatsApp" style="border-radius:50%; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" title="Chat on WhatsApp" style="border-radius:50%; width:30px; height:30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
   <a href="https://medium.com/@dulanachathurma99" target="_blank" rel="noopener noreferrer">
-    <img src="https://play-lh.googleusercontent.com/5uMPvygGoe3Y6aLKjdH1bxf567RA2mvY6dIsGocU5LQIyb8YjWkkuQt-m99ITIAwGWsi" alt="Medium" title="Medium" style="border-radius:5px; width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
+    <img src="https://play-lh.googleusercontent.com/5uMPvygGoe3Y6aLKjdH1bxf567RA2mvY6dIsGocU5LQIyb8YjWkkuQt-m99ITIAwGWsi" alt="Medium" title="Medium" style="border-radius:5px; width:30px; height:30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
 </p>
+
 
 
 
