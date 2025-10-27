@@ -55,36 +55,21 @@ Here are the technologies and tools I work with,
 ![AI](https://img.shields.io/badge/AI-FF6F61?logo=OpenAI&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-<h2 align="center">My Tech Stack & Tools</h2>
+## 🛠 My Tech Stack & Tools
+
 <div align="center">
-  
-  <p>
-    <img src="images/html.png" alt="HTML" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/css.png" alt="CSS" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/tailwind-css.png" alt="Tailwind CSS" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/javascript.png" alt="JavaScript" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/java.png" alt="Java" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/python.png" alt="Python" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/php.png" alt="PHP" width="60" height="60" style="margin: 10px;"/>
-  </p>
-  
-  <p>
-    <img src="images/react.png" alt="React" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/bootstrap.png" alt="Bootstrap" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/nodejs.png" alt="Node.js" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/expressjs.png" alt="Express.js" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/spring-boot.png" alt="Spring Boot" width="60" height="60" style="margin: 10px;"/>
-  </p>
-  
-  <p>
-    <img src="images/mysql.png" alt="MySQL" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/mongodb.png" alt="MongoDB" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/git.png" alt="Git" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/figma.png" alt="Figma" width="60" height="60" style="margin: 10px;"/>
-    <img src="images/photoshop.png" alt="Adobe Photoshop" width="60" height="60" style="margin: 10px;"/>
-  </p>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
+
 ---
 ## 📊 GitHub Stats :
 
