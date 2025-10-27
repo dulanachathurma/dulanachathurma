@@ -83,9 +83,8 @@ Here are the technologies and tools I work with,
 
 ## 🏆 GitHub Trophies 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=radical&no-frame=false&no-bg=false&margin-w=5" alt="GitHub Trophies" />
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=3)](https://github.com/dulanachathurma)
 
 ---
 ## ✍️ Random Dev Quote
