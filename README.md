@@ -55,29 +55,36 @@ Here are the technologies and tools I work with,
 ![AI](https://img.shields.io/badge/AI-FF6F61?logo=OpenAI&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+<h2 align="center">My Tech Stack & Tools</h2>
+<div align="center">
+  
+  <p>
+    <img src="images/html.png" alt="HTML" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/css.png" alt="CSS" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/tailwind-css.png" alt="Tailwind CSS" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/javascript.png" alt="JavaScript" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/java.png" alt="Java" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/python.png" alt="Python" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/php.png" alt="PHP" width="60" height="60" style="margin: 10px;"/>
+  </p>
+  
+  <p>
+    <img src="images/react.png" alt="React" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/bootstrap.png" alt="Bootstrap" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/nodejs.png" alt="Node.js" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/expressjs.png" alt="Express.js" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/spring-boot.png" alt="Spring Boot" width="60" height="60" style="margin: 10px;"/>
+  </p>
+  
+  <p>
+    <img src="images/mysql.png" alt="MySQL" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/mongodb.png" alt="MongoDB" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/git.png" alt="Git" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/figma.png" alt="Figma" width="60" height="60" style="margin: 10px;"/>
+    <img src="images/photoshop.png" alt="Adobe Photoshop" width="60" height="60" style="margin: 10px;"/>
+  </p>
 
----
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
-
----
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
+</div>
 ---
 ## 📊 GitHub Stats :
 
