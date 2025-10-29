@@ -119,18 +119,7 @@ Here are the technologies and tools I work with,
 
 <!-- Contribution Graph (reduced size) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="250"/>
-## 📊 GitHub Stats :
 
-<div align="center">
-
-  <!-- Main Stats + Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="250"/>
 
   <!-- Tech Stack -->
   <h3>🧠 Tech Stack</h3>
@@ -141,7 +130,7 @@ Here are the technologies and tools I work with,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45" style="margin: 10px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45" style="margin: 10px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin: 10px;"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/10307/10307911.png" alt="AI/ML" width="45" height="45" style="margin: 10px; border-radius: 10px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/10307/10307911.png" alt="AI" width="45" height="45" style="margin: 10px; border-radius: 10px;"/>
   </p>
 
 </div>
