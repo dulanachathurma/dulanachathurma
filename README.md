@@ -46,7 +46,7 @@ Always eager to **learn new technologies** and improve my skills.]
 
 🌱 Currently learning  Web Development Course in MIHA Institute.
 
-💬 I hope to one day develop a great mobile app and make it popular, like Facebook or PickMe. 
+💬 I aim to develop an innovative AI-powered mobile app that integrates machine learning and robotics, making it as impactful and popular as platforms like Facebook or PickMe.
 
 💯 Fun fact: I love blending technology with creativity to build innovative solutions.
 
