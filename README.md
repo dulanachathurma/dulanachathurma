@@ -113,6 +113,10 @@ Here are the technologies and tools I work with,
 <!-- Main Stats + Streak -->
 <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinukab&theme=chartreuse-dark&show_icons=true)
+
+
+[![](https://visitcount.itsvg.in/api?id=vinukab&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>  
