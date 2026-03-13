@@ -1,6 +1,7 @@
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px ></picture>
+<picture> <img align="bottom" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px ></picture>
 
 # 👋 Hey, I'm Dulana Chathurma.
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vleft=true&width=600&size=32&lines=Software+Engineer(UG)UoK)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vcenter=true&width=600&size=28&lines=Aspiring+AI/ML/Robotics+Engineer)](https://git.io/typing-svg)
