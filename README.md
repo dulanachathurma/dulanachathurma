@@ -46,8 +46,6 @@ Always eager to **learn new technologies** and improve my skills.]
 
 🤝 Open to collaborate on software & research.  
 
-🌱 Currently learning  Web Development Course in MIHA Institute.
-
 💬 I aim to develop an innovative AI-powered mobile app that integrates machine learning and robotics, making it as impactful and popular as platforms like Facebook or PickMe.
 
 💯 Fun fact: I love blending technology with creativity to build innovative solutions.
