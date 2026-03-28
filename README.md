@@ -194,45 +194,35 @@ Here are the technologies and tools I work with,
 
 </div>
 
+## 🛠️ My Skills
+Here are the technologies and tools I work with:
 
 <div align="center">
 
-<h2 style="border-bottom: none; margin-bottom: 30px;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Z3pxbmZ4Z3pxbmZ4Z3pxbmZ4Z3pxbmZ4Z3pxbmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/69q9p1Lp4pQzG/giphy.gif" width="35"> 
-  <span style="color: #61dafb;">My Technical Arsenal</span> 
-</h2>
+### Front-End
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 10px;"/>
+</p>
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <kbd><b>FRONT-END</b></kbd><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <kbd><b>BACK-END & LANGUAGES</b></kbd><br><br>
-      <img src="https://skillicons.dev/icons?i=c,java,php,python,nodejs,spring&perline=6" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <kbd><b>DATABASES & CLOUD</b></kbd><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase&perline=4" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <kbd><b>AI / MACHINE LEARNING</b></kbd><br><br>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4" />
-    </td>
-  </tr>
-</table>
+### Back-End
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 10px;"/>
+</p>
 
-<br>
+### Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="margin: 10px;"/>
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
+### AI / Machine Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="AI" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="ML/DL" width="60" height="60" style="margin: 10px;"/>
 </p>
 
 </div>
