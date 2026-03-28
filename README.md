@@ -183,6 +183,6 @@ Here are the technologies and tools I work with,
 </p>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,14,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,20&height=120&section=footer" width="100%"/>
 
 </div>
