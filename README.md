@@ -54,11 +54,17 @@ Always eager to **learn new technologies** and improve my skills.]
 
 ---
 🚀 Software Engineering (Honours) student at University of Kelaniya.
+
 💡 Passionate about developing AI-powered mobile apps integrating machine learning & robotics to create impactful solutions.
+
 🎬 Skilled in video editing and blending technology with creativity.
+
 🌍 Interested in pursuing further studies abroad (🇵🇪 🇬🇧 🇺🇸 🇳🇿) with scholarships.
+
 📝 Organized, disciplined, and strong in architectural & design thinking.
+
 🏆 Campus-selected student with top results in A/L & O/L, consistently ranked first since childhood.
+
 🤝 Open to collaborate on software projects & research.
 
 ---
