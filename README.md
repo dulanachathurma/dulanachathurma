@@ -13,9 +13,9 @@
     <img src="https://readme-typing-svg.demolab.com?pause=1200&center=true&vcenter=true&width=600&size=28&lines=Aspiring+AI/ML/Robotics+Engineer" alt="Aspiring AI/ML/Robotics Engineer"/>
   </a>
 </div>
-<picture> <img align="bottom" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px ></picture>
+<picture lign="center"> <img align="bottom" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px ></picture>
 
-<p align="left" style="display:flex; gap:10px; align-items:center;">
+<p align="center" style="display:flex; gap:10px; align-items:center;">
   <a href="mailto:dulanachathurma99@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="border-radius:50%; width:30px; height:30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
