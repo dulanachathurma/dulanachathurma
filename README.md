@@ -14,7 +14,7 @@
   </a>
 
  ## <img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" width="25"/> About Me :
-
+</div>
 <picture> <img align="bottom" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px ></picture>
 
 <p align="left" style="display:flex; gap:10px; align-items:center;">
