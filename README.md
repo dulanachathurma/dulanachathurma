@@ -194,35 +194,31 @@ Here are the technologies and tools I work with,
 
 </div>
 
-## 🛠️ My Skills
-Here are the technologies and tools I work with:
+## 🛠 Skills & Technologies
 
-<div align="center">
-
-### Front-End
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 10px;"/>
-</p>
-
-### Back-End
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 10px;"/>
-</p>
-
-### Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="margin: 10px;"/>
-</p>
-
-### AI / Machine Learning
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="AI" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="ML/DL" width="60" height="60" style="margin: 10px;"/>
-</p>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <th align="center" width="50%">🎨 Frontend</th>
+    <th align="center" width="50%">⚙️ Backend</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c,java,py,php" />
+    </td>
+  </tr>
+  <tr>
+    <th align="center" width="50%">🗄️ Databases</th>
+    <th align="center" width="50%">🤖 AI / Machine Learning</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+    </td>
+  </tr>
+</table>
