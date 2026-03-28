@@ -42,11 +42,8 @@
 
 
 
-<div style="text-align: left; font-size: 20px; font-weight: bold;">
-  <img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" width="25" style="vertical-align: middle;"/>
-  About Me :
-</div>
 ---
+##  About Me :
 [Hi! I'm **Dulana Chathurma**, a passionate **Software Engineering (UG) student** at **University of Kelaniya**.  
 I love **coding, problem-solving, and building impactful projects**.  
 Always eager to **learn new technologies** and improve my skills.]
