@@ -193,3 +193,47 @@ Here are the technologies and tools I work with,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,20&height=120&section=footer" width="100%"/>
 
 </div>
+
+
+
+## ⚡ Technical Ecosystem
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Front-End" />
+</p>
+
+### 🌐 Interface & Experience
+* **Core:** Modern JavaScript (ES6+), Semantic HTML5, CSS3/SCSS.
+* **Focus:** Responsive architecture and performance-first rendering.
+
+---
+
+### ⚙️ Core Engineering & Logic
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,php,python&perline=4" />
+  </a>
+</p>
+
+> Strong foundation in **Systems Programming (C)** and **Enterprise Logic (Java)**, balanced with the rapid deployment capabilities of **Python** and **PHP**.
+
+---
+
+### 🧠 Intelligence & Data
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Storage</h4>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>AI & Deep Learning</h4>
+      <img src="https://skillicons.dev/icons?i=tensorflow,openai" alt="AI/ML" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Proficiency Metrics
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker&theme=light)
