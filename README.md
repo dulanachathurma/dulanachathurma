@@ -195,45 +195,57 @@ Here are the technologies and tools I work with,
 </div>
 
 
+## 🛠️ My Skills
+Here are the technologies and tools I work with:
 
-## ⚡ Technical Ecosystem
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Front-End" />
-</p>
+<!-- Front-End -->
+<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <p>HTML5</p>
+</div>
+<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+  <p>CSS3</p>
+</div>
+<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  <p>JavaScript</p>
+</div>
 
-### 🌐 Interface & Experience
-* **Core:** Modern JavaScript (ES6+), Semantic HTML5, CSS3/SCSS.
-* **Focus:** Responsive architecture and performance-first rendering.
+<!-- Back-End -->
+<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
+  <p>C</p>
+</div>
+<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+  <p>Java</p>
+</div>
+<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
+  <p>PHP</p>
+</div>
+<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+  <p>Python</p>
+</div>
 
----
+<!-- Databases -->
+<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+  <p>MySQL</p>
+</div>
 
-### ⚙️ Core Engineering & Logic
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,php,python&perline=4" />
-  </a>
-</p>
+<!-- AI / ML -->
+<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="60" height="60"/>
+  <p>OpenAI</p>
+</div>
+<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/>
+  <p>TensorFlow</p>
+</div>
 
-> Strong foundation in **Systems Programming (C)** and **Enterprise Logic (Java)**, balanced with the rapid deployment capabilities of **Python** and **PHP**.
-
----
-
-### 🧠 Intelligence & Data
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Storage</h4>
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>AI & Deep Learning</h4>
-      <img src="https://skillicons.dev/icons?i=tensorflow,openai" alt="AI/ML" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 Proficiency Metrics
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker&theme=light)
+</div>
