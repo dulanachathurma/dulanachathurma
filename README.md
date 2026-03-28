@@ -14,8 +14,10 @@
   </a>
 </div>
 
-<picture > <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px ></picture>
-meka center karavan ona
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" />
+</div>
+
 
 <p align="center" style="display:flex; gap:10px; align-items:center;">
   <a href="mailto:dulanachathurma99@gmail.com">
