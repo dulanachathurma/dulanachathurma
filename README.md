@@ -100,6 +100,26 @@ Always eager to **learn new technologies** and improve my skills.]
 </table>
 
 ---
+## 🧠 Currently Exploring
+
+<table align="center" width="100%">
+  <tr>
+    <th align="center" width="50%">🤖 Artificial Intelligence</th>
+    <th align="center" width="50%">🧬 Generative AI</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Neural_Networks-%23000000.svg?style=for-the-badge&logo=ai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Computer_Vision-%235D3FD3.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LLMs-Large_Language_Models-%23FF4B4B.svg?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stable_Diffusion-%230052FF.svg?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📊 GitHub Stats :
 
