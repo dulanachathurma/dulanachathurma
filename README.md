@@ -195,57 +195,44 @@ Here are the technologies and tools I work with,
 </div>
 
 
-## 🛠️ My Skills
-Here are the technologies and tools I work with:
+<div align="center">
 
-<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<h2 style="border-bottom: none; margin-bottom: 30px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Z3pxbmZ4Z3pxbmZ4Z3pxbmZ4Z3pxbmZ4Z3pxbmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/69q9p1Lp4pQzG/giphy.gif" width="35"> 
+  <span style="color: #61dafb;">My Technical Arsenal</span> 
+</h2>
 
-<!-- Front-End -->
-<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-  <p>HTML5</p>
-</div>
-<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-  <p>CSS3</p>
-</div>
-<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-  <p>JavaScript</p>
-</div>
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <kbd><b>FRONT-END</b></kbd><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <kbd><b>BACK-END & LANGUAGES</b></kbd><br><br>
+      <img src="https://skillicons.dev/icons?i=c,java,php,python,nodejs,spring&perline=6" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <kbd><b>DATABASES & CLOUD</b></kbd><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <kbd><b>AI / MACHINE LEARNING</b></kbd><br><br>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4" />
+    </td>
+  </tr>
+</table>
 
-<!-- Back-End -->
-<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
-  <p>C</p>
-</div>
-<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
-  <p>Java</p>
-</div>
-<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
-  <p>PHP</p>
-</div>
-<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-  <p>Python</p>
-</div>
+<br>
 
-<!-- Databases -->
-<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
-  <p>MySQL</p>
-</div>
-
-<!-- AI / ML -->
-<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="60" height="60"/>
-  <p>OpenAI</p>
-</div>
-<div align="center" style="width:120px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/>
-  <p>TensorFlow</p>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
+</p>
 
 </div>
