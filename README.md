@@ -13,7 +13,9 @@
     <img src="https://readme-typing-svg.demolab.com?pause=1200&center=true&vcenter=true&width=600&size=28&lines=Aspiring+AI/ML/Robotics+Engineer" alt="Aspiring AI/ML/Robotics Engineer"/>
   </a>
 </div>
-<picture align="center"> <img align="bottom" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px ></picture>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" />
+</div>
 
 <p align="center" style="display:flex; gap:10px; align-items:center;">
   <a href="mailto:dulanachathurma99@gmail.com">
