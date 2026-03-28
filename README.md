@@ -123,7 +123,13 @@ I am also hoping to obtain a related degree from a good university abroad , afte
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10)](https://github.com/dulanachathurma)
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <a href="https://github.com/dulanachathurma">
+    <img src="https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</p>
 ---
 ## ✍️ Random Dev Quote
 
