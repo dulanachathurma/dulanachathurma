@@ -1,4 +1,8 @@
-# 👋 Hey, I'm Dulana Chathurma.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,14,20&height=220&section=header&text=Dulana%20Chathurma&fontSize=62&fontColor=0A1F5E&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20(UG)%20•%20University%20of%20Kelaniya%20•%20AI%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vleft=true&width=600&size=32&lines=Software+Engineer(UG)UoK)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vcenter=true&width=600&size=28&lines=Aspiring+AI/ML/Robotics+Engineer)](https://git.io/typing-svg)
@@ -177,7 +181,8 @@ Here are the technologies and tools I work with,
 </a>
 
 </p>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,14,20&height=120&section=footer" width="100%"/>
+
+</div>
