@@ -52,6 +52,7 @@
 I love **coding, problem-solving, and building impactful projects**.  
 Always eager to **learn new technologies** and improve my skills.]
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&height=100&lines=Hi!+I'm+Dulana+Chathurma.;A+passionate+Software+Engineering+(UG)+student+at+University+of+Kelaniya.;I+love+coding,+problem-solving,+and+building+impactful+projects.;Always+eager+to+learn+new+technologies+and+improve+my+skills.)](https://git.io/typing-svg)
 ---
 🚀 Software Engineering (Honours) student at University of Kelaniya.
 
