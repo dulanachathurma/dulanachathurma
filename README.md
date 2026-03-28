@@ -15,7 +15,7 @@
 </div>
 <div style="text-align: left;">
   <img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" width="25" style="vertical-align: middle;"/>
-  <span style="font-weight: bold; font-size: 18px;">About Me :</span>
+  <span style="font-weight: bold; font-size: 20px;">About Me :</span>
 </div>
 <picture> <img align="bottom" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px ></picture>
 
