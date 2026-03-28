@@ -74,16 +74,6 @@ I am also hoping to obtain a related degree from a good university abroad , afte
 
 ---
 
-## 🌎 Socials :   
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dulanachathurma99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulana-chathurma-97748331a)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/dulanachathurma)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@travelwithdulana?si=d-60KJbgnTILE-V8)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1EP1Sypxsz/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/94767574844)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dulanachathurma99)
----
-
 
 ## 🛠 MY Skills & Technologies
 
@@ -143,51 +133,11 @@ I am also hoping to obtain a related degree from a good university abroad , afte
 
 
 # <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Contact Logo" width="30" height="30" /> Contact Me : 
-
-<p align="left">
-  <a href="mailto:dulanachathurma99@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
-         alt="Gmail" style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.3)'" 
-         onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://www.linkedin.com/in/dulana-chathurma-97748331a/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-         alt="LinkedIn" style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.3)'" 
-         onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
-         alt="GitHub" style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.3)'" 
-         onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://youtube.com/@travelwithdulana?si=d-60KJbgnTILE-V8">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" 
-         alt="YouTube" style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.3)'" 
-         onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://www.facebook.com/share/1EP1Sypxsz/">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
-         alt="Facebook" style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.3)'" 
-         onmouseout="this.style.transform='scale(1)'" />
-  </a>
-<a href="https://wa.me/94767574844" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png"
-       alt="WhatsApp"
-       title="Chat on WhatsApp"
-       style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;"
-       onmouseover="this.style.transform='scale(1.3)';"
-       onmouseout="this.style.transform='scale(1)';" />
-</a>
-
-</p>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,20&height=120&section=footer" width="100%"/>
-
-</div>
-
+  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dulanachathurma99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulana-chathurma-97748331a)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/dulanachathurma)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@travelwithdulana?si=d-60KJbgnTILE-V8)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1EP1Sypxsz/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/94767574844)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dulanachathurma99)
