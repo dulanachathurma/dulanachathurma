@@ -53,24 +53,13 @@ I love **coding, problem-solving, and building impactful projects**.
 Always eager to **learn new technologies** and improve my skills.]
 
 ---
-🚀 I'm doing Software Engineering Honours degree in University of Kelaniya. 
-
-🤝 Open to collaborate on software & research.  
-
-💬 I aim to develop an innovative AI-powered mobile app that integrates machine learning and robotics, making it as impactful and popular as platforms like Facebook or PickMe.
-
-💯 Fun fact: I love blending technology with creativity to build innovative solutions.
-
-And also,I have videos 📷 edditing Skills,
-I have new technology mind.
-
-🇵🇪 🇬🇧 🇺🇸 🇳🇿...✈️
-I am also hoping to obtain a related degree from a good university abroad , after this degree , it I get a chance, through a scholarship.✊
-
-📝🗓️"I work to a daily schedule and make creative and spiritual decisions about anything, I also have good architectural design skills innately."
-
-👨‍🎓"I am a campus selected student with high results in A/L at the right age, and I have been the first in the schools and (A/L ,O/L classes) many times since my childhood."
-🙏🇱🇰🙏
+🚀 Software Engineering (Honours) student at University of Kelaniya.
+💡 Passionate about developing AI-powered mobile apps integrating machine learning & robotics to create impactful solutions.
+🎬 Skilled in video editing and blending technology with creativity.
+🌍 Interested in pursuing further studies abroad (🇵🇪 🇬🇧 🇺🇸 🇳🇿) with scholarships.
+📝 Organized, disciplined, and strong in architectural & design thinking.
+🏆 Campus-selected student with top results in A/L & O/L, consistently ranked first since childhood.
+🤝 Open to collaborate on software projects & research.
 
 ---
 
@@ -123,13 +112,6 @@ I am also hoping to obtain a related degree from a good university abroad , afte
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10)](https://github.com/dulanachathurma)
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/dulanachathurma">
-    <img src="https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
 ---
 ## ✍️ Random Dev Quote
 
