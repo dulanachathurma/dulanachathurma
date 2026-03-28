@@ -87,7 +87,7 @@ I am also hoping to obtain a related degree from a good university abroad , afte
 
 ## 🛠 MY Skills & Technologies
 
-<table align="center" width="100%">
+<table align="left" width="100%">
   <tr>
     <th align="center" width="50%">🎨 Frontend</th>
     <th align="center" width="50%">⚙️ Backend</th>
