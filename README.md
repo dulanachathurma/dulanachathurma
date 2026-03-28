@@ -12,10 +12,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?pause=1200&center=true&vcenter=true&width=600&size=28&lines=Aspiring+AI/ML/Robotics+Engineer" alt="Aspiring AI/ML/Robotics Engineer"/>
   </a>
-</div>
   <img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" width="25" style="vertical-align: middle;"/>
   About Me :
-
+</div>
 <picture> <img align="bottom" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px ></picture>
 
 <p align="left" style="display:flex; gap:10px; align-items:center;">
