@@ -48,7 +48,7 @@
 
 ---
 ## 👤 About Me :
-[Hi! I'm **Dulana Chathurma**, a passionate **Software Engineering (UG) student** at **University of Kelaniya**.  
+[Hi! I'm **Dulana Chathurma**, **Software Engineering (UG) ** at **University of Kelaniya**.  
 I love **coding, problem-solving, and building impactful projects**.  
 Always eager to **learn new technologies** and improve my skills.]
 
