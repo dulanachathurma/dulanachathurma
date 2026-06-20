@@ -17,6 +17,12 @@
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" align: "center" />
 </div>
+<!-- Right Side: Your Image -->
+  <div style="flex: 0 0 300px; text-align: center;">
+    <img width="896" height="1030" alt="dulana-profile-circle1" src="https://github.com/user-attachments/assets/b41b4097-c08d-456e-96cf-2d1fb454d393" />
+
+  </div>
+
 
 
 <p align="left" style="display:flex; gap:10px; align-items:center;">
