@@ -20,7 +20,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding Animation" />
   
   <!-- Your Personal Image -->
-  <img src="https://github.com/user-attachments/assets/de906fb8-0822-4c3f-ad71-decd8d37b3d6" width="220px" alt="Dulana Chathurma" style="border-radius: 50%; border: 5px solid #0A1F5E; width: 220px; height: 220px; object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/de906fb8-0822-4c3f-ad71-decd8d37b3d6" width="300px" alt="Dulana Chathurma" style="border-radius: 50%; border: 5px solid #0A1F5E; width: 220px; height: 220px; object-fit: cover;" />
 
 </div>
 
