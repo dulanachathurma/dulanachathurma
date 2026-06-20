@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 70px; flex-wrap: wrap;">
   
   <!-- Computer Typing Animation -->
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding Animation" />
