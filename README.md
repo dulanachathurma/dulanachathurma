@@ -14,13 +14,14 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" align: "center" />
-</div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  
+  <!-- Computer Typing Animation -->
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding Animation" />
+  
+  <!-- Your Personal Image -->
+  <img src="https://github.com/user-attachments/assets/de906fb8-0822-4c3f-ad71-decd8d37b3d6" width="300px" alt="Dulana Chathurma" style="border-radius: 10px;" />
 
-<div style="padding: 20px;justify-content: right;">
-  <!-- ඔබේ පින්තූරය දකුණු පසට -->
-  <img src="https://github.com/user-attachments/assets/b41b4097-c08d-456e-96cf-2d1fb454d393" width="250px" style="float: right; border-radius: 50%; border: 5px solid #0A1F5E; margin-left: 20px;" />
 </div>
 
 <p align="left" style="display:flex; gap:10px; align-items:center;">
