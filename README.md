@@ -11,7 +11,7 @@
   <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?pause=1200&center=true&vcenter=true&width=600&size=28&lines=Aspiring+AI/ML/Robotics+Engineer" alt="Aspiring AI/ML/Robotics Engineer"/>
-  </a>
+  </a><br>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 200px; flex-wrap: wrap; margin-top: -20px;">
   
@@ -23,7 +23,7 @@
 
 </div>
 
- <br><br>
+ <br>
 <p align="center" style="display:flex; gap:10px; align-items:center;">
   <a href="mailto:dulanachathurma99@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="border-radius:50%; width:30px; height:30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
