@@ -14,13 +14,13 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
   
   <!-- Computer Typing Animation -->
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding Animation" />
   
   <!-- Your Personal Image -->
-  <img src="https://github.com/user-attachments/assets/de906fb8-0822-4c3f-ad71-decd8d37b3d6" width="300px" alt="Dulana Chathurma" style="border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/de906fb8-0822-4c3f-ad71-decd8d37b3d6" width="200px" alt="Dulana Chathurma" style="border-radius: 10px;" />
 
 </div>
 
