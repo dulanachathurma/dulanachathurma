@@ -13,18 +13,14 @@
     <img src="https://readme-typing-svg.demolab.com?pause=1200&center=true&vcenter=true&width=600&size=28&lines=Aspiring+AI/ML/Robotics+Engineer" alt="Aspiring AI/ML/Robotics Engineer"/>
   </a>
 
-
-</div>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 200px; flex-wrap: wrap; margin-top: 30px;">
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 200px; flex-wrap: wrap; margin-top: -20px;">
   
-  <!-- Your Personal Image -->
-  <img src="https://github.com/user-attachments/assets/255391c9-5e74-4ce2-a7d9-969c3746686e" width="300px" alt="Dulana Chathurma" style="border-radius: 50%; border: 5px solid #0A1F5E; width: 200px; height: 200px; object-fit: cover;" />
+  <!-- Your Personal Image (Circle) -->
+  <img src="https://github.com/user-attachments/assets/255391c9-5e74-4ce2-a7d9-969c3746686e" width="220px" alt="Dulana Chathurma" style="border-radius: 50%; border: 5px solid #0A1F5E; width: 220px; height: 220px; object-fit: cover; margin-top: -50px;" />
 
- <!-- Computer Typing Animation -->
+  <!-- Computer Typing Animation -->
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding Animation" />
-  
+
 </div>
 
  
