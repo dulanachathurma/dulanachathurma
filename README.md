@@ -18,7 +18,7 @@
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" align: "center" />
 </div>
 
-<div style="padding: 20px;">
+<div style="padding: 20px;justify-content: right;">
   <!-- ඔබේ පින්තූරය දකුණු පසට -->
   <img src="https://github.com/user-attachments/assets/b41b4097-c08d-456e-96cf-2d1fb454d393" width="250px" style="float: right; border-radius: 50%; border: 5px solid #0A1F5E; margin-left: 20px;" />
 </div>
