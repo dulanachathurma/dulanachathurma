@@ -55,20 +55,19 @@ I love **coding, problem-solving, and building impactful projects**.
 Always eager to **learn new technologies** and improve my skills.]
 
 ---
-🚀 Software Engineering (Honours) student at University of Kelaniya.
+## 👤 About Me
 
-💡 Passionate about developing AI-powered mobile apps integrating machine learning & robotics to create impactful solutions.
+🚀 **Software Engineering (Honours) Undergraduate** @ University of Kelaniya.
 
-🎬 Skilled in video editing and blending technology with creativity.
+💡 **AI & Robotics Enthusiast** | Building impactful solutions through ML-integrated mobile apps.
 
-🌍 Interested in pursuing further studies abroad (🇵🇪 🇬🇧 🇺🇸 🇳🇿) with scholarships.
+🎬 **Tech-Creative** | Passionate about blending software development with expert video editing.
 
-📝 Organized, disciplined, and strong in architectural & design thinking.
+🎓 **Academic Achiever** | Consistently top-ranked student with outstanding A/L & O/L results.
 
-🏆 Campus-selected student with top results in A/L & O/L, consistently ranked first since childhood.
+🌍 **Global Aspirations** | Actively seeking scholarship opportunities for further studies abroad (🇵🇪 🇬🇧 🇺🇸 🇳🇿).
 
-🤝 Open to collaborate on software projects & research.
-
+🤝 **Collaboration Ready** | Open to meaningful software projects and research opportunities.
 ---
 
 
