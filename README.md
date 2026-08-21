@@ -160,7 +160,7 @@ Always eager to **learn new technologies** and improve my skills.
         <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
       </p>
       <br>
-      <a href="https://github.com/dulanachathurma/sriseta-astrology-platform">🔗 <b>View Source Code</b></a>
+      <a href="https://sriseta.vercel.app/">🔗 <b>Visit Website</b></a>
     </td>
     <td width="50%" valign="top">
       <h3><b> 👨‍💻 Personal Portfolio</b></h3>
