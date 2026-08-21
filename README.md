@@ -133,6 +133,24 @@ Always eager to **learn new technologies** and improve my skills.
 <!-- Contribution Graph (reduced size) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="250"/>
 
+---
+## 📊 GitHub Stats :
+
+<!-- Main Stats + Streak -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>  
+</p>
+
+<!-- Contribution Graph (reduced size) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="250"/>
+</p>
 
 ## 🏆 GitHub Trophies
 
