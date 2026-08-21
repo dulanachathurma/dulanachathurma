@@ -52,13 +52,7 @@
 </p>
 
 
-
-Hi , I'm **Dulana Chathurma**, **Software Engineering** (UG) at **University of Kelaniya**.  
-I love **coding, problem-solving, and building impactful projects**.  
-Always eager to **learn new technologies** and improve my skills.
-
 ---
-## 👤 About Me
 
 Hi 👋, I'm **Dulana Chathurma**, a **Software Engineering (Honours)** Undergraduate at the **University of Kelaniya**.  
 I specialize in building **scalable Full-Stack Web Applications** and seamlessly integrating **AI/ML capabilities** into modern software solutions. With a strong foundation in **Java and Python**, and a keen eye for **UI/UX**, I turn complex problems into intelligent, user-centric digital experiences.
