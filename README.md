@@ -190,15 +190,10 @@ I specialize in building **scalable Full-Stack Web Applications** and seamlessly
 
 <p align="center">
   <a href="https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8">
-    <img src="https://wakatime.com/badge/user/f3e20f11-b2d0-4443-8ac3-f774b2d759a8/project/all.svg" alt="WakaTime" />
+    <img src="https://wakatime.com/badge/user/f3e20f11-b2d0-4443-8ac3-f774b2d759a8.svg" alt="WakaTime Stats" />
   </a>
 </p>
 
-## ⏱️ Coding Metrics
-
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Languages-Python%20%7C%20Java%20%7C%20C-blue?style=for-the-badge&logo=code&logoColor=white" alt="Languages" />
-</p>
 
 ## 📊 GitHub Stats :
 
