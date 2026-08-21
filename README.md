@@ -218,9 +218,8 @@ I specialize in building **scalable Full-Stack Web Applications** and seamlessly
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/output/github-contribution-grid-snake.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-
 
 ## ✍️ Random Dev Quote
 
