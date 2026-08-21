@@ -192,16 +192,11 @@ I specialize in building **scalable Full-Stack Web Applications** and seamlessly
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dulanachathurma&theme=tokyonight&hide_border=true&layout=compact&v=2" alt="WakaTime Stats" />
 </p>
 
-
 ## 📊 GitHub Stats :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" alt="GitHub Stats" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" height="160"/>  
 </p>
 
 ## 🏆 GitHub Trophies
