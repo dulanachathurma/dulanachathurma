@@ -3,7 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,14,20&height=220&section=header&text=Dulana%20Chathurma&fontSize=62&fontColor=0A1F5E&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20(UG)%20•%20University%20of%20Kelaniya%20•%20AI%20Explorer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dulanachathurma&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
+<br>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?pause=1200&center=true&vleft=true&width=600&size=32&lines=Software+Engineer(UG)UoK" alt="Software Engineer(UG)UoK"/>
@@ -57,17 +60,23 @@ Always eager to **learn new technologies** and improve my skills.
 ---
 ## 👤 About Me
 
-🚀 **Software Engineering (Honours) Undergraduate** @ University of Kelaniya.
+Hi 👋, I'm **Dulana Chathurma**, a **Software Engineering (Honours)** Undergraduate at the **University of Kelaniya**.  
+I specialize in building **scalable Full-Stack Web Applications** and seamlessly integrating **AI/ML capabilities** into modern software solutions. With a strong foundation in **Java and Python**, and a keen eye for **UI/UX**, I turn complex problems into intelligent, user-centric digital experiences.
 
-💡 **AI & Robotics Enthusiast** | Building impactful solutions through ML-integrated mobile apps.
+---
+## 👤 About Me
 
-🎬 **Tech-Creative** | Passionate about blending software development with expert video editing.
+🚀 **Software Engineering Undergraduate** | University of Kelaniya (SE/2023/067).
 
-🎓 **Academic Achiever** | Consistently top-ranked student with outstanding A/L & O/L results.
+💻 **Full-Stack Developer** | Architecting responsive, high-performance web applications using modern tech stacks (MERN, React, Node.js).
 
-🌍 **Global Aspirations** | Actively seeking scholarship opportunities for further studies abroad (🇵🇪 🇬🇧 🇺🇸 🇳🇿).
+🧠 **AI & ML Integrator** | Leveraging Python, OpenCV, and Machine Learning to build intelligent, forward-thinking solutions.
 
-🤝 **Collaboration Ready** | Open to meaningful software projects and research opportunities.
+🎨 **UI/UX Enthusiast** | Passionate about crafting intuitive, visually appealing, and seamless user interfaces.
+
+🎯 **Actively Seeking Internships** | Looking for a challenging **Software Engineering Internship** to apply my technical skills, solve real-world problems, and grow within a dynamic team.
+
+🤝 **Open for Collaboration** | Always ready to contribute to impactful software projects, open-source initiatives, and research.
 ---
 
 
@@ -181,6 +190,12 @@ Always eager to **learn new technologies** and improve my skills.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## ⏱️ Weekly Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dulanachathurma&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </p>
 
 ## 📊 GitHub Stats :
