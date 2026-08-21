@@ -192,6 +192,12 @@ I specialize in building **scalable Full-Stack Web Applications** and seamlessly
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+## ⏱️ Coding Metrics
+
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Languages-Python%20%7C%20Java%20%7C%20C-blue?style=for-the-badge&logo=code&logoColor=white" alt="Languages" />
+</p>
+
 ## 📊 GitHub Stats :
 
 <p align="center">
