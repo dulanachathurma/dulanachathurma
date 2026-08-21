@@ -121,6 +121,11 @@ Always eager to **learn new technologies** and improve my skills.
 </table>
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 📊 GitHub Stats :
 
