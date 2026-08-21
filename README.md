@@ -190,7 +190,7 @@ I specialize in building **scalable Full-Stack Web Applications** and seamlessly
 
 <p align="center">
   <a href="https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8">
-    <img src="https://wakatime.com/badge/user/f3e20f11-b2d0-4443-8ac3-f774b2d759a8.svg" alt="WakaTime Stats" />
+    <img src="https://img.shields.io/badge/WakaTime-Coding%20Stats-blue?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime Stats" />
   </a>
 </p>
 
