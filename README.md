@@ -186,6 +186,13 @@ I specialize in building **scalable Full-Stack Web Applications** and seamlessly
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+## ⏱️ Weekly Coding Stats
+
+<p align="center">
+  <a href="https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8">
+    <img src="https://wakatime.com/badge/user/f3e20f11-b2d0-4443-8ac3-f774b2d759a8/project/all.svg" alt="WakaTime" />
+  </a>
+</p>
 
 ## ⏱️ Coding Metrics
 
