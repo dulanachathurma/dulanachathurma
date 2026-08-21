@@ -142,9 +142,9 @@ Always eager to **learn new technologies** and improve my skills.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/dulanachathurma">
-    <img src="https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=tokyonight&margin-w=15" alt="dulanachathurma's GitHub Trophies" />
-  </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=tokyonight&margin-w=15)](https://github.com/dulanachathurma)
+
 </div>
 
 ---
