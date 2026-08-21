@@ -189,7 +189,7 @@ I specialize in building **scalable Full-Stack Web Applications** and seamlessly
 ## ⏱️ Weekly Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dulanachathurma&theme=tokyonight&hide_border=true&layout=compact&v=2" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=f3e20f11-b2d0-4443-8ac3-f774b2d759a8&theme=tokyonight&hide_border=true&layout=compact&v=2" alt="WakaTime Stats" />
 </p>
 
 ## 📊 GitHub Stats :
