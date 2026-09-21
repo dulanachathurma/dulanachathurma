@@ -18,23 +18,21 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 200px; flex-wrap: wrap; margin-top: -20px;">
   
-  <!-- Your Personal Image (Circle) -->
   <img src="https://github.com/user-attachments/assets/255391c9-5e74-4ce2-a7d9-969c3746686e" width="220px" alt="Dulana Chathurma" style="border-radius: 50%; border: 5px solid #0A1F5E; width: 220px; height: 220px; object-fit: cover; margin-top: -50px;" />
 
-  <!-- Computer Typing Animation -->
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding Animation" />
 
 </div>
 
  <br>
-<p align="center" style="display:flex; gap:10px; align-items:center;">
+<p align="center" style="display:flex; gap:10px; align-items:center; justify-content:center;">
   <a href="mailto:dulanachathurma99@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="border-radius:50%; width:30px; height:30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.linkedin.com/in/dulana-chathurma-97748331a/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="border-radius:50%; width:30px; height:30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/dulanachathurma">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" style="border-radius:50%; width:30px; height:30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://youtube.com/@travelwithdulana?si=d-60KJbgnTILE-V8">
@@ -182,9 +180,15 @@ I specialize in building **scalable Full-Stack Web Applications** and seamlessly
 ---
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+`dulana@fedora:~$ gh telemetry --render-matrix`
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="700px"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulanachathurma&theme=radical" alt="Stats" width="400px"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&theme=matrix&hide_border=true" alt="GitHub Streak" width="500px"/>
+</div>
 
 ## ⏱️ Weekly Coding Stats
 
@@ -195,10 +199,9 @@ I specialize in building **scalable Full-Stack Web Applications** and seamlessly
 </p>
 
 
-## 📊 GitHub Stats :
+## 🗂️ Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" alt="GitHub Stats" height="160"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" height="160"/>  
 </p>
 
