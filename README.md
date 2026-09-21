@@ -202,23 +202,7 @@ I specialize in building **scalable Full-Stack Web Applications** and seamlessly
 </p>
 
 
-## 🗂️ Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" height="160"/>  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="250"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=tokyonight&margin-w=15)](https://github.com/dulanachathurma)
-
-</div>
 
 ---
 ## 🐍 Contribution Graph
