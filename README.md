@@ -18,8 +18,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 200px; flex-wrap: wrap; margin-top: -20px;">
   
+  <!-- Your Personal Image (Circle) -->
   <img src="https://github.com/user-attachments/assets/255391c9-5e74-4ce2-a7d9-969c3746686e" width="220px" alt="Dulana Chathurma" style="border-radius: 50%; border: 5px solid #0A1F5E; width: 220px; height: 220px; object-fit: cover; margin-top: -50px;" />
 
+  <!-- Computer Typing Animation -->
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding Animation" />
 
 </div>
@@ -187,7 +189,8 @@ I specialize in building **scalable Full-Stack Web Applications** and seamlessly
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulanachathurma&theme=radical" alt="Stats" width="400px"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&theme=matrix&hide_border=true" alt="GitHub Streak" width="500px"/>
+  <!-- Updated Green Neon Streak Stats matching the screenshot -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E" alt="GitHub Streak" width="500px"/>
 </div>
 
 ## ⏱️ Weekly Coding Stats
@@ -198,6 +201,24 @@ I specialize in building **scalable Full-Stack Web Applications** and seamlessly
   </a>
 </p>
 
+
+## 🗂️ Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanachathurma&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" height="160"/>  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanachathurma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="250"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=tokyonight&margin-w=15)](https://github.com/dulanachathurma)
+
+</div>
 
 ---
 ## 🐍 Contribution Graph
