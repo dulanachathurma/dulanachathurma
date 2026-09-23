@@ -146,11 +146,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E" alt="GitHub Streak" width="500px"/>
 </div>
 
-<!-- 🏆 TROPHIES & WAKATIME -->
-
+<!-- ⏱️ WAKATIME SVG BUTTON -->
 <div align="center">
   <a href="https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8">
-    <img src="https://wakatime.com/badge/user/f3e20f11-b2d0-4443-8ac3-f774b2d759a8.svg" alt="WakaTime Stats" />
+    <img src="assets/wakatime-btn.svg" width="400" alt="WakaTime Stats Button"/>
   </a>
 </div>
 
