@@ -1,1 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="800" height="250">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050914" />
+      <stop offset="100%" stop-color="#0a1429" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <style>
+      .terminal-text { font-family: 'Courier New', monospace; font-size: 13px; fill: #4ade80; }
+      .title { font-family: 'Courier New', monospace; font-size: 46px; font-weight: 900; fill: #00ffcc; filter: url(#glow); letter-spacing: 2px;}
+      .subtitle { font-family: 'Courier New', monospace; font-size: 17px; fill: #94a3b8; letter-spacing: 2px; font-weight: bold;}
+      .path { fill: #64748b; }
+      .bracket { fill: #3b82f6; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)" rx="8" />
+  <rect width="100%" height="100%" fill="none" stroke="#1e293b" stroke-width="4" rx="8" />
+
+  <!-- Mac Terminal Top Bar -->
+  <circle cx="25" cy="25" r="7" fill="#ef4444" />
+  <circle cx="45" cy="25" r="7" fill="#eab308" />
+  <circle cx="65" cy="25" r="7" fill="#22c55e" />
+  <text x="95" y="29" class="terminal-text path">dulana@macbook-air-m1: ~/portfolio</text>
+  <text x="700" y="29" class="terminal-text path">SSH: PORT 22</text>
+
+  <!-- Main Neon Text -->
+  <text x="400" y="115" class="title" text-anchor="middle">DULANA CHATHURMA</text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="155" class="subtitle" text-anchor="middle">
+    <tspan class="bracket">[ </tspan>SOFTWARE ENGINEER <tspan fill="#cbd5e1">·</tspan> AI/ML EXPLORER <tspan fill="#cbd5e1">·</tspan> UI/UX ARCHITECT<tspan class="bracket"> ]</tspan>
+  </text>
+
+  <text x="400" y="185" class="terminal-text path" text-anchor="middle">BSc (Hons) Software Engineering @ University of Kelaniya</text>
+
+  <!-- Bottom Terminal Status Bar -->
+  <text x="30" y="230" class="terminal-text">SYS_TELEMETRY: <tspan fill="#22c55e">ONLINE</tspan></text>
+  <text x="250" y="230" class="terminal-text">TARGET_SEEKING: <tspan fill="#00ffcc">2027_INTERNSHIPS</tspan></text>
+  <text x="530" y="230" class="terminal-text">ENVIRONMENT: <tspan fill="#a855f7">PRODUCTION_READY</tspan></text>
+</svg>
 
