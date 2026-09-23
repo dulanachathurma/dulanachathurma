@@ -1,3 +1,4 @@
+<!-- 🌟 HEADER SECTION 🌟 -->
 <div align="center">
   <a href="https://github.com/dulanachathurma">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F5E&height=250&section=header&text=Dulana%20Chathurma&fontSize=65&fontColor=ffffff&animation=twinkling&desc=BSc%20(Hons)%20Software%20Engineering%20@%20UoK&descSize=20&descAlignY=70&descAlign=center" width="100%" alt="Header Banner"/>
@@ -11,6 +12,7 @@
 </div>
 <br>
 
+<!-- 👨‍💻 INTRO & ANIMATION SECTION -->
 <div align="center">
   <table>
     <tr>
@@ -31,6 +33,7 @@
   </table>
 </div>
 
+<!-- 🌐 SOCIAL CONNECT -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dulana-chathurma-97748331a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dulanachathurma99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -40,6 +43,7 @@
 </p>
 <br>
 
+<!-- 🚀 TECH ARSENAL (MODERN SKILL ICONS) -->
 <h2 align="center">⚡ My Tech Arsenal</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,6 +54,7 @@
 </p>
 <br>
 
+<!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
 <div align="center">
   <table>
@@ -89,35 +94,37 @@
 </div>
 <br>
 
+<!-- 📊 GITHUB METRICS & ANALYTICS -->
 <h2 align="center">📈 Code & Activity Analytics</h2>
 <p align="center"><code>dulana@fedora:~$ gh telemetry --render-matrix</code></p>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="750px"/>
-  <br><br>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" width="370px"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E&border_radius=10" alt="GitHub Streak" width="420px"/>
-      </td>
-    </tr>
-  </table>
+</div>
+<br>
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=radical&rank_icon=github&border_radius=10)](https://github.com/dulanachathurma)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E&border_radius=10)](https://github.com/dulanachathurma)
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8">
-    <img src="https://wakatime.com/badge/user/f3e20f11-b2d0-4443-8ac3-f774b2d759a8.svg" alt="WakaTime Stats" />
-  </a>
-</p>
+<!-- 🏆 TROPHIES & WAKATIME -->
+<br>
+<div align="center">
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=radical&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+<br>
+<div align="center">
+
+[![WakaTime Stats](https://wakatime.com/badge/user/f3e20f11-b2d0-4443-8ac3-f774b2d759a8.svg)](https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8)
+
+</div>
+
+<!-- 🐍 CONTRIBUTION SNAKE -->
 <h2 align="center">🌌 Contribution Galaxy (Snake)</h2>
 <p align="center">
   <picture>
@@ -128,6 +135,7 @@
 </p>
 <br>
 
+<!-- 🌟 FOOTER -->
 <div align="center">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
   <br><br>
