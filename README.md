@@ -54,76 +54,7 @@
 
 <!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3 align="center">👁️‍🗨️ VisionScope AI</h3>
-        <p align="center"><i>Computer Vision & Feature Detection</i></p>
-        <a href="https://github.com/dulanachathurma/VisionScope-AI-Fullstack-Project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dulanachathurma&repo=VisionScope-AI-Fullstack-Project&theme=tokyonight&show_icons=true" alt="VisionScope AI"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <h3 align="center">📝 NexaTask</h3>
-        <p align="center"><i>Full-Stack MERN Application</i></p>
-        <a href="https://github.com/dulanachathurma/NexaTask">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dulanachathurma&repo=NexaTask&theme=tokyonight&show_icons=true" alt="NexaTask"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3 align="center">🖥️ Custom OS (SENG)</h3>
-        <p align="center"><i>Low-Level C & Assembly Operating System</i></p>
-        <a href="https://github.com/dulanachathurma/seng21213-os">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dulanachathurma&repo=seng21213-os&theme=tokyonight&show_icons=true" alt="Custom OS"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <h3 align="center">✨ SriSeta Platform</h3>
-        <p align="center"><i>Modern React & Tailwind UI Web Platform</i></p>
-        <a href="https://sriseta.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Website-Visit_Now-0A1F5E?style=for-the-badge&logo=vercel" alt="SriSeta Live" style="margin-top:20px; margin-bottom:20px;"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
 
---
-## 📊 GitHub Analytics
-`dulana@fedora:~$ gh telemetry --render-matrix`
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="700px"/>
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulanachathurma&theme=radical" alt="Stats" width="400px"/>
-  <br><br>
-  <!-- Updated Green Neon Streak Stats matching the screenshot -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E" alt="GitHub Streak" width="500px"/>
-</div>
-
-<!-- 🏆 TROPHIES & WAKATIME -->
-
-<div align="center">
-  <a href="https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8">
-    <img src="https://wakatime.com/badge/user/f3e20f11-b2d0-4443-8ac3-f774b2d759a8.svg" alt="WakaTime Stats" />
-  </a>
-</div>
-
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<h2 align="center">🌌 Contribution Galaxy (Snake)</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-<br>
----
-## 💻 Featured Projects
 
 <table align="center" width="100%">
   <tr>
@@ -179,6 +110,37 @@
 </table>
 
 ---
+
+--
+## 📊 GitHub Analytics
+`dulana@fedora:~$ gh telemetry --render-matrix`
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="700px"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulanachathurma&theme=radical" alt="Stats" width="400px"/>
+  <br><br>
+  <!-- Updated Green Neon Streak Stats matching the screenshot -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E" alt="GitHub Streak" width="500px"/>
+</div>
+
+<!-- 🏆 TROPHIES & WAKATIME -->
+
+<div align="center">
+  <a href="https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8">
+    <img src="https://wakatime.com/badge/user/f3e20f11-b2d0-4443-8ac3-f774b2d759a8.svg" alt="WakaTime Stats" />
+  </a>
+</div>
+
+<!-- 🐍 CONTRIBUTION SNAKE -->
+<h2 align="center">🌌 Contribution Galaxy (Snake)</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+<br>
 
 <!-- 🌟 FOOTER -->
 ## ✍️ Random Dev Quote
