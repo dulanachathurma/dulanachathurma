@@ -94,7 +94,7 @@
 
 --
 ## 📊 GitHub Analytics
-
+`dulana@fedora:~$ gh telemetry --render-matrix`
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="700px"/>
   <br><br>
@@ -105,13 +105,7 @@
 </div>
 
 <!-- 🏆 TROPHIES & WAKATIME -->
-<br>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-<br>
+
 <div align="center">
   <a href="https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8">
     <img src="https://wakatime.com/badge/user/f3e20f11-b2d0-4443-8ac3-f774b2d759a8.svg" alt="WakaTime Stats" />
