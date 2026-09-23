@@ -2,7 +2,7 @@
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="Dulana Chathurma Terminal Header"/>
 </div>
-
+<br><br>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vcenter=true&width=700&lines=Full-Stack+%26+UI%2FUX+Architect;AI+%26+Machine+Learning+Explorer;Actively+Seeking+2027+Internships;Crafting+Intelligent+Digital+Experiences" alt="Typing Title" />
