@@ -15,7 +15,23 @@
       .btn-text { font-family: 'Courier New', monospace; font-size: 14px; fill: #00ffcc; font-weight: bold; letter-spacing: 1px; filter: url(#glow); }
       .btn-sub { font-family: 'Courier New', monospace; font-size: 11px; fill: #4ade80; }
       .button-box { stroke: #38bdf8; stroke-width: 2; rx: 8; fill: url(#btn-bg); transition: 0.3s; }
-      .button-group:hover .button-box { stroke: #00ffcc; stroke-width: 3; filter: drop-shadow(0 0 8px #00ffcc); }
+      
+      /* සම්පූර්ණ ටෙක්ස්ට් සහ ඇරෝස් සඳහා ස්වයංක්‍රීයව දිලිසෙන (Auto-run) සහ ඉස්මතු වන ඇනිමේෂන් එක */
+      .anim-text-pulse { animation: textGlow 2s ease-in-out infinite; }
+      .anim-arrow-move { animation: moveArrow 1s ease-in-out infinite; display: inline-block; }
+      
+      .button-group:hover .button-box { stroke: #00ffcc; stroke-width: 3; filter: drop-shadow(0 0 12px #00ffcc); }
+      .button-group:hover .anim-text-pulse { fill: #ffffff; filter: drop-shadow(0 0 8px #00ffcc); }
+
+      @keyframes textGlow {
+        0%, 100% { opacity: 0.7; }
+        50% { opacity: 1; filter: drop-shadow(0 0 6px #00ffcc); }
+      }
+      
+      @keyframes moveArrow {
+        0%, 100% { transform: translateX(0); opacity: 0.4; }
+        50% { transform: translateX(6px); opacity: 1; color: #00ffcc; }
+      }
     </style>
   </defs>
 
@@ -23,13 +39,16 @@
     <!-- Button Background -->
     <rect x="2" y="2" width="396" height="56" class="button-box" />
     
-    <!-- Icon / Symbol -->
-    <text x="25" y="36" font-size="20">📊</text>
+    <!-- Icon -->
+    <text x="25" y="37" font-size="20">📊</text>
 
-    <!-- Main Label -->
-    <text x="65" y="28" class="btn-text">VIEW WAKATIME CODING STATS</text>
-    
-    <!-- Sub Label -->
-    <text x="65" y="44" class="btn-sub">Click to check live activity &gt;&gt;</text>
+    <!-- Animated Main & Sub Text Group -->
+    <g class="anim-text-pulse">
+      <!-- Main Label -->
+      <text x="65" y="28" class="btn-text">VIEW WAKATIME CODING STATS</text>
+      
+      <!-- Sub Label with Moving Arrows -->
+      <text x="65" y="44" class="btn-sub">Click to check live activity <tspan class="anim-arrow-move" fill="#00ffcc">&gt;&gt;</tspan></text>
+    </g>
   </g>
 </svg>
