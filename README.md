@@ -134,6 +134,7 @@
     </tr>
   </table>
 </div>
+
 ## 📊 GitHub Analytics
 `dulana@fedora:~$ gh telemetry --render-matrix`
 <div align="center">
