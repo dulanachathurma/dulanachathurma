@@ -144,5 +144,7 @@
 <div align="center">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A1F5E&height=60&section=footer&text=Turning%20Coffee%20into%20Code%20Since%202023&fontSize=16&fontColor=ffffff" width="100%"/>
+
+<div align="center">
+  <img src="assets/footer.svg" width="100%" alt="Dulana Chathurma Footer"/>
 </div>
