@@ -104,35 +104,37 @@
 <br>
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=radical&rank_icon=github&border_radius=10)](https://github.com/dulanachathurma)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E&border_radius=10)](https://github.com/dulanachathurma)
-
+  <a href="https://github.com/dulanachathurma">
+    <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/dulanachathurma">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E&border_radius=10" alt="GitHub Streak" />
+  </a>
 </div>
 
 <!-- 🏆 TROPHIES & WAKATIME -->
 <br>
 <div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=radical&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
 <br>
 <div align="center">
-
-[![WakaTime Stats](https://wakatime.com/badge/user/f3e20f11-b2d0-4443-8ac3-f774b2d759a8.svg)](https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8)
-
+  <a href="https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8">
+    <img src="https://wakatime.com/badge/user/f3e20f11-b2d0-4443-8ac3-f774b2d759a8.svg" alt="WakaTime Stats" />
+  </a>
 </div>
 
 <!-- 🐍 CONTRIBUTION SNAKE -->
 <h2 align="center">🌌 Contribution Galaxy (Snake)</h2>
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-</p>
+</div>
 <br>
 
 <!-- 🌟 FOOTER -->
