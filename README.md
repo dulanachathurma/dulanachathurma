@@ -1,4 +1,3 @@
-<!-- 🌟 HEADER SECTION 🌟 -->
 <div align="center">
   <a href="https://github.com/dulanachathurma">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F5E&height=250&section=header&text=Dulana%20Chathurma&fontSize=65&fontColor=ffffff&animation=twinkling&desc=BSc%20(Hons)%20Software%20Engineering%20@%20UoK&descSize=20&descAlignY=70&descAlign=center" width="100%" alt="Header Banner"/>
@@ -12,7 +11,6 @@
 </div>
 <br>
 
-<!-- 👨‍💻 INTRO & ANIMATION SECTION -->
 <div align="center">
   <table>
     <tr>
@@ -33,16 +31,15 @@
   </table>
 </div>
 
-<!-- 🌐 SOCIAL CONNECT -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dulana-chathurma-97748331a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dulanachathurma99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://medium.com/@dulanachathurma99"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://dulanaportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://wa.me/94767574844"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 <br>
 
-<!-- 🚀 TECH ARSENAL (MODERN SKILL ICONS) -->
 <h2 align="center">⚡ My Tech Arsenal</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -53,7 +50,6 @@
 </p>
 <br>
 
-<!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
 <div align="center">
   <table>
@@ -93,25 +89,27 @@
 </div>
 <br>
 
-<!-- 📊 GITHUB METRICS & ANALYTICS -->
 <h2 align="center">📈 Code & Activity Analytics</h2>
+<p align="center"><code>dulana@fedora:~$ gh telemetry --render-matrix</code></p>
+
 <div align="center">
-  <table border="0">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="750px"/>
+  <br><br>
+  <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" width="370px"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E&border_radius=10" alt="GitHub Streak" width="420px"/>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- 🏆 TROPHIES & WAKATIME -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dulanachathurma&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 <p align="center">
@@ -120,8 +118,7 @@
   </a>
 </p>
 
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<h2 align="center">🌌 Contribution Galaxy</h2>
+<h2 align="center">🌌 Contribution Galaxy (Snake)</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/output/github-contribution-grid-snake-dark.svg">
@@ -131,75 +128,8 @@
 </p>
 <br>
 
-<!-- ✍️ LATEST MEDIUM ARTICLES -->
-<h2 align="center">✍️ Recent Tech Writings</h2>
-<p align="center">
-  <a href="https://medium.com/@dulanachathurma99">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@dulanachathurma99/0?theme=tokyonight" alt="Medium Article 1" />
-  </a>
-</p>
----
-
-## 📊 GitHub Analytics
-
-
-
-`dulana@fedora:~$ gh telemetry --render-matrix`
-
-
-
 <div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="700px"/>
-
+  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
   <br><br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulanachathurma&theme=radical" alt="Stats" width="400px"/>
-
-  <br><br>
-
-  <!-- Updated Green Neon Streak Stats matching the screenshot -->
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E" alt="GitHub Streak" width="500px"/>
-
-</div>
-
-
-## ⏱️ Weekly Coding Stats
-
-
-
-<p align="center">
-
-  <a href="https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8">
-
-    <img src="https://img.shields.io/badge/WakaTime-Coding%20Stats-blue?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime Stats" />
-
-  </a>
-
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-</p>
-
-
-
-## ✍️ Random Dev Quote
-
-
-
-*"First, solve the problem. Then, write the code."* – John Johnson
-
-
-<!-- 🌟 FOOTER -->
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0A1F5E&height=60&section=footer&text=Turning%20Coffee%20into%20Code%20Since%202023&fontSize=16&fontColor=ffffff" width="100%"/>
 </div>
