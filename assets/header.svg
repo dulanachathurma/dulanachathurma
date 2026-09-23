@@ -17,33 +17,54 @@
       .subtitle { font-family: 'Courier New', monospace; font-size: 17px; fill: #94a3b8; letter-spacing: 2px; font-weight: bold;}
       .path { fill: #64748b; }
       .bracket { fill: #3b82f6; }
+      
+      /* Animasyon Tanımlamaları */
+      .anim-typewriter { animation: typing 1.5s steps(40, end) forwards; }
+      .anim-fade-1 { animation: fadeIn 0.8s 1s forwards; opacity: 0; }
+      .anim-fade-2 { animation: fadeIn 0.8s 1.8s forwards; opacity: 0; }
+      .anim-fade-3 { animation: fadeIn 0.8s 2.6s forwards; opacity: 0; }
+      .cursor { animation: blink 1s step-end infinite; }
+
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(5px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
     </style>
   </defs>
 
-  <!-- Background -->
+  <!-- Arka Plan -->
   <rect width="100%" height="100%" fill="url(#bg)" rx="8" />
   <rect width="100%" height="100%" fill="none" stroke="#1e293b" stroke-width="4" rx="8" />
 
-  <!-- Mac Terminal Top Bar -->
+  <!-- Mac Terminal Üst Çubuğu -->
   <circle cx="25" cy="25" r="7" fill="#ef4444" />
   <circle cx="45" cy="25" r="7" fill="#eab308" />
   <circle cx="65" cy="25" r="7" fill="#22c55e" />
-  <text x="95" y="29" class="terminal-text path">dulana@macbook-air-m1: ~/portfolio</text>
+  
+  <text x="95" y="29" class="terminal-text path">dulana@macbook-air-m1: ~/portfolio<tspan class="cursor" fill="#4ade80"> █</tspan></text>
   <text x="700" y="29" class="terminal-text path">SSH: PORT 22</text>
 
-  <!-- Main Neon Text -->
-  <text x="400" y="115" class="title" text-anchor="middle">DULANA CHATHURMA</text>
+  <!-- Ana Neon Yazı (Sırayla Belirme 1) -->
+  <g class="anim-fade-1">
+    <text x="400" y="115" class="title" text-anchor="middle">DULANA CHATHURMA</text>
+  </g>
   
-  <!-- Subtitle -->
-  <text x="400" y="155" class="subtitle" text-anchor="middle">
-    <tspan class="bracket">[ </tspan>SOFTWARE ENGINEER <tspan fill="#cbd5e1">·</tspan> AI/ML EXPLORER <tspan fill="#cbd5e1">·</tspan> UI/UX ARCHITECT<tspan class="bracket"> ]</tspan>
-  </text>
+  <!-- Alt Başlıklar (Sırayla Belirme 2) -->
+  <g class="anim-fade-2">
+    <text x="400" y="155" class="subtitle" text-anchor="middle">
+      <tspan class="bracket">[ </tspan>SOFTWARE ENGINEER <tspan fill="#cbd5e1">·</tspan> AI/ML EXPLORER <tspan fill="#cbd5e1">·</tspan> UI/UX ARCHITECT<tspan class="bracket"> ]</tspan>
+    </text>
+    <text x="400" y="185" class="terminal-text path" text-anchor="middle">BSc (Hons) Software Engineering @ University of Kelaniya</text>
+  </g>
 
-  <text x="400" y="185" class="terminal-text path" text-anchor="middle">BSc (Hons) Software Engineering @ University of Kelaniya</text>
-
-  <!-- Bottom Terminal Status Bar -->
-  <text x="30" y="230" class="terminal-text">SYS_TELEMETRY: <tspan fill="#22c55e">ONLINE</tspan></text>
-  <text x="250" y="230" class="terminal-text">TARGET_SEEKING: <tspan fill="#00ffcc">2027_INTERNSHIPS</tspan></text>
-  <text x="530" y="230" class="terminal-text">ENVIRONMENT: <tspan fill="#a855f7">PRODUCTION_READY</tspan></text>
+  <!-- Alt Terminal Durum Çubuğu (Sırayla Belirme 3) -->
+  <g class="anim-fade-3">
+    <text x="30" y="230" class="terminal-text">SYS_TELEMETRY: <tspan fill="#22c55e">ONLINE</tspan></text>
+    <text x="250" y="230" class="terminal-text">TARGET_SEEKING: <tspan fill="#00ffcc">2027_INTERNSHIPS</tspan></text>
+    <text x="530" y="230" class="terminal-text">ENVIRONMENT: <tspan fill="#a855f7">PRODUCTION_READY</tspan></text>
+  </g>
 </svg>
-
