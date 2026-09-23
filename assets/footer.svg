@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050914" />
+      <stop offset="100%" stop-color="#0a1429" />
+    </linearGradient>
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <style>
+      .footer-text { font-family: 'Courier New', monospace; font-size: 15px; fill: #00ffcc; font-weight: bold; letter-spacing: 1px; filter: url(#neon-glow); }
+      .terminal-sub { font-family: 'Courier New', monospace; font-size: 11px; fill: #4ade80; }
+      
+      /* Auto-run Infinite Animation */
+      .anim-footer { animation: pulseGlow 3s ease-in-out infinite; }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.8; }
+        50% { opacity: 1; filter: drop-shadow(0 0 8px #00ffcc); }
+      }
+    </style>
+  </defs>
+
+  <!-- Arka Plan -->
+  <rect width="100%" height="100%" fill="url(#footer-bg)" rx="8" />
+  <rect width="100%" height="100%" fill="none" stroke="#1e293b" stroke-width="3" rx="8" />
+
+  <!-- İçerik -->
+  <g class="anim-footer">
+    <!-- Alt Bilgi / Coffee to Code -->
+    <text x="400" y="45" class="footer-text" text-anchor="middle">☕ TURNING COFFEE INTO CODE SINCE 2023</text>
+
+    <!-- En Alt Terminal Bilgisi -->
+    <text x="30" y="78" class="terminal-sub">STATUS: <tspan fill="#22c55e">SECURE</tspan></text>
+    <text x="630" y="78" class="terminal-sub">BUILD: <tspan fill="#3b82f6">v2.6.4</tspan></text>
+  </g>
+</svg>
