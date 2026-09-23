@@ -54,62 +54,60 @@
 
 <!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
-
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><b> 👁️‍🗨️ VisionScope AI Fullstack</b></h3>
-      <p>AI-powered human feature detection web application with real-time webcam and image upload capabilities.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      </p>
-      <br>
-      <a href="https://github.com/dulanachathurma/VisionScope-AI-Fullstack-Project">🔗 <b>View Source Code</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><b> 📝 Task-Flow (MERN App)</b></h3>
-      <p>A modern, responsive full-stack task management web app featuring JWT authentication and priority-based sorting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <br>
-      <a href="https://github.com/dulanachathurma/Task-Flow">🔗 <b>View Source Code</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><b> ✨ SriSeta Astrology Platform</b></h3>
-      <p>A modern web platform built for a seamless, interactive user experience with smooth animations and responsive design.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-      </p>
-      <br>
-      <a href="https://sriseta.vercel.app/">🔗 <b>Visit Website</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><b> 👨‍💻 Personal Portfolio</b></h3>
-      <p>My modern personal portfolio website built to showcase my projects, skills, and experience with a clean UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </p>
-      <br>
-      <a href="https://dulanaportfolio.vercel.app">🔗 <b>Visit Website</b></a>
-    </td>
-  </tr>
-</table>
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3><b>👁️‍🗨️ VisionScope AI Fullstack</b></h3>
+        <p>AI-powered human feature detection web application with real-time webcam and image upload capabilities.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        </p>
+        <br>
+        <a href="https://github.com/dulanachathurma/VisionScope-AI-Fullstack-Project">🔗 <b>View Source Code</b></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3><b>📝 Task-Flow (MERN App)</b></h3>
+        <p>A modern, responsive full-stack task management web app featuring JWT authentication and priority-based sorting.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        </p>
+        <br>
+        <a href="https://github.com/dulanachathurma/Task-Flow">🔗 <b>View Source Code</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3><b>✨ SriSeta Astrology Platform</b></h3>
+        <p>A modern web platform built for a seamless, interactive user experience with smooth animations and responsive design.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+        </p>
+        <br>
+        <a href="https://sriseta.vercel.app/">🔗 <b>Visit Website</b></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3><b>👨‍💻 Personal Portfolio</b></h3>
+        <p>My modern personal portfolio website built to showcase my projects, skills, and experience with a clean UI.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        </p>
+        <br>
+        <a href="https://dulanaportfolio.vercel.app">🔗 <b>Visit Website</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 --
 ## 📊 GitHub Analytics
