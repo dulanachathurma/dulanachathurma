@@ -92,7 +92,8 @@
 </div>
 <br>
 
-<!-- 📊 GITHUB METRICS & ANALYTICS -->
+--
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="700px"/>
