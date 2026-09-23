@@ -93,21 +93,14 @@
 <br>
 
 <!-- 📊 GITHUB METRICS & ANALYTICS -->
-<h2 align="center">📈 Code & Activity Analytics</h2>
-<p align="center"><code>dulana@fedora:~$ gh telemetry --render-matrix</code></p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="750px"/>
-</div>
-<br>
-
-<div align="center">
-  <a href="https://github.com/dulanachathurma">
-    <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/dulanachathurma">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E&border_radius=10" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="700px"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulanachathurma&theme=radical" alt="Stats" width="400px"/>
+  <br><br>
+  <!-- Updated Green Neon Streak Stats matching the screenshot -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E" alt="GitHub Streak" width="500px"/>
 </div>
 
 <!-- 🏆 TROPHIES & WAKATIME -->
