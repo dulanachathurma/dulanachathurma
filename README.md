@@ -138,6 +138,66 @@
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@dulanachathurma99/0?theme=tokyonight" alt="Medium Article 1" />
   </a>
 </p>
+---
+
+## 📊 GitHub Analytics
+
+
+
+`dulana@fedora:~$ gh telemetry --render-matrix`
+
+
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="700px"/>
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulanachathurma&theme=radical" alt="Stats" width="400px"/>
+
+  <br><br>
+
+  <!-- Updated Green Neon Streak Stats matching the screenshot -->
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E" alt="GitHub Streak" width="500px"/>
+
+</div>
+
+
+## ⏱️ Weekly Coding Stats
+
+
+
+<p align="center">
+
+  <a href="https://wakatime.com/@f3e20f11-b2d0-4443-8ac3-f774b2d759a8">
+
+    <img src="https://img.shields.io/badge/WakaTime-Coding%20Stats-blue?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime Stats" />
+
+  </a>
+
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+</p>
+
+
+
+## ✍️ Random Dev Quote
+
+
+
+*"First, solve the problem. Then, write the code."* – John Johnson
+
 
 <!-- 🌟 FOOTER -->
 <div align="center">
