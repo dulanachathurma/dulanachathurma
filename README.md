@@ -31,13 +31,20 @@
   </table>
 </div>
 
-<!-- 🌐 SOCIAL CONNECT -->
+<!-- 🌐 SOCIAL CONNECT & RESUME -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dulana-chathurma-97748331a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dulanachathurma99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://medium.com/@dulanachathurma99"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://dulanaportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://wa.me/94767574844"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
+<!-- 📄 FEATURED RESUME / CV BUTTON -->
+<p align="center">
+  <a href="https://drive.google.com/file/d/1_hZBuY7tf6gUlifSOKuet_ROdLwLtczX/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Review_Executive_CV-0E75B6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Review CV"/>
+  </a>
 </p>
 <br>
 
