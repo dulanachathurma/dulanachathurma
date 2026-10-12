@@ -54,6 +54,7 @@
 </p>
 <br>
 
+
 <!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
 
@@ -65,158 +66,159 @@
         <h3><b>🎙️ VoxBridge AI System</b></h3>
         <p>An advanced, low-latency, real-time speech-to-speech interpreter that captures system audio from live streams and meetings. Powered by Google Gemini 2.5 Flash with dynamic VAD chunking and automatic audio ducking.</p>
         <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-          <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO"/>
-          <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/>
-          <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" />
+          <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
+          <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
         </p>
-        <br>
+        <br />
         <a href="https://github.com/dulanachathurma/Realtime-Live-Videos-Translator">🔗 <b>View Source Code</b></a>
       </td>
       <td width="50%" valign="top">
         <h3><b>🏥 HealthPulse AI — Mobile & Web Companion</b></h3>
         <p>A full-stack trilingual (English, Sinhala, and Tamil) health platform featuring real-time BMI analytics, symptom-based doctor recommendations, health vitals tracking, and persistent user profile management.</p>
         <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-          <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
         </p>
-        <br>
+        <br />
         <a href="https://github.com/dulanachathurma/Vitacare-mobile-fullstack">🔗 <b>View Source Code</b></a>
       </td>
     </tr>
 
-    <!-- Row 2: Cloud-Native Engineering & Operating Systems -->
-    <tr>
-      <td width="50%" valign="top">
-        <h3><b>🌌 AstroPulse-AIOps Observability Gateway</b></h3>
-        <p>A cloud-native integration gateway built with Ballerina and Python that uses Claude AI to analyze microservice telemetry logs and generate real-time automated Root Cause Analysis (RCA).</p>
-        <p>
-          <img src="https://img.shields.io/badge/Ballerina-20B2AA?style=flat-square&logo=ballerina&logoColor=white" alt="Ballerina"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI"/>
-          <img src="https://img.shields.io/badge/AIOps-6366F1?style=flat-square" alt="AIOps"/>
-        </p>
-        <br>
-        <a href="https://github.com/dulanachathurma/AstroPulse-AIOps">🔗 <b>View Source Code</b></a>
-      </td>
-      <td width="50%" valign="top">
-        <h3><b>💻 Bare-Metal x86 Operating System</b></h3>
-        <p>A custom-built bare-metal x86 operating system featuring a bootloader, round-robin process scheduler, multithreading, physical memory management (PMM and heap), and a RAM disk file system.</p>
-        <p>
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-          <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square" alt="Assembly"/>
-          <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square" alt="QEMU"/>
-          <img src="https://img.shields.io/badge/Systems_Programming-334155?style=flat-square" alt="Systems Programming"/>
-        </p>
-        <br>
-        <a href="https://github.com/dulanachathurma/seng21213-os">🔗 <b>View Source Code</b></a>
-      </td>
-    </tr>
+<!-- Row 2: Cloud-Native Engineering & Operating Systems -->
+<tr>
+  <td width="50%" valign="top">
+    <h3><b>🌌 AstroPulse-AIOps Observability Gateway</b></h3>
+    <p>A cloud-native integration gateway built with Ballerina and Python that uses Claude AI to analyze microservice telemetry logs and generate real-time automated Root Cause Analysis (RCA).</p>
+    <p>
+      <img src="https://img.shields.io/badge/Ballerina-20B2AA?style=flat-square&logo=ballerina&logoColor=white" alt="Ballerina" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI" />
+      <img src="https://img.shields.io/badge/AIOps-6366F1?style=flat-square" alt="AIOps" />
+    </p>
+    <br />
+    <a href="https://github.com/dulanachathurma/AstroPulse-AIOps">🔗 <b>View Source Code</b></a>
+  </td>
+  <td width="50%" valign="top">
+    <h3><b>💻 Bare-Metal x86 Operating System</b></h3>
+    <p>A custom-built bare-metal x86 operating system featuring a bootloader, round-robin process scheduler, multithreading, physical memory management (PMM and heap), and a RAM disk file system.</p>
+    <p>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square" alt="Assembly" />
+      <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square" alt="QEMU" />
+      <img src="https://img.shields.io/badge/Systems_Programming-334155?style=flat-square" alt="Systems Programming" />
+    </p>
+    <br />
+    <a href="https://github.com/dulanachathurma/seng21213-os">🔗 <b>View Source Code</b></a>
+  </td>
+</tr>
 
-    <!-- Row 3: Computer Vision & AI -->
-    <tr>
-      <td width="50%" valign="top">
-        <h3><b>🖐️ AuraTouch AI System</b></h3>
-        <p>A team-based AI computer vision system for touchless desktop navigation and mouse control through real-time hand gesture tracking. My role focused on computer vision and gesture mapping.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-          <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" alt="MediaPipe"/>
-          <img src="https://img.shields.io/badge/PyAutoGUI-333333?style=flat-square" alt="PyAutoGUI"/>
-        </p>
-        <br>
-        <a href="https://github.com/dulanachathurma/AI-Gesture-Mouse">🔗 <b>View Source Code</b></a>
-      </td>
-      <td width="50%" valign="top">
-        <h3><b>👁️ VisionScope AI Fullstack</b></h3>
-        <p>An AI-powered human feature detection web application with real-time webcam processing and image upload capabilities.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        </p>
-        <br>
-        <a href="https://github.com/dulanachathurma/VisionScope-AI-Fullstack-Project">🔗 <b>View Source Code</b></a>
-      </td>
-    </tr>
+<!-- Row 3: Computer Vision & AI -->
+<tr>
+  <td width="50%" valign="top">
+    <h3><b>🖐️ AuraTouch AI System</b></h3>
+    <p>A team-based AI computer vision system for touchless desktop navigation and mouse control through real-time hand gesture tracking. My role focused on computer vision and gesture mapping.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" alt="MediaPipe" />
+      <img src="https://img.shields.io/badge/PyAutoGUI-333333?style=flat-square" alt="PyAutoGUI" />
+    </p>
+    <br />
+    <a href="https://github.com/dulanachathurma/AI-Gesture-Mouse">🔗 <b>View Source Code</b></a>
+  </td>
+  <td width="50%" valign="top">
+    <h3><b>👁️ VisionScope AI Fullstack</b></h3>
+    <p>An AI-powered human feature detection web application with real-time webcam processing and image upload capabilities.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    </p>
+    <br />
+    <a href="https://github.com/dulanachathurma/VisionScope-AI-Fullstack-Project">🔗 <b>View Source Code</b></a>
+  </td>
+</tr>
 
-    <!-- Row 4: Full-Stack Management Systems -->
-    <tr>
-      <td width="50%" valign="top">
-        <h3><b>🚗 AutoPartsLanka — Spare Parts System</b></h3>
-        <p>A full-stack vehicle spare parts e-commerce and management system designed to streamline inventory, product catalog, and order processes.</p>
-        <p>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-        </p>
-        <br>
-        <a href="http://autopartslanka.wuaze.com/">🔗 <b>Visit Live Website</b></a>
-      </td>
-      <td width="50%" valign="top">
-        <h3><b>📝 Task-Flow — MERN App</b></h3>
-        <p>A modern, responsive full-stack task management application featuring JWT authentication and priority-based task sorting.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        </p>
-        <br>
-        <a href="https://github.com/dulanachathurma/Task-Flow">🔗 <b>View Source Code</b></a>
-      </td>
-    </tr>
+<!-- Row 4: Full-Stack Management Systems -->
+<tr>
+  <td width="50%" valign="top">
+    <h3><b>🚗 AutoPartsLanka — Spare Parts System</b></h3>
+    <p>A full-stack vehicle spare parts e-commerce and management system designed to streamline inventory, product catalog, and order processes.</p>
+    <p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </p>
+    <br />
+    <a href="http://autopartslanka.wuaze.com/">🔗 <b>Visit Live Website</b></a>
+  </td>
+  <td width="50%" valign="top">
+    <h3><b>📝 Task-Flow — MERN App</b></h3>
+    <p>A modern, responsive full-stack task management application featuring JWT authentication and priority-based task sorting.</p>
+    <p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </p>
+    <br />
+    <a href="https://github.com/dulanachathurma/Task-Flow">🔗 <b>View Source Code</b></a>
+  </td>
+</tr>
 
-    <!-- Row 5: Services & Platforms -->
-    <tr>
-      <td width="50%" valign="top">
-        <h3><b>🐾 Pet Care Management System</b></h3>
-        <p>A full-stack web application for booking and managing pet care services, including grooming, bathing, and veterinary care.</p>
-        <p>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-        </p>
-        <br>
-        <a href="https://github.com/dulanachathurma/Pet-Care-System">🔗 <b>View Source Code</b></a>
-      </td>
-      <td width="50%" valign="top">
-        <h3><b>✨ SriSeta Astrology Platform</b></h3>
-        <p>A modern astrology service platform with an interactive user experience, responsive layouts, and smooth animations.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-          <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
-        </p>
-        <br>
-        <a href="https://sriseta.vercel.app/">🔗 <b>Visit Website</b></a>
-      </td>
-    </tr>
+<!-- Row 5: Services & Platforms -->
+<tr>
+  <td width="50%" valign="top">
+    <h3><b>🐾 Pet Care Management System</b></h3>
+    <p>A full-stack web application for booking and managing pet care services, including grooming, bathing, and veterinary care.</p>
+    <p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    </p>
+    <br />
+    <a href="https://github.com/dulanachathurma/Pet-Care-System">🔗 <b>View Source Code</b></a>
+  </td>
+  <td width="50%" valign="top">
+    <h3><b>✨ SriSeta Astrology Platform</b></h3>
+    <p>A modern astrology service platform with an interactive user experience, responsive layouts, and smooth animations.</p>
+    <p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+    </p>
+    <br />
+    <a href="https://sriseta.vercel.app/">🔗 <b>Visit Website</b></a>
+  </td>
+</tr>
 
-    <!-- Row 6: Portfolio -->
-    <tr>
-      <td colspan="2" width="100%" valign="top" align="center">
-        <h3><b>👨‍💻 Personal Portfolio</b></h3>
-        <p>My personal portfolio website showcasing my software engineering projects, technical skills, and development experience through a clean, responsive interface.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-        </p>
-        <br>
-        <a href="https://dulanaportfolio.vercel.app/">🔗 <b>Visit Portfolio</b></a>
-      </td>
-    </tr>
+<!-- Row 6: Portfolio -->
+<tr>
+  <td colspan="2" width="100%" valign="top" align="center">
+    <h3><b>👨‍💻 Personal Portfolio</b></h3>
+    <p>My personal portfolio website showcasing my software engineering projects, technical skills, and development experience through a clean, responsive interface.</p>
+    <p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+    </p>
+    <br />
+    <a href="https://dulanaportfolio.vercel.app/">🔗 <b>Visit Portfolio</b></a>
+  </td>
+</tr>
   </table>
 </div>
+
 
 <!-- 📊 GITHUB ANALYTICS -->
 <h2 align="center">📊 GitHub Analytics</h2>
