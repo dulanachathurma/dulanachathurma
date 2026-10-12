@@ -1,25 +1,16 @@
 <!-- 🌟 HEADER SECTION (Auto-running Terminal SVG) 🌟 -->
-
 <div align="center">
-
   <img src="assets/header.svg" width="100%" alt="Dulana Chathurma Terminal Header"/>
 </div>
-
-
-
-
+<br><br>
 <div align="center">
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vcenter=true&width=700&lines=Full-Stack+%26+UI%2FUX+Architect;AI+%26+Machine+Learning+Explorer;Actively+Seeking+2027+Internships;Crafting+Intelligent+Digital+Experiences" alt="Typing Title" />
   </a>
 </div>
-
-
+<br>
 <!-- 👨‍💻 INTRO & ANIMATION SECTION -->
-
 <div align="center">
-
   <table>
     <tr>
       <td align="center" width="30%">
@@ -28,10 +19,8 @@
       <td align="left" width="40%">
         <h2>Hi there! 👋 I'm Dulana</h2>
         <p>I blend <b>logical problem-solving</b> with <b>aesthetic UI/UX</b> to build robust software systems. Currently mastering Full-Stack Development while diving deep into the world of AI/ML.</p>
-        <p>🎓 <b>Undergrad:</b> University of Kelaniya '29
-
-        🎯 <b>Goal:</b> 2027 SE / AI-ML Internship
-
+        <p>🎓 <b>Undergrad:</b> University of Kelaniya '29<br>
+        🎯 <b>Goal:</b> 2027 SE / AI-ML Internship<br>
         💡 <b>Philosophy:</b> "Code is poetry, logic is art."</p>
       </td>
       <td align="center" width="30%">
@@ -40,48 +29,31 @@
     </tr>
   </table>
 </div>
-
-
-
 <!-- 🌐 SOCIAL CONNECT & RESUME -->
-
 <p align="center">
-
-  <a href="https://www\.linkedin.com/in/dulana-chathurma-97748331a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/dulana-chathurma-97748331a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dulanachathurma99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://medium.com/@dulanachathurma99"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://dulanaportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://wa.me/94767574844"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
-
-
-
 <!-- 📄 FEATURED RESUME / CV BUTTON -->
-
 <p align="center">
-
   <a href="https://drive.google.com/file/d/1--UWUZTxVKQFf4ub2n1ltwg8SBU5ILQi/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_Review_Executive_CV-0E75B6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Review CV"/>
   </a>
 </p>
-
-
+<br>
 <!-- 🚀 TECH ARSENAL (MODERN SKILL ICONS) -->
-
 <h2 align="center">⚡ My Tech Arsenal</h2>
-
 <p align="center">
-
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,php,js,ts&perline=10" alt="Languages" />
-
-
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,nodejs,express,mysql,mongodb,git&perline=10" alt="Frameworks & Tools" />
-
-
+    <img src="https://skillicons.dev/icons?i=java,python,c,php,js,ts&perline=10" alt="Languages" /><br><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,nodejs,express,mysql,mongodb,git&perline=10" alt="Frameworks & Tools" /><br><br>
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,linux,figma,github,vercel&perline=10" alt="AI & DevOps" />
   </a>
 </p>
+<br>
 
 
 <!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
