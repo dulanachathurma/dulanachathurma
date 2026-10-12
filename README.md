@@ -59,7 +59,6 @@
 </p>
 <br>
 
-
 <!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
 <div align="center">
@@ -220,16 +219,20 @@
   </table>
 </div>
 
-## 📊 GitHub Analytics
-`dulana@fedora:~$ gh telemetry --render-matrix`
+<br>
+
+<!-- 📊 GITHUB ANALYTICS -->
+<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center"><code>dulana@fedora:~$ gh telemetry --render-matrix</code></p>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="700px"/>
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulanachathurma&theme=radical" alt="Stats" width="400px"/>
-  <br><br>
-  <!-- Updated Green Neon Streak Stats matching the screenshot -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E" alt="GitHub Streak" width="500px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="700px"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulanachathurma&theme=radical" alt="Stats" width="400px"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E" alt="GitHub Streak" width="500px"/>
 </div>
+<br>
 
 <!-- ⏱️ WAKATIME SVG BUTTON -->
 <div align="center">
@@ -237,6 +240,7 @@
     <img src="assets/wakatime-btn.svg" width="400" alt="WakaTime Stats Button"/>
   </a>
 </div>
+<br>
 
 <!-- 🐍 CONTRIBUTION SNAKE -->
 <h2 align="center">🌌 Contribution Galaxy (Snake)</h2>
@@ -250,11 +254,9 @@
 <br>
 
 <!-- 🌟 FOOTER -->
-## ✍️ Random Dev Quote
+<h2 align="center">✍️ Random Dev Quote</h2>
 <div align="center">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
   <br><br>
-
-<div align="center">
   <img src="assets/footer.svg" width="100%" alt="Dulana Chathurma Footer"/>
 </div>
