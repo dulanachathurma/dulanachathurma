@@ -59,8 +59,8 @@
 </p>
 <br>
 
-<!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 
+<!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
 <div align="center">
   <table>
