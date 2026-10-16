@@ -2,49 +2,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="100%">
 
   <defs>
-
     <!-- Background Gradient -->
     <linearGradient id="bg-main" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#030712" />
-      <stop offset="50%" stop-color="#07152e" />
-      <stop offset="100%" stop-color="#030a1a" />
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="50%" stop-color="#07152e"/>
+      <stop offset="100%" stop-color="#030a1a"/>
     </linearGradient>
 
     <!-- Main Title Gradient -->
     <linearGradient id="text-cyan-grad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#00ffff" />
-      <stop offset="50%" stop-color="#38bdf8" />
-      <stop offset="100%" stop-color="#0284c7" />
+      <stop offset="0%" stop-color="#00ffff"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0284c7"/>
     </linearGradient>
 
-    <!-- Glow Filter -->
+    <!-- Neon Glow -->
     <filter id="neon-glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="3" result="blur1" />
-      <feGaussianBlur stdDeviation="8" result="blur2" />
+      <feGaussianBlur stdDeviation="3" result="blur1"/>
+      <feGaussianBlur stdDeviation="8" result="blur2"/>
       <feMerge>
-        <feMergeNode in="blur2" />
-        <feMergeNode in="blur1" />
-        <feMergeNode in="SourceGraphic" />
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
+    <!-- Soft Glow -->
     <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feGaussianBlur stdDeviation="2" result="blur"/>
       <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- Left Cyber Grid Pattern -->
+    <!-- Cyber Grid -->
     <pattern id="cyber-grid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <path
-        d="M 20 0 L 0 0 0 20"
-        fill="none"
-        stroke="#0284c7"
-        stroke-width="0.6"
-        stroke-opacity="0.3"
-      />
+      <path d="M20 0 L0 0 0 20"
+            fill="none"
+            stroke="#0284c7"
+            stroke-width="0.6"
+            stroke-opacity="0.3"/>
     </pattern>
 
     <style>
@@ -52,94 +50,71 @@
         font-family: 'Fira Code', 'Courier New', Consolas, monospace;
       }
 
+      /* Main Name */
       .title-3d {
         font-family: 'Arial Black', 'Impact', sans-serif;
-        font-size: 42px;
+        font-size: 46px;
         font-weight: 900;
-        letter-spacing: 2px;
+        letter-spacing: 1.5px;
       }
 
-      /* 1. Main Title Glow Pulse */
+      /* Name Glow */
       @keyframes titlePulse {
         0%, 100% {
           filter: drop-shadow(0 0 12px rgba(0,255,255,0.6));
           opacity: 0.95;
         }
-
         50% {
           filter: drop-shadow(0 0 25px rgba(0,255,255,0.95));
           opacity: 1;
         }
       }
 
-      /* 2. HUD Ring Rotation */
+      /* HUD Rotation */
       @keyframes rotateClockwise {
-        from {
-          transform: rotate(0deg);
-        }
-
-        to {
-          transform: rotate(360deg);
-        }
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
       }
 
       @keyframes rotateCounterClockwise {
-        from {
-          transform: rotate(0deg);
-        }
-
-        to {
-          transform: rotate(-360deg);
-        }
+        from { transform: rotate(0deg); }
+        to { transform: rotate(-360deg); }
       }
 
-      /* 3. Circuit Data Flow Animation */
+      /* Circuit Flow */
       @keyframes circuitFlow {
-        0% {
-          stroke-dashoffset: 100;
-        }
-
-        100% {
-          stroke-dashoffset: 0;
-        }
+        0% { stroke-dashoffset: 100; }
+        100% { stroke-dashoffset: 0; }
       }
 
-      /* 4. Terminal Cursor Blink */
+      /* Terminal Cursor */
       @keyframes blink {
-        0%, 100% {
-          opacity: 1;
-        }
-
-        50% {
-          opacity: 0;
-        }
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
       }
 
-      /* 5. Glowing Node Pulse */
+      /* Grid Nodes */
       @keyframes nodePulse {
         0%, 100% {
           transform: scale(1);
           opacity: 0.5;
         }
-
         50% {
           transform: scale(1.6);
           opacity: 1;
         }
       }
 
-      /* 6. Fade In and Fade Out Animation */
+      /* Fade In and Fade Out */
       @keyframes fadeInOut {
         0% {
           opacity: 0;
           transform: translateY(10px);
         }
-
         20%, 80% {
           opacity: 1;
           transform: translateY(0);
         }
-
         100% {
           opacity: 0;
           transform: translateY(-10px);
@@ -174,7 +149,6 @@
         animation: nodePulse 2s ease-in-out infinite;
       }
 
-      /* Fade Animation Classes */
       .anim-fade-1 {
         animation: fadeInOut 4s ease-in-out infinite;
       }
@@ -186,414 +160,270 @@
       .anim-fade-3 {
         animation: fadeInOut 4s ease-in-out 1s infinite;
       }
-
     </style>
-
   </defs>
 
-  <!-- Canvas Background -->
-  <rect
-    width="800"
-    height="250"
-    rx="10"
-    fill="url(#bg-main)"
-    stroke="#0284c7"
-    stroke-width="1.5"
-    stroke-opacity="0.8"
-  />
+  <!-- Background -->
+  <rect width="800"
+        height="250"
+        rx="10"
+        fill="url(#bg-main)"
+        stroke="#0284c7"
+        stroke-width="1.5"
+        stroke-opacity="0.8"/>
 
-  <!-- LEFT SIDE: Cyber Grid & Animated Glowing Nodes -->
+  <!-- LEFT CYBER GRID -->
   <g opacity="0.85">
+    <rect x="2" y="2" width="220" height="246" fill="url(#cyber-grid)"/>
 
-    <rect
-      x="2"
-      y="2"
-      width="220"
-      height="246"
-      fill="url(#cyber-grid)"
-      clip-path="inset(0 0 0 0 round 8px 0 0 8px)"
-    />
+    <circle cx="80" cy="80" r="2"
+            fill="#38bdf8"
+            class="anim-node"
+            filter="url(#soft-glow)"/>
 
-    <!-- Pulsing Grid Nodes -->
-    <circle
-      cx="80"
-      cy="80"
-      r="2"
-      fill="#38bdf8"
-      class="anim-node"
-      filter="url(#soft-glow)"
-    />
+    <circle cx="140" cy="60" r="2.5"
+            fill="#00ffcc"
+            class="anim-node"
+            style="animation-delay:0.5s"
+            filter="url(#soft-glow)"/>
 
-    <circle
-      cx="140"
-      cy="60"
-      r="2.5"
-      fill="#00ffcc"
-      class="anim-node"
-      style="animation-delay: 0.5s;"
-      filter="url(#soft-glow)"
-    />
+    <circle cx="40" cy="140" r="2"
+            fill="#38bdf8"
+            class="anim-node"
+            style="animation-delay:1s"/>
 
-    <circle
-      cx="40"
-      cy="140"
-      r="2"
-      fill="#38bdf8"
-      class="anim-node"
-      style="animation-delay: 1s;"
-    />
-
-    <circle
-      cx="160"
-      cy="180"
-      r="2.5"
-      fill="#00ffcc"
-      class="anim-node"
-      style="animation-delay: 1.5s;"
-      filter="url(#soft-glow)"
-    />
-
+    <circle cx="160" cy="180" r="2.5"
+            fill="#00ffcc"
+            class="anim-node"
+            style="animation-delay:1.5s"
+            filter="url(#soft-glow)"/>
   </g>
 
-  <!-- RIGHT SIDE: Animated Circuit Stream Traces -->
-  <g
-    stroke="#00ffcc"
-    stroke-width="1.2"
-    fill="none"
-    opacity="0.7"
-    class="anim-circuit"
-  >
-    <path d="M 670 30 L 730 30 L 760 60 L 760 120" />
-
-    <path d="M 700 10 L 770 10 L 785 25 L 785 90 L 760 115 L 760 180 L 720 220" />
-
-    <path d="M 640 200 L 690 200 L 730 160 L 780 160" />
+  <!-- RIGHT CIRCUIT ANIMATION -->
+  <g stroke="#00ffcc"
+     stroke-width="1.2"
+     fill="none"
+     opacity="0.7"
+     class="anim-circuit">
+    <path d="M670 30 L730 30 L760 60 L760 120"/>
+    <path d="M700 10 L770 10 L785 25 L785 90 L760 115 L760 180 L720 220"/>
+    <path d="M640 200 L690 200 L730 160 L780 160"/>
   </g>
 
-  <!-- Circuit Static Background Base Lines -->
+  <!-- Static Circuit Lines -->
   <g stroke="#0284c7" stroke-width="1" fill="none" opacity="0.3">
+    <path d="M670 30 L730 30 L760 60 L760 120"/>
+    <path d="M700 10 L770 10 L785 25 L785 90 L760 115 L760 180 L720 220"/>
+    <path d="M640 200 L690 200 L730 160 L780 160"/>
 
-    <path d="M 670 30 L 730 30 L 760 60 L 760 120" />
-
-    <path d="M 700 10 L 770 10 L 785 25 L 785 90 L 760 115 L 760 180 L 720 220" />
-
-    <path d="M 640 200 L 690 200 L 730 160 L 780 160" />
-
-    <circle cx="760" cy="60" r="2.5" fill="#0284c7" />
-
-    <circle cx="785" cy="25" r="2.5" fill="#38bdf8" />
-
-    <circle cx="730" cy="160" r="2.5" fill="#00ffcc" />
-
+    <circle cx="760" cy="60" r="2.5" fill="#0284c7"/>
+    <circle cx="785" cy="25" r="2.5" fill="#38bdf8"/>
+    <circle cx="730" cy="160" r="2.5" fill="#00ffcc"/>
   </g>
 
-  <!-- CENTER-RIGHT: Rotating HUD Rings -->
-  <g transform="translate(570, 75)" opacity="0.35">
+  <!-- ROTATING HUD RINGS -->
+  <g transform="translate(570,75)" opacity="0.35">
+    <circle cx="0" cy="0" r="45"
+            stroke="#38bdf8"
+            stroke-width="1"
+            fill="none"
+            stroke-dasharray="8,4"
+            class="anim-rotate-cw"/>
 
-    <circle
-      cx="0"
-      cy="0"
-      r="45"
-      stroke="#38bdf8"
-      stroke-width="1"
-      fill="none"
-      stroke-dasharray="8, 4"
-      class="anim-rotate-cw"
-    />
+    <circle cx="0" cy="0" r="32"
+            stroke="#00ffcc"
+            stroke-width="1.5"
+            fill="none"
+            stroke-dasharray="16,6,3,6"
+            class="anim-rotate-ccw"/>
 
-    <circle
-      cx="0"
-      cy="0"
-      r="32"
-      stroke="#00ffcc"
-      stroke-width="1.5"
-      fill="none"
-      stroke-dasharray="16, 6, 3, 6"
-      class="anim-rotate-ccw"
-    />
-
-    <circle
-      cx="0"
-      cy="0"
-      r="20"
-      stroke="#0284c7"
-      stroke-width="0.8"
-      fill="none"
-    />
-
+    <circle cx="0" cy="0" r="20"
+            stroke="#0284c7"
+            stroke-width="0.8"
+            fill="none"/>
   </g>
 
-  <!-- TOP BAR: macOS Terminal Header -->
-  <g transform="translate(15, 12)">
+  <!-- MAC TERMINAL HEADER -->
+  <g transform="translate(15,12)">
 
-    <!-- Mac Terminal Buttons -->
-    <circle cx="10" cy="12" r="5.5" fill="#ef4444" />
+    <!-- Terminal Buttons -->
+    <circle cx="10" cy="12" r="5.5" fill="#ef4444"/>
+    <circle cx="28" cy="12" r="5.5" fill="#f59e0b"/>
+    <circle cx="46" cy="12" r="5.5" fill="#22c55e"/>
 
-    <circle cx="28" cy="12" r="5.5" fill="#f59e0b" />
-
-    <circle cx="46" cy="12" r="5.5" fill="#22c55e" />
-
-    <!-- Terminal Path & Blinking Cursor -->
-    <text
-      x="68"
-      y="16"
-      class="mono-font"
-      font-size="12"
-      font-weight="bold"
-      fill="#4ade80"
-    >
+    <!-- Terminal Path: Updated text size to 14px -->
+    <text x="68"
+          y="17"
+          class="mono-font"
+          font-size="14"
+          font-weight="bold"
+          fill="#4ade80">
       dulana@macbook-air-m1:
       <tspan fill="#38bdf8"> ~/portfolio</tspan>
       <tspan class="anim-cursor" fill="#4ade80"> █</tspan>
     </text>
 
     <!-- SSH Badge -->
-    <g transform="translate(635, 1)">
+    <g transform="translate(635,1)">
+      <rect width="120"
+            height="22"
+            rx="11"
+            fill="#071a2e"
+            stroke="#1e3a8a"
+            stroke-width="1"/>
 
-      <rect
-        width="120"
-        height="22"
-        rx="11"
-        fill="#071a2e"
-        stroke="#1e3a8a"
-        stroke-width="1"
-      />
+      <!-- Updated SSH text size to 11px -->
+      <text x="12"
+            y="15"
+            class="mono-font"
+            font-size="11"
+            fill="#94a3b8"
+            font-weight="bold">&gt;_ SSH: PORT 22</text>
 
-      <text
-        x="12"
-        y="15"
-        class="mono-font"
-        font-size="10"
-        fill="#94a3b8"
-        font-weight="bold"
-      >&gt;_ SSH: PORT 22</text>
-
-      <circle
-        cx="105"
-        cy="11"
-        r="3"
-        fill="#22c55e"
-        filter="url(#soft-glow)"
-      />
-
+      <circle cx="105" cy="11" r="3"
+              fill="#22c55e"
+              filter="url(#soft-glow)"/>
     </g>
-
   </g>
 
-  <!-- MAIN HEADING: DULANA CHATHURMA -->
-  <!-- Outer group keeps the original position -->
-  <g transform="translate(400, 118)">
+  <!-- MAIN NAME -->
+  <g transform="translate(400,118)">
+    <g class="anim-title">
+      <g class="anim-fade-1">
 
-    <!-- Inner group handles the fade animation -->
-    <g class="anim-title anim-fade-1">
+        <!-- 3D Shadow -->
+        <text x="2" y="2"
+              class="title-3d"
+              fill="#02182b"
+              text-anchor="middle">DULANA CHATHURMA</text>
 
-      <!-- 3D Shadow Layers -->
-      <text
-        x="2"
-        y="2"
-        class="title-3d"
-        fill="#02182b"
-        text-anchor="middle"
-      >DULANA CHATHURMA</text>
+        <text x="1" y="1"
+              class="title-3d"
+              fill="#0284c7"
+              text-anchor="middle">DULANA CHATHURMA</text>
 
-      <text
-        x="1"
-        y="1"
-        class="title-3d"
-        fill="#0284c7"
-        text-anchor="middle"
-      >DULANA CHATHURMA</text>
+        <!-- Neon Overlay -->
+        <text x="0" y="0"
+              class="title-3d"
+              fill="url(#text-cyan-grad)"
+              text-anchor="middle"
+              filter="url(#neon-glow)">DULANA CHATHURMA</text>
 
-      <!-- Glowing Neon Overlay -->
-      <text
-        x="0"
-        y="0"
-        class="title-3d"
-        fill="url(#text-cyan-grad)"
-        text-anchor="middle"
-        filter="url(#neon-glow)"
-      >DULANA CHATHURMA</text>
-
-      <!-- Sharp Foreground Text -->
-      <text
-        x="0"
-        y="0"
-        class="title-3d"
-        fill="#e0f2fe"
-        text-anchor="middle"
-      >DULANA CHATHURMA</text>
-
+        <!-- Foreground -->
+        <text x="0" y="0"
+              class="title-3d"
+              fill="#e0f2fe"
+              text-anchor="middle">DULANA CHATHURMA</text>
+      </g>
     </g>
-
   </g>
 
-  <!-- SUBTITLE: Specializations -->
-  <g transform="translate(400, 158)">
-
+  <!-- SUBTITLE -->
+  <g transform="translate(400,160)">
     <g class="anim-fade-2">
-
-      <text
-        x="0"
-        y="0"
-        class="mono-font"
-        font-size="14"
-        font-weight="bold"
-        text-anchor="middle"
-      >
+      <text x="0" y="0"
+            class="mono-font"
+            font-size="16"
+            font-weight="bold"
+            text-anchor="middle">
         <tspan fill="#f59e0b">[</tspan>
-
         <tspan fill="#38bdf8"> SOFTWARE ENGINEER </tspan>
-
         <tspan fill="#ffffff">•</tspan>
-
         <tspan fill="#4ade80"> AI/ML EXPLORER </tspan>
-
         <tspan fill="#ffffff">•</tspan>
-
         <tspan fill="#38bdf8"> UI/UX ARCHITECT </tspan>
-
         <tspan fill="#f59e0b">]</tspan>
       </text>
-
     </g>
-
   </g>
 
-  <!-- UNIVERSITY INFO -->
-  <g transform="translate(400, 186)">
-
+  <!-- UNIVERSITY DETAILS -->
+  <g transform="translate(400,190)">
     <g class="anim-fade-2">
-
-      <text
-        x="0"
-        y="0"
-        class="mono-font"
-        font-size="12.5"
-        fill="#cbd5e1"
-        text-anchor="middle"
-        letter-spacing="0.5"
-      >
+      <text x="0" y="0"
+            class="mono-font"
+            font-size="14"
+            fill="#cbd5e1"
+            text-anchor="middle"
+            letter-spacing="0.5">
         BSc (Hons) Software Engineering @ University of Kelaniya
       </text>
-
     </g>
-
   </g>
 
   <!-- BOTTOM STATUS BAR -->
-  <g transform="translate(0, 212)">
-
-    <!-- Outer group preserves original position -->
+  <g transform="translate(0,212)">
     <g class="anim-fade-3">
 
-      <line
-        x1="20"
-        y1="0"
-        x2="780"
-        y2="0"
-        stroke="#1e293b"
-        stroke-width="1"
-      />
+      <line x1="20" y1="0"
+            x2="780" y2="0"
+            stroke="#1e293b"
+            stroke-width="1"/>
 
       <!-- Telemetry -->
-      <g transform="translate(45, 22)">
+      <g transform="translate(45,22)">
+        <path d="M-16 -8 L-4 -8 L-4 -1 L-16 -1 Z M-12 -1 L-12 2 M-14 2 L-10 2"
+              fill="none"
+              stroke="#4ade80"
+              stroke-width="1.2"/>
 
-        <path
-          d="M -16 -8 L -4 -8 L -4 -1 L -16 -1 Z M -12 -1 L -12 2 M -14 2 L -10 2"
-          fill="none"
-          stroke="#4ade80"
-          stroke-width="1.2"
-        />
-
-        <text
-          x="2"
-          y="0"
-          class="mono-font"
-          font-size="11"
-          fill="#94a3b8"
-          font-weight="bold"
-        >
+        <text x="2" y="0"
+              class="mono-font"
+              font-size="11"
+              fill="#94a3b8"
+              font-weight="bold">
           SYS_TELEMETRY:
           <tspan fill="#4ade80">ONLINE</tspan>
         </text>
-
       </g>
 
-      <text
-        x="280"
-        y="22"
-        class="mono-font"
-        font-size="12"
-        fill="#334155"
-      >|</text>
+      <text x="280" y="22"
+            class="mono-font"
+            font-size="12"
+            fill="#334155">|</text>
 
       <!-- Target Seeking -->
-      <g transform="translate(325, 22)">
+      <g transform="translate(325,22)">
+        <circle cx="-10" cy="-4" r="5"
+                fill="none"
+                stroke="#f59e0b"
+                stroke-width="1.2"/>
 
-        <circle
-          cx="-10"
-          cy="-4"
-          r="5"
-          fill="none"
-          stroke="#f59e0b"
-          stroke-width="1.2"
-        />
+        <circle cx="-10" cy="-4" r="2" fill="#f59e0b"/>
 
-        <circle
-          cx="-10"
-          cy="-4"
-          r="2"
-          fill="#f59e0b"
-        />
-
-        <text
-          x="2"
-          y="0"
-          class="mono-font"
-          font-size="11"
-          fill="#94a3b8"
-          font-weight="bold"
-        >
-          TARGET_SEEKING:
-          <tspan fill="#f59e0b">2027_INTERNSHIPS</tspan>
+        <text x="2" y="0"
+              class="mono-font"
+              font-size="11"
+              fill="#94a3b8"
+              font-weight="bold">
+        TARGET_SEEKING:
+        <tspan fill="#f59e0b">2027_INTERNSHIPS</tspan>
         </text>
-
       </g>
 
-      <text
-        x="565"
-        y="22"
-        class="mono-font"
-        font-size="12"
-        fill="#334155"
-      >|</text>
+      <text x="565" y="22"
+            class="mono-font"
+            font-size="12"
+            fill="#334155">|</text>
 
       <!-- Environment -->
-      <g transform="translate(605, 22)">
+      <g transform="translate(605,22)">
+        <path d="M-10 -1 C-10 -6 -5 -8 0 -8 C0 -3 -2 1 -10 -1 Z"
+              fill="none"
+              stroke="#c084fc"
+              stroke-width="1.2"/>
 
-        <path
-          d="M -10 -1 C -10 -6 -5 -8 0 -8 C 0 -3 -2 1 -10 -1 Z"
-          fill="none"
-          stroke="#c084fc"
-          stroke-width="1.2"
-        />
-
-        <text
-          x="5"
-          y="0"
-          class="mono-font"
-          font-size="11"
-          fill="#94a3b8"
-          font-weight="bold"
-        >
-          ENVIRONMENT:
-          <tspan fill="#c084fc">PRODUCTION_READY</tspan>
+        <text x="5" y="0"
+              class="mono-font"
+              font-size="11"
+              fill="#94a3b8"
+              font-weight="bold">
+        ENVIRONMENT:
+        <tspan fill="#c084fc">PRODUCTION_READY</tspan>
         </text>
-
       </g>
 
     </g>
-
   </g>
 
 </svg>
