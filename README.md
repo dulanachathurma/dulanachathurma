@@ -191,14 +191,17 @@
   </td>
   <td width="50%" valign="top">
     <h3><b>✨ SriSeta Astrology Platform</b></h3>
-    <p>A modern astrology service platform with an interactive user experience, responsive layouts, and smooth animations.</p>
+    <p>A full-stack, AI-powered digital astrology platform featuring real-time Sinhala horoscope generation via Google Gemini, automated web scraping, JWT authentication, and seamless consultation booking.</p>
     <p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini AI" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
     </p>
     <br />
-    <a href="https://sriseta.vercel.app/">🔗 <b>Visit Website</b></a>
+    <a href="https://sriseta.vercel.app/">🔗 <b>Live Demo</b></a> | 
+    <a href="https://github.com/dulanachathurma/sriseta-astrology-platform">💻 <b>Repository</b></a>
   </td>
 </tr>
 
