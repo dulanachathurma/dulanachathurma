@@ -54,6 +54,37 @@
 </p>
 <br>
 
+<!-- 🌐 OPEN SOURCE CONTRIBUTIONS -->
+<h2 align="center">🌐 Open Source Contributions</h2>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/wso2/apim-apps/pull/1437">
+          <img src="https://img.shields.io/badge/WSO2-apim--apps-orange?style=for-the-badge&logo=wso2" alt="WSO2 APIM" />
+        </a>
+        <img src="https://img.shields.io/badge/PR-%231437-blue?style=for-the-badge&logo=git" alt="PR #1437" />
+        <img src="https://img.shields.io/badge/Status-Under_Review-yellow?style=for-the-badge" alt="Status" />
+        <img src="https://img.shields.io/badge/CodeRabbit-Approved-brightgreen?style=for-the-badge&logo=probot" alt="CodeRabbit Approved" />
+        <img src="https://img.shields.io/badge/SonarCloud-Quality_Gate_Passed-brightgreen?style=for-the-badge&logo=sonarcloud" alt="SonarCloud Passed" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <br>
+        <strong><a href="https://github.com/wso2/apim-apps/pull/1437">WSO2 API Manager Portals | PR #1437: Fix scope listing and utils</a></strong>
+        <ul>
+          <li><strong>Publisher Portal Optimization:</strong> Refactored scopes pagination in <code>Listing.jsx</code> to respect configured <code>maxScopeCount</code> dynamically instead of hardcoded limits.</li>
+          <li><strong>Utility Robustness & Safety:</strong> Improved <code>getTypeToDisplay</code> in Shared <code>Utils.js</code> with null-safety and case-insensitive normalization matching <code>getBasePath</code> standards.</li>
+          <li><strong>Comprehensive Unit Testing:</strong> Authored extensive Jest test suites for Publisher's <code>Utils.js</code> and Devportal's <code>EndpointUtils.js</code> with parameterized testing (<code>test.each</code>).</li>
+          <li><strong>Code Quality & Compliance:</strong> Passed all automated security/quality checks including SonarCloud Quality Gate, Signed WSO2 CLA, and received approval from CodeRabbit AI.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
 
 <!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
