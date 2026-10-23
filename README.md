@@ -59,8 +59,32 @@
 
 <div align="center">
   <table width="100%">
+    <!-- 1. LeetCode Solutions Contribution -->
     <tr>
       <td align="center">
+        <a href="https://github.com/doocs/leetcode/pull/6231">
+          <img src="https://img.shields.io/badge/LeetCode-doocs--leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Repo" />
+        </a>
+        <img src="https://img.shields.io/badge/PR-%236231-blue?style=for-the-badge&logo=git" alt="PR #6231" />
+        <img src="https://img.shields.io/badge/Status-Merged-purple?style=for-the-badge" alt="Status Merged" />
+        <img src="https://img.shields.io/badge/Rank-%2322_Contributor-brightgreen?style=for-the-badge" alt="Rank #22 Contributor" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <br>
+        <strong><a href="https://github.com/doocs/leetcode/pull/6231">LeetCode Solutions Repository | PR #6231: JavaScript Solution for Trapping Rain Water</a></strong>
+        <ul>
+          <li><strong>Algorithm Optimization:</strong> Contributed an efficient JavaScript solution for Problem 0042 (Trapping Rain Water) using Dynamic Programming.</li>
+          <li><strong>Community Recognition:</strong> Ranked as the <strong>#22 Contributor</strong> in the official global repository (36k+ ⭐).</li>
+          <li><strong>Quality Standards:</strong> Successfully passed all automated code formatters, static analysis checks, and reviewer validations.</li>
+        </ul>
+      </td>
+    </tr>
+    <!-- 2. WSO2 APIM Contribution -->
+    <tr>
+      <td align="center">
+        <br>
         <a href="https://github.com/wso2/apim-apps/pull/1437">
           <img src="https://img.shields.io/badge/WSO2-apim--apps-orange?style=for-the-badge&logo=wso2" alt="WSO2 APIM" />
         </a>
