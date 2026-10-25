@@ -39,7 +39,7 @@
 
 <!-- 📄 FEATURED RESUME / CV BUTTON -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/1r81PDA89ySIqsszUrGF8hMf4DFLlckjR/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/📄_Review_Executive_CV-0E75B6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Review CV"/></a>
+  <a href="https://drive.google.com/file/d/1BPyrl1BXHU6l4yY95TftYWWUito5xGVD/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/📄_Review_Executive_CV-0E75B6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Review CV"/></a>
 </p>
 <br>
 
