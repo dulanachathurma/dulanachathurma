@@ -43,6 +43,26 @@
 </p>
 <br>
 
+<!-- 🎓 CERTIFICATIONS & SPECIALIZATIONS -->
+<h2 align="center">📜 Verified Certifications</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100%">
+        <h3><b>🎓 CS50x: Introduction to Computer Science</b> — Harvard University</h3>
+        <p>Demonstrated mastery over core Computer Science fundamentals, algorithms, memory management, data structures, SQL databases, and full-stack web applications.</p>
+        <p>
+          <a href="https://cs50.harvard.edu/certificates/87a1555a-8309-4d27-b21c-8bb26f881e10">
+            <img src="https://img.shields.io/badge/CS50x-Harvard_Verified_Certificate-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50x Certificate"/>
+          </a>
+          <img src="https://img.shields.io/badge/Grade-100%25_Completed-brightgreen?style=for-the-badge&logo=check50" alt="Completed"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+
 <!-- 🚀 TECH ARSENAL (MODERN SKILL ICONS) -->
 <h2 align="center">⚡ My Tech Arsenal</h2>
 <p align="center">
@@ -202,8 +222,20 @@
   </td>
 </tr>
 
-<!-- Row 4: Full-Stack Management Systems -->
+<!-- Row 4: Full-Stack Management Systems & CS50 Capstone -->
 <tr>
+  <td width="50%" valign="top">
+    <h3><b>⚡ My-CRUD-App (CS50x Capstone)</b></h3>
+    <p>A full-stack dynamic CRUD web application built to fulfill the CS50x Final Project requirement, featuring complete RESTful resource routing, state synchronization, and clean database logic.</p>
+    <p>
+      <img src="https://img.shields.io/badge/CS50x-Final_Project-A51C30?style=flat-square&logo=harvard&logoColor=white" alt="CS50x" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    </p>
+    <br />
+    <a href="https://github.com/dulanachathurma/My-Crud-App">🔗 <b>View Source Code</b></a>
+  </td>
   <td width="50%" valign="top">
     <h3><b>🚗 AutoPartsLanka — Spare Parts System</b></h3>
     <p>A full-stack vehicle spare parts e-commerce and management system designed to streamline inventory, product catalog, and order processes.</p>
@@ -216,6 +248,10 @@
     <br />
     <a href="http://autopartslanka.wuaze.com/">🔗 <b>Visit Live Website</b></a>
   </td>
+</tr>
+
+<!-- Row 5: Services & Platforms -->
+<tr>
   <td width="50%" valign="top">
     <h3><b>📝 Task-Flow — MERN App</b></h3>
     <p>A modern, responsive full-stack task management application featuring JWT authentication and priority-based task sorting.</p>
@@ -228,9 +264,22 @@
     <br />
     <a href="https://github.com/dulanachathurma/Task-Flow">🔗 <b>View Source Code</b></a>
   </td>
+  <td width="50%" valign="top">
+    <h3><b>✨ SriSeta Astrology Platform</b></h3>
+    <p>A full-stack, AI-powered digital astrology platform featuring real-time Sinhala horoscope generation via Google Gemini, automated web scraping, JWT authentication, and seamless consultation booking.</p>
+    <p>
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini AI" />
+    </p>
+    <br />
+    <a href="https://sriseta.vercel.app/">🔗 <b>Live Demo</b></a> | 
+    <a href="https://github.com/dulanachathurma/sriseta-astrology-platform">💻 <b>Repository</b></a>
+  </td>
 </tr>
 
-<!-- Row 5: Services & Platforms -->
+<!-- Row 6: Services & Personal Portfolio -->
 <tr>
   <td width="50%" valign="top">
     <h3><b>🐾 Pet Care Management System</b></h3>
@@ -245,24 +294,6 @@
     <a href="https://github.com/dulanachathurma/Pet-Care-System">🔗 <b>View Source Code</b></a>
   </td>
   <td width="50%" valign="top">
-    <h3><b>✨ SriSeta Astrology Platform</b></h3>
-    <p>A full-stack, AI-powered digital astrology platform featuring real-time Sinhala horoscope generation via Google Gemini, automated web scraping, JWT authentication, and seamless consultation booking.</p>
-    <p>
-      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini AI" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    </p>
-    <br />
-    <a href="https://sriseta.vercel.app/">🔗 <b>Live Demo</b></a> | 
-    <a href="https://github.com/dulanachathurma/sriseta-astrology-platform">💻 <b>Repository</b></a>
-  </td>
-</tr>
-
-<!-- Row 6: Portfolio -->
-<tr>
-  <td colspan="2" width="100%" valign="top" align="center">
     <h3><b>👨‍💻 Personal Portfolio</b></h3>
     <p>My personal portfolio website showcasing my software engineering projects, technical skills, and development experience through a clean, responsive interface.</p>
     <p>
@@ -276,7 +307,6 @@
 </tr>
   </table>
 </div>
-
 
 <!-- 📊 GITHUB ANALYTICS -->
 <h2 align="center">📊 GitHub Analytics</h2>
