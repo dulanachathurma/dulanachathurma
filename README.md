@@ -52,10 +52,13 @@
         <h3><b>🎓 CS50x: Introduction to Computer Science</b> — Harvard University</h3>
         <p>Demonstrated mastery over core Computer Science fundamentals, algorithms, memory management, data structures, SQL databases, and full-stack web applications.</p>
         <p>
-          <a href="https://cs50.harvard.edu/certificates/87a1555a-8309-4d27-b21c-8bb26f881e10">
+          <a href="https://cs50.harvard.edu/certificates/87a1555a-8309-4d27-b21c-8bb26f881e10" target="_blank">
             <img src="https://img.shields.io/badge/CS50x-Harvard_Verified_Certificate-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50x Certificate"/>
           </a>
           <img src="https://img.shields.io/badge/Grade-100%25_Completed-brightgreen?style=for-the-badge&logo=check50" alt="Completed"/>
+          <a href="https://github.com/me50/dulanachathurma/tree/cs50/problems/2026/x/project" target="_blank">
+            <img src="https://img.shields.io/badge/Repository-CS50_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="CS50 Repository"/>
+          </a>
         </p>
       </td>
     </tr>
