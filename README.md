@@ -113,7 +113,7 @@
 <h4 align="center">🧰 Tools & IDEs</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,postman,figma,linux,apple,vercel" alt="Tools & IDEs" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,figma,apple,linux,aws,vercel" alt="Tools & IDEs" />
   </a>
 </p>
 <!-- 🌐 OPEN SOURCE CONTRIBUTIONS -->
