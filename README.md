@@ -110,6 +110,12 @@
   <img src="https://img.shields.io/badge/TENSORFLOW%20%26%20PYTORCH-DEEP%20LEARNING-592E00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=592E00&color=F78104" alt="TensorFlow & PyTorch" />
 </p>
 
+<h4 align="center">🧰 Tools & IDEs</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,postman,figma,linux,apple,vercel" alt="Tools & IDEs" />
+  </a>
+</p>
 <!-- 🌐 OPEN SOURCE CONTRIBUTIONS -->
 <h2 align="center">🌐 Open Source Contributions</h2>
 
