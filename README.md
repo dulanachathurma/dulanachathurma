@@ -66,16 +66,49 @@
 </div>
 <br>
 
-<!-- 🚀 TECH ARSENAL (MODERN SKILL ICONS) -->
-<h2 align="center">⚡ My Tech Arsenal</h2>
+<!-- 🚀 TECH ARSENAL (CATEGORIZED & CENTERED) -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h4 align="center">💻 Languages</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,php,js,ts&perline=10" alt="Languages"/></a>
-  <br><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,nodejs,express,mysql,mongodb,git&perline=10" alt="Frameworks & Tools"/></a>
-  <br><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,linux,figma,github,vercel&perline=10" alt="AI & DevOps"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,java,kotlin,js,ts,php,html,css" alt="Languages" />
+  </a>
 </p>
-<br>
+
+<h4 align="center">📱 Mobile Development</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java" alt="Mobile Development" />
+  </a>
+  <br>
+  <sub>Built native Android apps with <b>Kotlin</b>, <b>Jetpack Compose</b>, and <b>Java</b>.</sub>
+</p>
+
+<h4 align="center">🌐 Web Development</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,php" alt="Web Development" />
+  </a>
+</p>
+
+<h4 align="center">🗄️ Databases & Backend</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,ktor,nodejs,express,php" alt="Databases & Backend" />
+  </a>
+</p>
+
+<h4 align="center">🤖 AI & Computer Vision</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/OPENCV-COMPUTER%20VISION-592E00?style=for-the-badge&logo=opencv&logoColor=white&labelColor=592E00&color=F78104" alt="OpenCV" />
+  <br>
+  <img src="https://img.shields.io/badge/MEDIAPIPE-HAND%20%26%20GESTURE%20TRACKING-592E00?style=for-the-badge&logo=google&logoColor=white&labelColor=592E00&color=F78104" alt="MediaPipe" />
+  <br>
+  <img src="https://img.shields.io/badge/GEMINI%20AI-LLM%20INTEGRATION-592E00?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=592E00&color=F78104" alt="Gemini AI" />
+  <br>
+  <img src="https://img.shields.io/badge/TENSORFLOW%20%26%20PYTORCH-DEEP%20LEARNING-592E00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=592E00&color=F78104" alt="TensorFlow & PyTorch" />
+</p>
 
 <!-- 🌐 OPEN SOURCE CONTRIBUTIONS -->
 <h2 align="center">🌐 Open Source Contributions</h2>
