@@ -117,6 +117,7 @@
   </a>
 </p>
 
+
 <!-- 🌐 OPEN SOURCE CONTRIBUTIONS -->
 <h2 align="center">🌐 Open Source Contributions</h2>
 
@@ -217,6 +218,7 @@
   </table>
 </div>
 <br>
+
 
 <!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
