@@ -116,6 +116,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,figma,apple,linux,aws,vercel" alt="Tools & IDEs" />
   </a>
 </p>
+
 <!-- 🌐 OPEN SOURCE CONTRIBUTIONS -->
 <h2 align="center">🌐 Open Source Contributions</h2>
 
@@ -165,6 +166,31 @@
           <li><strong>Utility Robustness & Safety:</strong> Improved <code>getTypeToDisplay</code> in Shared <code>Utils.js</code> with null-safety and case-insensitive normalization matching <code>getBasePath</code> standards.</li>
           <li><strong>Comprehensive Unit Testing:</strong> Authored extensive Jest test suites for Publisher's <code>Utils.js</code> and Devportal's <code>EndpointUtils.js</code> with parameterized testing (<code>test.each</code>).</li>
           <li><strong>Code Quality & Compliance:</strong> Passed all automated security/quality checks including SonarCloud Quality Gate, Signed WSO2 CLA, and received approval from CodeRabbit AI.</li>
+        </ul>
+      </td>
+    </tr>
+    <!-- 3. CNCF OpenChoreo Contribution -->
+    <tr>
+      <td align="center">
+        <br>
+        <a href="https://github.com/openchoreo/openchoreo/pull/5430">
+          <img src="https://img.shields.io/badge/CNCF-openchoreo-00ADD8?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" alt="OpenChoreo Repo" />
+        </a>
+        <img src="https://img.shields.io/badge/PR-%235430-blue?style=for-the-badge&logo=git" alt="PR #5430" />
+        <img src="https://img.shields.io/badge/Status-Under_Review-yellow?style=for-the-badge" alt="Status Under Review" />
+        <img src="https://img.shields.io/badge/CodeRabbit-Review_Completed-brightgreen?style=for-the-badge&logo=probot" alt="CodeRabbit Completed" />
+        <img src="https://img.shields.io/badge/DCO-Passed-brightgreen?style=for-the-badge" alt="DCO Passed" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <br>
+        <strong><a href="https://github.com/openchoreo/openchoreo/pull/5430">CNCF OpenChoreo | PR #5430: Add stdin and dry-run support to occ apply</a></strong>
+        <ul>
+          <li><strong>CLI Stdin Streaming:</strong> Implemented standard input (<code>-f -</code>) streaming support for <code>occ apply</code>, enabling Unix piping of Kubernetes manifests from tools like Helm and Kustomize.</li>
+          <li><strong>Dry-Run Preview Execution:</strong> Introduced the <code>--dry-run</code> flag to validate manifests and simulate create/update operations against the Control Plane without mutating cluster state.</li>
+          <li><strong>Comprehensive Test Suite:</strong> Authored extensive Go unit tests covering multi-document stdin streams, empty input validation, and dry-run create/update execution paths.</li>
+          <li><strong>CNCF & DCO Standards:</strong> Fully signed-off under the Developer Certificate of Origin (DCO), strictly followed Conventional Commits, and passed all automated PR validation and linting checks.</li>
         </ul>
       </td>
     </tr>
