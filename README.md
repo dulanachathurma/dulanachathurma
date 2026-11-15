@@ -122,9 +122,80 @@
 
 <div align="center">
   <table width="100%">
-    <!-- 1. LeetCode Solutions Contribution -->
+
+    <!-- 1. CNCF / WSO2 OpenChoreo -->
     <tr>
       <td align="center">
+        <a href="https://github.com/openchoreo/openchoreo/pull/5430">
+          <img src="https://img.shields.io/badge/CNCF-openchoreo-00ADD8?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" alt="OpenChoreo" />
+        </a>
+        <img src="https://img.shields.io/badge/PR-%235430-blue?style=for-the-badge&logo=git" alt="PR #5430" />
+        <img src="https://img.shields.io/badge/Status-Under_Review-yellow?style=for-the-badge" alt="Status" />
+        <img src="https://img.shields.io/badge/CodeRabbit-Review_Passed-brightgreen?style=for-the-badge&logo=probot" alt="CodeRabbit Passed" />
+        <img src="https://img.shields.io/badge/DCO-Signed_Off-brightgreen?style=for-the-badge" alt="DCO Passed" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/openchoreo/openchoreo/pull/5430">CNCF OpenChoreo | PR #5430: Add Stdin and Dry-Run Support to occ apply</a></strong>
+        <ul>
+          <li><strong>CLI Stdin Streaming:</strong> Added standard input (<code>-f -</code>) piping to <code>occ apply</code> for seamless Unix workflows with Helm and Kustomize.</li>
+          <li><strong>Dry-Run Preview:</strong> Implemented <code>--dry-run</code> to validate manifests and simulate create/update operations without cluster mutations.</li>
+          <li><strong>Testing & Standards:</strong> Built extensive Go unit test suites with mocks; fully signed off under CNCF DCO and Conventional Commits.</li>
+        </ul>
+      </td>
+    </tr>
+
+    <!-- 2. WSO2 API Manager -->
+    <tr>
+      <td align="center">
+        <br>
+        <a href="https://github.com/wso2/apim-apps/pull/1437">
+          <img src="https://img.shields.io/badge/WSO2-apim--apps-FF7300?style=for-the-badge&logo=wso2&logoColor=white" alt="WSO2 APIM" />
+        </a>
+        <img src="https://img.shields.io/badge/PR-%231437-blue?style=for-the-badge&logo=git" alt="PR #1437" />
+        <img src="https://img.shields.io/badge/Status-Under_Review-yellow?style=for-the-badge" alt="Status" />
+        <img src="https://img.shields.io/badge/CodeRabbit-Approved-brightgreen?style=for-the-badge&logo=probot" alt="CodeRabbit Approved" />
+        <img src="https://img.shields.io/badge/SonarCloud-Passed-brightgreen?style=for-the-badge&logo=sonarcloud" alt="SonarCloud Passed" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/wso2/apim-apps/pull/1437">WSO2 API Manager Portals | PR #1437: Fix Scope Listing and Shared Utils</a></strong>
+        <ul>
+          <li><strong>Portal Optimization:</strong> Refactored Publisher Portal pagination to dynamically adhere to configured <code>maxScopeCount</code> limits.</li>
+          <li><strong>Utility Normalization:</strong> Added null-safety and case-insensitive string parsing to <code>getTypeToDisplay</code> in shared utilities.</li>
+          <li><strong>Unit Testing & QA:</strong> Added comprehensive Jest test suites with parameterized test tables; passed SonarCloud Quality Gate.</li>
+        </ul>
+      </td>
+    </tr>
+
+    <!-- 3. Ballerina Platform (WSO2) -->
+    <tr>
+      <td align="center">
+        <br>
+        <a href="https://github.com/ballerina-platform/ballerina-dev-website/pull/10487">
+          <img src="https://img.shields.io/badge/WSO2-ballerina--platform-20B6B0?style=for-the-badge&logo=ballerina&logoColor=white" alt="Ballerina Platform" />
+        </a>
+        <img src="https://img.shields.io/badge/PR-%2310487-blue?style=for-the-badge&logo=git" alt="PR #10487" />
+        <img src="https://img.shields.io/badge/Status-Under_Review-yellow?style=for-the-badge" alt="Status" />
+        <img src="https://img.shields.io/badge/Ecosystem-WSO2-orange?style=for-the-badge" alt="WSO2 Ecosystem" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/ballerina-platform/ballerina-dev-website/pull/10487">Ballerina Platform | PR #10487: Improve Documentation and Templates</a></strong>
+        <ul>
+          <li><strong>Developer Experience:</strong> Refined community documentation, issue templates, and development guides for the official Ballerina ecosystem.</li>
+          <li><strong>Open Source Governance:</strong> Aligned contribution workflows with WSO2 open-source best practices and community standards.</li>
+        </ul>
+      </td>
+    </tr>
+
+    <!-- 4. LeetCode Solutions -->
+    <tr>
+      <td align="center">
+        <br>
         <a href="https://github.com/doocs/leetcode/pull/6231">
           <img src="https://img.shields.io/badge/LeetCode-doocs--leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Repo" />
         </a>
@@ -135,65 +206,14 @@
     </tr>
     <tr>
       <td>
-        <br>
-        <strong><a href="https://github.com/doocs/leetcode/pull/6231">LeetCode Solutions Repository | PR #6231: JavaScript Solution for Trapping Rain Water</a></strong>
+        <strong><a href="https://github.com/doocs/leetcode/pull/6231">LeetCode Solutions | PR #6231: Dynamic Programming Solution for Hard 0042</a></strong>
         <ul>
-          <li><strong>Algorithm Optimization:</strong> Contributed an efficient JavaScript solution for Problem 0042 (Trapping Rain Water) using Dynamic Programming.</li>
-          <li><strong>Community Recognition:</strong> Ranked as the <strong>#22 Contributor</strong> in the official global repository (36k+ ⭐).</li>
-          <li><strong>Quality Standards:</strong> Successfully passed all automated code formatters, static analysis checks, and reviewer validations.</li>
+          <li><strong>Algorithm Optimization:</strong> Authored an optimal JavaScript solution for Trapping Rain Water (Problem 0042) using DP.</li>
+          <li><strong>Community Recognition:</strong> Ranked as the <strong>#22 Contributor</strong> globally in an open-source repository with 36k+ ⭐.</li>
         </ul>
       </td>
     </tr>
-    <!-- 2. WSO2 APIM Contribution -->
-    <tr>
-      <td align="center">
-        <br>
-        <a href="https://github.com/wso2/apim-apps/pull/1437">
-          <img src="https://img.shields.io/badge/WSO2-apim--apps-orange?style=for-the-badge&logo=wso2" alt="WSO2 APIM" />
-        </a>
-        <img src="https://img.shields.io/badge/PR-%231437-blue?style=for-the-badge&logo=git" alt="PR #1437" />
-        <img src="https://img.shields.io/badge/Status-Under_Review-yellow?style=for-the-badge" alt="Status" />
-        <img src="https://img.shields.io/badge/CodeRabbit-Approved-brightgreen?style=for-the-badge&logo=probot" alt="CodeRabbit Approved" />
-        <img src="https://img.shields.io/badge/SonarCloud-Quality_Gate_Passed-brightgreen?style=for-the-badge&logo=sonarcloud" alt="SonarCloud Passed" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <br>
-        <strong><a href="https://github.com/wso2/apim-apps/pull/1437">WSO2 API Manager Portals | PR #1437: Fix scope listing and utils</a></strong>
-        <ul>
-          <li><strong>Publisher Portal Optimization:</strong> Refactored scopes pagination in <code>Listing.jsx</code> to respect configured <code>maxScopeCount</code> dynamically instead of hardcoded limits.</li>
-          <li><strong>Utility Robustness & Safety:</strong> Improved <code>getTypeToDisplay</code> in Shared <code>Utils.js</code> with null-safety and case-insensitive normalization matching <code>getBasePath</code> standards.</li>
-          <li><strong>Comprehensive Unit Testing:</strong> Authored extensive Jest test suites for Publisher's <code>Utils.js</code> and Devportal's <code>EndpointUtils.js</code> with parameterized testing (<code>test.each</code>).</li>
-          <li><strong>Code Quality & Compliance:</strong> Passed all automated security/quality checks including SonarCloud Quality Gate, Signed WSO2 CLA, and received approval from CodeRabbit AI.</li>
-        </ul>
-      </td>
-    </tr>
-    <!-- 3. CNCF OpenChoreo Contribution -->
-    <tr>
-      <td align="center">
-        <br>
-        <a href="https://github.com/openchoreo/openchoreo/pull/5430">
-          <img src="https://img.shields.io/badge/CNCF-openchoreo-00ADD8?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" alt="OpenChoreo Repo" />
-        </a>
-        <img src="https://img.shields.io/badge/PR-%235430-blue?style=for-the-badge&logo=git" alt="PR #5430" />
-        <img src="https://img.shields.io/badge/Status-Under_Review-yellow?style=for-the-badge" alt="Status Under Review" />
-        <img src="https://img.shields.io/badge/CodeRabbit-Review_Completed-brightgreen?style=for-the-badge&logo=probot" alt="CodeRabbit Completed" />
-        <img src="https://img.shields.io/badge/DCO-Passed-brightgreen?style=for-the-badge" alt="DCO Passed" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <br>
-        <strong><a href="https://github.com/openchoreo/openchoreo/pull/5430">CNCF OpenChoreo | PR #5430: Add stdin and dry-run support to occ apply</a></strong>
-        <ul>
-          <li><strong>CLI Stdin Streaming:</strong> Implemented standard input (<code>-f -</code>) streaming support for <code>occ apply</code>, enabling Unix piping of Kubernetes manifests from tools like Helm and Kustomize.</li>
-          <li><strong>Dry-Run Preview Execution:</strong> Introduced the <code>--dry-run</code> flag to validate manifests and simulate create/update operations against the Control Plane without mutating cluster state.</li>
-          <li><strong>Comprehensive Test Suite:</strong> Authored extensive Go unit tests covering multi-document stdin streams, empty input validation, and dry-run create/update execution paths.</li>
-          <li><strong>CNCF & DCO Standards:</strong> Fully signed-off under the Developer Certificate of Origin (DCO), strictly followed Conventional Commits, and passed all automated PR validation and linting checks.</li>
-        </ul>
-      </td>
-    </tr>
+
   </table>
 </div>
 <br>
