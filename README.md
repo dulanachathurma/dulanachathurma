@@ -145,7 +145,32 @@
         </ul>
       </td>
     </tr>
-    <!-- 2. WSO2 APIM Contribution -->
+    <!-- 2. WSO2 Oxygen UI AI Contribution -->
+    <tr>
+      <td align="center">
+        <br>
+        <a href="https://github.com/wso2/oxygen-ui/pull/704">
+          <img src="https://img.shields.io/badge/WSO2-oxygen--ui-FF7300?style=for-the-badge&logo=wso2" alt="WSO2 Oxygen UI" />
+        </a>
+        <img src="https://img.shields.io/badge/PR-%23704-blue?style=for-the-badge&logo=git" alt="PR #704" />
+        <img src="https://img.shields.io/badge/Status-Under_Review-yellow?style=for-the-badge" alt="Status Under Review" />
+        <img src="https://img.shields.io/badge/CLA-Signed-brightgreen?style=for-the-badge" alt="CLA Signed" />
+        <img src="https://img.shields.io/badge/Accessibility-WCAG_2.1_AA-success?style=for-the-badge" alt="WCAG AA" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <br>
+        <strong><a href="https://github.com/wso2/oxygen-ui/pull/704">WSO2 Oxygen UI Design System | PR #704: Introduce enterprise AIAssistant and Copilot component suite</a></strong>
+        <ul>
+          <li><strong>Enterprise AI Copilot Suite:</strong> Architected and implemented the brand-new <code>AIAssistant</code> compound component suite (<code>Header</code>, <code>Messages</code>, <code>Thought</code>, <code>Suggestions</code>, <code>PromptInput</code>, <code>Trigger</code>) supporting <code>drawer</code>, <code>floating</code>, and <code>inline</code> modes for WSO2 cloud consoles (Choreo, Asgardeo).</li>
+          <li><strong>Reasoning Transparency & Code Formatting:</strong> Integrated collapsible chain-of-thought ("Thinking...") disclosures, syntax-highlighted code blocks with one-click copy, reference citation badges, and multi-model selector menus.</li>
+          <li><strong>Accessibility & Quality:</strong> Fully compliant with WCAG 2.1 AA standards featuring screen reader live announcements (<code>role="status"</code>, <code>aria-live="polite"</code>) and keyboard shortcuts (<code>Enter</code> / <code>Shift+Enter</code>).</li>
+          <li><strong>Comprehensive Verification:</strong> Authored extensive Vitest unit tests, accessibility regression tests, interactive Storybook demo stories, and automated Changeset release configuration.</li>
+        </ul>
+      </td>
+    </tr>
+    <!-- 3. WSO2 APIM Contribution -->
     <tr>
       <td align="center">
         <br>
@@ -170,7 +195,7 @@
         </ul>
       </td>
     </tr>
-    <!-- 3. CNCF OpenChoreo Contribution -->
+    <!-- 4. CNCF OpenChoreo Contribution -->
     <tr>
       <td align="center">
         <br>
@@ -195,7 +220,7 @@
         </ul>
       </td>
     </tr>
-    <!-- 4. Ballerina Platform Contribution -->
+    <!-- 5. Ballerina Platform Contribution -->
     <tr>
       <td align="center">
         <br>
