@@ -13,7 +13,7 @@ import urllib.request
 import urllib.error
 from pathlib import Path
 
-# Tracked upstream PRs (author: dulanachathurma)
+# Tracked Upstream Open-Source PRs
 TRACKED_PRS = [
     {"repo": "wso2/oxygen-ui", "number": 704, "title": "AIAssistant & Copilot Suite"},
     {"repo": "wso2/apim-apps", "number": 1437, "title": "Scope Pagination & Hardened Utilities"},
@@ -21,6 +21,14 @@ TRACKED_PRS = [
     {"repo": "openchoreo/openchoreo", "number": 5430, "title": "CLI stdin streaming & dry-run"},
     {"repo": "doocs/leetcode", "number": 6231, "title": "Trapping Rain Water Solution"},
 ]
+
+# Upstream Open-Source Organizations to include when auto-discovering PRs
+TRACKED_ORGS = {
+    "wso2",
+    "openchoreo",
+    "ballerina-platform",
+    "doocs",
+}
 
 GITHUB_USERNAME = "dulanachathurma"
 ROOT_DIR = Path(__file__).resolve().parent.parent
@@ -71,6 +79,12 @@ def search_upstream_prs(username: str, token: str | None = None) -> list[dict]:
         for item in data["items"]:
             repo_url = item.get("repository_url", "")
             repo_name = "/".join(repo_url.split("/")[-2:])
+            org = repo_name.split("/")[0].lower() if "/" in repo_name else ""
+            
+            # Only include upstream PRs from tracked open-source organizations
+            if org not in TRACKED_ORGS:
+                continue
+
             pull_data = item.get("pull_request", {})
             is_merged = pull_data.get("merged_at") is not None
             prs.append({
@@ -104,7 +118,7 @@ def calculate_metrics(token: str | None = None) -> tuple[int, int, int]:
             else:
                 in_review_count += 1
 
-    # 2. Check search API to discover additional upstream PRs
+    # 2. Check search API to discover additional upstream PRs in tracked orgs
     discovered_prs = search_upstream_prs(GITHUB_USERNAME, token)
     for pr in discovered_prs:
         key = (pr["repo"], pr["number"])
@@ -155,9 +169,10 @@ def update_svg(svg_file: Path, total: int, merged: int, in_review: int) -> bool:
 def main():
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
     print(f"--- Upstream Telemetry Dashboard Updater ---")
-    print(f"Target user: {GITHUB_USERNAME}")
-    print(f"Target SVG : {SVG_PATH}")
-    print(f"Auth token : {'Provided' if token else 'None (unauthenticated)'}")
+    print(f"Target user : {GITHUB_USERNAME}")
+    print(f"Target SVG  : {SVG_PATH}")
+    print(f"Tracked Orgs: {', '.join(sorted(TRACKED_ORGS))}")
+    print(f"Auth token  : {'Provided' if token else 'None (unauthenticated)'}")
 
     total, merged, in_review = calculate_metrics(token)
     print(f"Computed metrics -> Total: {total:02d} | Merged: {merged} | In Review: {in_review}")
