@@ -125,6 +125,8 @@
 <h2 align="center">🚀 Open-Source Engineering & Upstream Contributions</h2>
 
 <div align="center">
+  <code>root@fedora:~# journalctl -u oss-contributions.service --no-pager</code>
+  <br /><br />
   <img src="https://github.com/dulanachathurma/dulanachathurma/blob/main/assets/oss-dashboard.svg?raw=true" alt="Open Source Telemetry Dashboard" width="100%" />
 </div>
 

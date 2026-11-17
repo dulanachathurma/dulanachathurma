@@ -1,195 +1,205 @@
 <svg width="850" height="215" viewBox="0 0 850 215" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0D1117" />
-      <stop offset="50%" stop-color="#131926" />
-      <stop offset="100%" stop-color="#0B0F19" />
+      <stop offset="0%" stop-color="#050914" />
+      <stop offset="50%" stop-color="#091326" />
+      <stop offset="100%" stop-color="#040711" />
     </linearGradient>
     <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FF7300" />
-      <stop offset="50%" stop-color="#00ADD8" />
-      <stop offset="100%" stop-color="#20B6B0" />
+      <stop offset="50%" stop-color="#00D2FF" />
+      <stop offset="100%" stop-color="#3B82F6" />
     </linearGradient>
     <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF7300" stop-opacity="0" />
-      <stop offset="50%" stop-color="#00ADD8" stop-opacity="1" />
-      <stop offset="100%" stop-color="#20B6B0" stop-opacity="0" />
+      <stop offset="0%" stop-color="#00D2FF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="1" />
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0" />
     </linearGradient>
     <linearGradient id="cardGlow" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.9" />
+      <stop offset="0%" stop-color="#0C1B3A" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#060E22" stop-opacity="0.95" />
     </linearGradient>
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
   </defs>
 
   <!-- Main Frame -->
-  <rect x="2" y="2" width="846" height="211" rx="12" fill="url(#bgGrad)" stroke="#30363D" stroke-width="1.5" />
+  <rect x="2" y="2" width="846" height="211" rx="12" fill="url(#bgGrad)" stroke="#1E293B" stroke-width="1.5" />
   
+  <!-- Cyberpunk Corner Brackets -->
+  <path d="M 8 22 L 8 8 L 22 8" stroke="#00E5FF" stroke-width="2" fill="none" opacity="0.9" />
+  <path d="M 842 22 L 842 8 L 828 8" stroke="#00E5FF" stroke-width="2" fill="none" opacity="0.9" />
+  <path d="M 8 193 L 8 207 L 22 207" stroke="#00E5FF" stroke-width="2" fill="none" opacity="0.9" />
+  <path d="M 842 193 L 842 207 L 828 207" stroke="#00E5FF" stroke-width="2" fill="none" opacity="0.9" />
+
   <!-- Header Bar -->
-  <path d="M 14 2 L 836 2 Q 848 2 848 14 L 848 34 L 2 34 L 2 14 Q 2 2 14 2 Z" fill="#161B22" />
-  <rect x="2" y="33" width="846" height="1.5" fill="url(#accentGrad)" opacity="0.4" />
+  <path d="M 14 2 L 836 2 Q 848 2 848 14 L 848 34 L 2 34 L 2 14 Q 2 2 14 2 Z" fill="#0B142D" />
+  <rect x="2" y="33" width="846" height="1.5" fill="url(#accentGrad)" opacity="0.5" />
   
   <!-- Live Scanning Beam on Top Border -->
   <rect x="2" y="32.5" width="220" height="2.5" fill="url(#scanGrad)">
-    <animate attributeName="x" from="-220" to="850" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="x" from="-220" to="850" dur="2.8s" repeatCount="indefinite" />
   </rect>
 
   <!-- Window Dots -->
   <circle cx="22" cy="18" r="5" fill="#FF5F56" />
   <circle cx="38" cy="18" r="5" fill="#FFBD2E" />
-  <circle cx="54" cy="18" r="5" fill="#27C93F">
+  <circle cx="54" cy="18" r="5" fill="#00E5FF">
     <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" />
   </circle>
 
-  <text x="74" y="22" fill="#E6EDF3" font-family="monospace" font-size="11.5" font-weight="bold" letter-spacing="0.8">
-    CONTROL-PLANE // UPSTREAM OPEN-SOURCE TELEMETRY
+  <text x="74" y="22" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.8">
+    <tspan fill="#FF7300">WSO2</tspan> <tspan fill="#7DD3FC">&amp;</tspan> <tspan fill="#00E5FF">CNCF</tspan> <tspan fill="#7DD3FC">OPEN-SOURCE CONTRIBUTIONS // UPSTREAM VERIFIED</tspan>
   </text>
 
-  <!-- Live Status Indicator Pill -->
-  <rect x="635" y="9" width="195" height="18" rx="4" fill="#FF7300" fill-opacity="0.15" stroke="#FF7300" stroke-width="0.8" />
-  <circle cx="648" cy="18" r="3.5" fill="#3FB950">
+  <!-- Live Status Indicator Pill (Neon Blue + WSO2 Orange Accent) -->
+  <rect x="645" y="9" width="185" height="18" rx="4" fill="#0284C7" fill-opacity="0.2" stroke="#00E5FF" stroke-width="0.8" />
+  <circle cx="658" cy="18" r="3.5" fill="#00E5FF">
     <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite" />
   </circle>
-  <circle cx="648" cy="18" r="3.5" fill="none" stroke="#3FB950" stroke-width="1">
+  <circle cx="658" cy="18" r="3.5" fill="none" stroke="#00E5FF" stroke-width="1">
     <animate attributeName="r" from="3.5" to="7" dur="1.2s" repeatCount="indefinite" />
     <animate attributeName="opacity" from="0.8" to="0" dur="1.2s" repeatCount="indefinite" />
   </circle>
-  <text x="738" y="21" text-anchor="middle" fill="#FF8C2E" font-family="monospace" font-size="10" font-weight="bold">
-    LIVE: WSO2 + CNCF + OSS
+  <text x="745" y="21" text-anchor="middle" font-family="monospace" font-size="9.5" font-weight="bold">
+    ECOSYSTEM: <tspan fill="#FF7300">WSO2</tspan> <tspan fill="#38BDF8">&amp;</tspan> <tspan fill="#00E5FF">CNCF</tspan>
   </text>
 
-  <!-- Left Metric Box with Breathing Border -->
-  <rect x="18" y="48" width="215" height="148" rx="8" fill="url(#cardGlow)" stroke="#FF7300" stroke-width="1.2">
-    <animate attributeName="stroke-opacity" values="0.3;0.95;0.3" dur="2.6s" repeatCount="indefinite" />
+  <!-- Left Metric Box with Neon Blue Breathing Border -->
+  <rect x="18" y="48" width="215" height="148" rx="8" fill="url(#cardGlow)" stroke="#00E5FF" stroke-width="1.2">
+    <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="2.5s" repeatCount="indefinite" />
   </rect>
   
-  <text x="125" y="98" text-anchor="middle" fill="#FF7300" font-family="sans-serif" font-size="46" font-weight="800">14</text>
-  <text x="125" y="118" text-anchor="middle" fill="#F8FAFC" font-family="monospace" font-size="10.5" font-weight="bold" letter-spacing="0.5">
+  <!-- Glowing Metric Number -->
+  <text x="125" y="98" text-anchor="middle" fill="#00E5FF" font-family="sans-serif" font-size="46" font-weight="800" filter="url(#neonGlow)">14</text>
+  <text x="125" y="118" text-anchor="middle" fill="#E0F2FE" font-family="monospace" font-size="10.5" font-weight="bold" letter-spacing="0.5">
     TOTAL PRs
   </text>
 
-  <!-- Breakdown Pill -->
-  <rect x="36" y="128" width="178" height="20" rx="4" fill="#238636" fill-opacity="0.2" stroke="#2EA043" stroke-width="0.8" />
-  <text x="125" y="141" text-anchor="middle" fill="#3FB950" font-family="monospace" font-size="9.5" font-weight="bold">
+  <!-- Breakdown Pill (Neon Blue / Cyan) -->
+  <rect x="36" y="128" width="178" height="20" rx="4" fill="#0284C7" fill-opacity="0.25" stroke="#38BDF8" stroke-width="0.9" />
+  <text x="125" y="141" text-anchor="middle" fill="#38BDF8" font-family="monospace" font-size="9.5" font-weight="bold">
     10 MERGED | 4 IN REVIEW
   </text>
 
-  <text x="125" y="162" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="9">
+  <text x="125" y="162" text-anchor="middle" fill="#7DD3FC" font-family="monospace" font-size="9">
     CLA AND DCO VERIFIED
   </text>
 
-  <!-- Mini Telemetry Equalizer Activity Stream -->
-  <g opacity="0.85">
-    <rect x="79" y="178" width="3" height="8" rx="1.5" fill="#FF7300">
+  <!-- Mini Telemetry Equalizer Activity Stream (Neon Blue Palette) -->
+  <g opacity="0.9">
+    <rect x="79" y="178" width="3" height="8" rx="1.5" fill="#00E5FF">
       <animate attributeName="height" values="4;10;5;9;4" dur="1.4s" repeatCount="indefinite" />
       <animate attributeName="y" values="182;176;181;177;182" dur="1.4s" repeatCount="indefinite" />
     </rect>
-    <rect x="86" y="176" width="3" height="10" rx="1.5" fill="#FF8C2E">
+    <rect x="86" y="176" width="3" height="10" rx="1.5" fill="#38BDF8">
       <animate attributeName="height" values="10;4;12;6;10" dur="1.2s" repeatCount="indefinite" />
       <animate attributeName="y" values="176;182;174;180;176" dur="1.2s" repeatCount="indefinite" />
     </rect>
-    <rect x="93" y="180" width="3" height="6" rx="1.5" fill="#00ADD8">
+    <rect x="93" y="180" width="3" height="6" rx="1.5" fill="#60A5FA">
       <animate attributeName="height" values="5;13;7;11;5" dur="1.5s" repeatCount="indefinite" />
       <animate attributeName="y" values="181;173;179;175;181" dur="1.5s" repeatCount="indefinite" />
     </rect>
-    <rect x="100" y="174" width="3" height="12" rx="1.5" fill="#20B6B0">
+    <rect x="100" y="174" width="3" height="12" rx="1.5" fill="#93C5FD">
       <animate attributeName="height" values="12;6;14;5;12" dur="1.3s" repeatCount="indefinite" />
       <animate attributeName="y" values="174;180;172;181;174" dur="1.3s" repeatCount="indefinite" />
     </rect>
-    <rect x="107" y="179" width="3" height="7" rx="1.5" fill="#3FB950">
+    <rect x="107" y="179" width="3" height="7" rx="1.5" fill="#00D2FF">
       <animate attributeName="height" values="6;11;4;13;6" dur="1.6s" repeatCount="indefinite" />
       <animate attributeName="y" values="180;175;182;173;180" dur="1.6s" repeatCount="indefinite" />
     </rect>
-    <text x="142" y="183" text-anchor="middle" fill="#6E7681" font-family="monospace" font-size="8.5" letter-spacing="0.5">
+    <text x="142" y="183" text-anchor="middle" fill="#7DD3FC" font-family="monospace" font-size="8.5" letter-spacing="0.5">
       STREAM ACTIVE
     </text>
   </g>
 
   <!-- Middle Column: Active Upstream Repositories with Radar Pulse -->
   <text x="252" y="63" fill="#38BDF8" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">
-    ACTIVE UPSTREAM REPOSITORIES
+    REPOSITORIES &amp; PLATFORMS
   </text>
   
-  <!-- Repo 1: WSO2 [IN REVIEW] -->
+  <!-- Repo 1: WSO2 [IN REVIEW] - WSO2 Brand Orange (#FF7300) -->
   <circle cx="260" cy="84" r="3.5" fill="#FF7300" />
   <circle cx="260" cy="84" r="3.5" fill="none" stroke="#FF7300" stroke-width="1.2">
     <animate attributeName="r" from="3.5" to="9" dur="2s" repeatCount="indefinite" />
     <animate attributeName="opacity" from="0.9" to="0" dur="2s" repeatCount="indefinite" />
   </circle>
-  <rect x="274" y="76" width="66" height="16" rx="3.5" fill="#FF7300" fill-opacity="0.18" stroke="#FF7300" stroke-width="0.8">
+  <rect x="274" y="76" width="64" height="16" rx="3.5" fill="#FF7300" fill-opacity="0.18" stroke="#FF7300" stroke-width="0.8">
     <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite" />
   </rect>
-  <circle cx="282" cy="84" r="2.5" fill="#FF8C2E">
+  <circle cx="282" cy="84" r="2.5" fill="#FF7300">
     <animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite" />
   </circle>
-  <text x="312" y="87.5" text-anchor="middle" fill="#FFA657" font-family="monospace" font-size="9" font-weight="bold">REVIEW</text>
-  <text x="348" y="88" fill="#E6EDF3" font-family="monospace" font-size="11" font-weight="bold">wso2/oxygen-ui + apim</text>
-  <text x="274" y="103" fill="#8B949E" font-family="monospace" font-size="9.5">
-    10 MERGED | 4 IN REVIEW
+  <text x="311" y="87.5" text-anchor="middle" fill="#FFA657" font-family="monospace" font-size="9" font-weight="bold">REVIEW</text>
+  <text x="345" y="88" font-family="monospace" font-size="10.5" font-weight="bold">
+    <tspan fill="#FF7300">wso2</tspan><tspan fill="#F0F9FF">/oxygen-ui + apim-apps</tspan>
   </text>
+  <text x="274" y="103" fill="#94A3B8" font-family="monospace" font-size="9.5">AI Copilot Suite | API Portal Utils</text>
 
   <!-- Repo 2: CNCF OpenChoreo [IN REVIEW] -->
-  <circle cx="260" cy="123" r="3.5" fill="#00ADD8" />
-  <circle cx="260" cy="123" r="3.5" fill="none" stroke="#00ADD8" stroke-width="1.2">
+  <circle cx="260" cy="123" r="3.5" fill="#60A5FA" />
+  <circle cx="260" cy="123" r="3.5" fill="none" stroke="#60A5FA" stroke-width="1.2">
     <animate attributeName="r" from="3.5" to="9" dur="2s" begin="0.6s" repeatCount="indefinite" />
     <animate attributeName="opacity" from="0.9" to="0" dur="2s" begin="0.6s" repeatCount="indefinite" />
   </circle>
-  <rect x="274" y="115" width="66" height="16" rx="3.5" fill="#00ADD8" fill-opacity="0.18" stroke="#00ADD8" stroke-width="0.8">
+  <rect x="274" y="115" width="64" height="16" rx="3.5" fill="#1D4ED8" fill-opacity="0.25" stroke="#60A5FA" stroke-width="0.8">
     <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" begin="0.6s" repeatCount="indefinite" />
   </rect>
-  <circle cx="282" cy="123" r="2.5" fill="#00ADD8">
+  <circle cx="282" cy="123" r="2.5" fill="#60A5FA">
     <animate attributeName="opacity" values="1;0.3;1" dur="1.4s" begin="0.6s" repeatCount="indefinite" />
   </circle>
-  <text x="312" y="126.5" text-anchor="middle" fill="#56D4DD" font-family="monospace" font-size="9" font-weight="bold">REVIEW</text>
-  <text x="348" y="127" fill="#E6EDF3" font-family="monospace" font-size="11" font-weight="bold">openchoreo (CNCF CLI)</text>
-  <text x="274" y="142" fill="#8B949E" font-family="monospace" font-size="9.5">
-    10 MERGED | 4 IN REVIEW
-  </text>
+  <text x="311" y="126.5" text-anchor="middle" fill="#93C5FD" font-family="monospace" font-size="9" font-weight="bold">REVIEW</text>
+  <text x="345" y="127" fill="#F0F9FF" font-family="monospace" font-size="10.5" font-weight="bold">openchoreo/openchoreo (CNCF)</text>
+  <text x="274" y="142" fill="#94A3B8" font-family="monospace" font-size="9.5">Go CLI | Stdin &amp; Dry-Run Engine</text>
 
   <!-- Repo 3: Doocs LeetCode [MERGED] & Ballerina -->
-  <circle cx="260" cy="162" r="3.5" fill="#20B6B0" />
-  <circle cx="260" cy="162" r="3.5" fill="none" stroke="#20B6B0" stroke-width="1.2">
+  <circle cx="260" cy="162" r="3.5" fill="#00E5FF" />
+  <circle cx="260" cy="162" r="3.5" fill="none" stroke="#00E5FF" stroke-width="1.2">
     <animate attributeName="r" from="3.5" to="9" dur="2s" begin="1.2s" repeatCount="indefinite" />
     <animate attributeName="opacity" from="0.9" to="0" dur="2s" begin="1.2s" repeatCount="indefinite" />
   </circle>
-  <rect x="274" y="154" width="66" height="16" rx="3.5" fill="#238636" fill-opacity="0.22" stroke="#2EA043" stroke-width="0.8">
+  <rect x="274" y="154" width="64" height="16" rx="3.5" fill="#0284C7" fill-opacity="0.3" stroke="#00E5FF" stroke-width="0.8">
     <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" begin="1.2s" repeatCount="indefinite" />
   </rect>
-  <circle cx="282" cy="162" r="2.5" fill="#3FB950">
+  <circle cx="282" cy="162" r="2.5" fill="#00E5FF">
     <animate attributeName="opacity" values="1;0.3;1" dur="1.4s" begin="1.2s" repeatCount="indefinite" />
   </circle>
-  <text x="312" y="165.5" text-anchor="middle" fill="#3FB950" font-family="monospace" font-size="9" font-weight="bold">MERGED</text>
-  <text x="348" y="166" fill="#E6EDF3" font-family="monospace" font-size="11" font-weight="bold">doocs/leetcode (36k+ ⭐)</text>
-  <text x="274" y="181" fill="#8B949E" font-family="monospace" font-size="9.5">
-    10 MERGED | 4 IN REVIEW
-  </text>
+  <text x="311" y="165.5" text-anchor="middle" fill="#00E5FF" font-family="monospace" font-size="9" font-weight="bold">MERGED</text>
+  <text x="345" y="166" fill="#F0F9FF" font-family="monospace" font-size="10.5" font-weight="bold">doocs/leetcode (36k+ ⭐)</text>
+  <text x="274" y="181" fill="#94A3B8" font-family="monospace" font-size="9.5">#22 Contributor · Ballerina [Review]</text>
 
   <!-- Divider -->
-  <line x1="538" y1="50" x2="538" y2="195" stroke="#30363D" stroke-width="1" stroke-dasharray="3 3" />
+  <line x1="538" y1="50" x2="538" y2="195" stroke="#1E293B" stroke-width="1" stroke-dasharray="3 3" />
 
-  <!-- Right Column: Engineering Domains -->
+  <!-- Right Column: Technical Domains & Impact -->
   <text x="556" y="63" fill="#38BDF8" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">
-    ENGINEERING AND QUALITY DOMAINS
+    TECHNICAL DOMAINS &amp; IMPACT
   </text>
 
-  <rect x="556" y="75" width="132" height="26" rx="5" fill="#161B22" stroke="#FF7300" stroke-width="0.9" />
-  <text x="622" y="92" text-anchor="middle" fill="#FFA657" font-family="monospace" font-size="10" font-weight="bold">React / TypeScript</text>
+  <rect x="556" y="75" width="132" height="26" rx="5" fill="#0A1329" stroke="#38BDF8" stroke-width="0.9" />
+  <text x="622" y="92" text-anchor="middle" fill="#7DD3FC" font-family="monospace" font-size="10" font-weight="bold">React / TypeScript</text>
 
-  <rect x="696" y="75" width="134" height="26" rx="5" fill="#161B22" stroke="#00ADD8" stroke-width="0.9" />
-  <text x="763" y="92" text-anchor="middle" fill="#56D4DD" font-family="monospace" font-size="10" font-weight="bold">Golang CLI / K8s</text>
+  <rect x="696" y="75" width="134" height="26" rx="5" fill="#0A1329" stroke="#00D2FF" stroke-width="0.9" />
+  <text x="763" y="92" text-anchor="middle" fill="#38BDF8" font-family="monospace" font-size="10" font-weight="bold">Golang CLI / K8s</text>
 
-  <rect x="556" y="110" width="132" height="26" rx="5" fill="#161B22" stroke="#A371F7" stroke-width="0.9" />
-  <text x="622" y="127" text-anchor="middle" fill="#D2A8FF" font-family="monospace" font-size="10" font-weight="bold">Enterprise AI UI</text>
+  <rect x="556" y="110" width="132" height="26" rx="5" fill="#0A1329" stroke="#60A5FA" stroke-width="0.9" />
+  <text x="622" y="127" text-anchor="middle" fill="#93C5FD" font-family="monospace" font-size="10" font-weight="bold">Enterprise AI UI</text>
 
-  <rect x="696" y="110" width="134" height="26" rx="5" fill="#161B22" stroke="#3FB950" stroke-width="0.9" />
-  <text x="763" y="127" text-anchor="middle" fill="#7EE787" font-family="monospace" font-size="10" font-weight="bold">WCAG 2.1 AA</text>
+  <rect x="696" y="110" width="134" height="26" rx="5" fill="#0A1329" stroke="#00E5FF" stroke-width="0.9" />
+  <text x="763" y="127" text-anchor="middle" fill="#00E5FF" font-family="monospace" font-size="10" font-weight="bold">WCAG 2.1 AA</text>
 
-  <rect x="556" y="145" width="132" height="26" rx="5" fill="#161B22" stroke="#F778BA" stroke-width="0.9" />
-  <text x="622" y="162" text-anchor="middle" fill="#FF9BCE" font-family="monospace" font-size="10" font-weight="bold">Vitest / Jest / Go</text>
+  <rect x="556" y="145" width="132" height="26" rx="5" fill="#0A1329" stroke="#818CF8" stroke-width="0.9" />
+  <text x="622" y="162" text-anchor="middle" fill="#A5B4FC" font-family="monospace" font-size="10" font-weight="bold">Vitest / Jest / Go</text>
 
-  <rect x="696" y="145" width="134" height="26" rx="5" fill="#161B22" stroke="#20B6B0" stroke-width="0.9" />
-  <text x="763" y="162" text-anchor="middle" fill="#56D4DD" font-family="monospace" font-size="10" font-weight="bold">SonarCloud + CI</text>
+  <rect x="696" y="145" width="134" height="26" rx="5" fill="#0A1329" stroke="#38BDF8" stroke-width="0.9" />
+  <text x="763" y="162" text-anchor="middle" fill="#7DD3FC" font-family="monospace" font-size="10" font-weight="bold">SonarCloud + CI</text>
   
-  <text x="693" y="189" text-anchor="middle" fill="#6E7681" font-family="monospace" font-size="9.5">
-    10 MERGED | 4 IN REVIEW
+  <text x="693" y="189" text-anchor="middle" fill="#64748B" font-family="monospace" font-size="9.5">
+    PRODUCTION-GRADE TESTING AND GOVERNANCE
   </text>
 </svg>

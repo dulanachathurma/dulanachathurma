@@ -80,9 +80,9 @@ def update_svg(svg_file: Path, total: int, merged: int, in_review: int) -> bool:
     pattern_count = r'(<text\s+x="125"[^>]*font-size="46"[^>]*>)[^<]*(</text>)'
     new_content, count_subs = re.subn(pattern_count, rf"\g<1>{total_str}\g<2>", content, count=1)
 
-    # Regex 2: Status breakdown in breakdown pill (x="125" and fill="#3FB950")
+    # Regex 2: Status breakdown in breakdown pill (x="125" and font-size="9.5")
     pattern_status = (
-        r'(<text\s+x="125"[^>]*fill="#3FB950"[^>]*>)\s*[^<]*\s*(</text>)'
+        r'(<text\s+x="125"[^>]*font-size="9.5"[^>]*>)\s*[^<]*\s*(</text>)'
     )
     new_content, status_subs = re.subn(pattern_status, rf"\g<1>\n    {breakdown_str}\n  \g<2>", new_content, count=1)
 
