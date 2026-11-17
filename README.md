@@ -138,7 +138,7 @@ STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA/D
 </pre>
 
 <ul>
-  <li><b>[UPSTREAM] WSO2</b> — 3 active contributions across <code>wso2/oxygen-ui</code>, <code>wso2/apim-apps</code> &amp; <code>ballerina-platform</code>
+  <li><b>[UPSTREAM]</b> $\color{#FF7300}{\textsf{\textbf{WSO2}}}$ — 3 active contributions across <code>wso2/oxygen-ui</code>, <code>wso2/apim-apps</code> &amp; <code>ballerina-platform</code>
     <ul>
       <li>├─ <a href="https://github.com/wso2/oxygen-ui/pull/704"><b>[PR #704]</b></a> Architected enterprise <code>AIAssistant</code> &amp; Copilot component suite (WCAG 2.1 AA, Vitest, Storybook) → <code>wso2/oxygen-ui#704</code></li>
       <li>├─ <a href="https://github.com/wso2/apim-apps/pull/1437"><b>[PR #1437]</b></a> Refactored dynamic scope pagination &amp; hardened utility null-safety with Jest suites → <code>wso2/apim-apps#1437</code></li>
@@ -146,13 +146,13 @@ STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA/D
     </ul>
   </li>
   <br>
-  <li><b>[UPSTREAM] CNCF OpenChoreo</b> — Cloud-native internal developer platform CLI
+  <li><b>[UPSTREAM]</b> $\color{#00ADD8}{\textsf{\textbf{CNCF OpenChoreo}}}$ — Cloud-native internal developer platform CLI
     <ul>
       <li>└─ <a href="https://github.com/openchoreo/openchoreo/pull/5430"><b>[PR #5430]</b></a> Implemented <code>stdin</code> (<code>-f -</code>) streaming &amp; <code>--dry-run</code> validation for <code>occ apply</code> in Go → <code>openchoreo#5430</code></li>
     </ul>
   </li>
   <br>
-  <li><b>[MERGED] Doocs LeetCode (36k+ ⭐)</b> — Ranked <b>#22 Global Contributor</b>
+  <li><b>[MERGED]</b> $\color{#FFA116}{\textsf{\textbf{Doocs LeetCode}}}$ <b>(36k+ ⭐)</b> — Ranked <b>#22 Global Contributor</b>
     <ul>
       <li>└─ <a href="https://github.com/doocs/leetcode/pull/6231"><b>[PR #6231]</b></a> Optimal O(n) Dynamic Programming solution for Trapping Rain Water → <code>doocs/leetcode#6231</code></li>
     </ul>
