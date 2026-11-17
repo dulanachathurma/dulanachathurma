@@ -117,6 +117,10 @@
   </a>
 </p>
 
+<br>
+<hr>
+<br>
+
 <!-- 🌐 OPEN SOURCE CONTRIBUTIONS -->
 <h2 align="center">🚀 Open-Source Engineering & Upstream Contributions</h2>
 
@@ -156,6 +160,7 @@ STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA/D
 <br>
 <hr>
 <br>
+
 <!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
 
