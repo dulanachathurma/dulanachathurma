@@ -117,135 +117,18 @@
   </a>
 </p>
 
-
 <!-- 🌐 OPEN SOURCE CONTRIBUTIONS -->
-<h2 align="center">🌐 Open Source Contributions</h2>
+<h2 align="center">🚀 Open-Source Engineering & Upstream Contributions</h2>
 
 <div align="center">
-  <table width="100%">
-    <!-- 1. LeetCode Solutions Contribution -->
-    <tr>
-      <td align="center">
-        <a href="https://github.com/doocs/leetcode/pull/6231">
-          <img src="https://img.shields.io/badge/LeetCode-doocs--leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Repo" />
-        </a>
-        <img src="https://img.shields.io/badge/PR-%236231-blue?style=for-the-badge&logo=git" alt="PR #6231" />
-        <img src="https://img.shields.io/badge/Status-Merged-purple?style=for-the-badge" alt="Status Merged" />
-        <img src="https://img.shields.io/badge/Rank-%2322_Contributor-brightgreen?style=for-the-badge" alt="Rank #22 Contributor" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <br>
-        <strong><a href="https://github.com/doocs/leetcode/pull/6231">LeetCode Solutions Repository | PR #6231: JavaScript Solution for Trapping Rain Water</a></strong>
-        <ul>
-          <li><strong>Algorithm Optimization:</strong> Contributed an efficient JavaScript solution for Problem 0042 (Trapping Rain Water) using Dynamic Programming.</li>
-          <li><strong>Community Recognition:</strong> Ranked as the <strong>#22 Contributor</strong> in the official global repository (36k+ ⭐).</li>
-          <li><strong>Quality Standards:</strong> Successfully passed all automated code formatters, static analysis checks, and reviewer validations.</li>
-        </ul>
-      </td>
-    </tr>
-    <!-- 2. WSO2 Oxygen UI AI Contribution -->
-    <tr>
-      <td align="center">
-        <br>
-        <a href="https://github.com/wso2/oxygen-ui/pull/704">
-          <img src="https://img.shields.io/badge/WSO2-oxygen--ui-FF7300?style=for-the-badge&logo=wso2" alt="WSO2 Oxygen UI" />
-        </a>
-        <img src="https://img.shields.io/badge/PR-%23704-blue?style=for-the-badge&logo=git" alt="PR #704" />
-        <img src="https://img.shields.io/badge/Status-Under_Review-yellow?style=for-the-badge" alt="Status Under Review" />
-        <img src="https://img.shields.io/badge/CLA-Signed-brightgreen?style=for-the-badge" alt="CLA Signed" />
-        <img src="https://img.shields.io/badge/Accessibility-WCAG_2.1_AA-success?style=for-the-badge" alt="WCAG AA" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <br>
-        <strong><a href="https://github.com/wso2/oxygen-ui/pull/704">WSO2 Oxygen UI Design System | PR #704: Introduce enterprise AIAssistant and Copilot component suite</a></strong>
-        <ul>
-          <li><strong>Enterprise AI Copilot Suite:</strong> Architected and implemented the brand-new <code>AIAssistant</code> compound component suite (<code>Header</code>, <code>Messages</code>, <code>Thought</code>, <code>Suggestions</code>, <code>PromptInput</code>, <code>Trigger</code>) supporting <code>drawer</code>, <code>floating</code>, and <code>inline</code> modes for WSO2 cloud consoles (Choreo, Asgardeo).</li>
-          <li><strong>Reasoning Transparency & Code Formatting:</strong> Integrated collapsible chain-of-thought ("Thinking...") disclosures, syntax-highlighted code blocks with one-click copy, reference citation badges, and multi-model selector menus.</li>
-          <li><strong>Accessibility & Quality:</strong> Fully compliant with WCAG 2.1 AA standards featuring screen reader live announcements (<code>role="status"</code>, <code>aria-live="polite"</code>) and keyboard shortcuts (<code>Enter</code> / <code>Shift+Enter</code>).</li>
-          <li><strong>Comprehensive Verification:</strong> Authored extensive Vitest unit tests, accessibility regression tests, interactive Storybook demo stories, and automated Changeset release configuration.</li>
-        </ul>
-      </td>
-    </tr>
-    <!-- 3. WSO2 APIM Contribution -->
-    <tr>
-      <td align="center">
-        <br>
-        <a href="https://github.com/wso2/apim-apps/pull/1437">
-          <img src="https://img.shields.io/badge/WSO2-apim--apps-orange?style=for-the-badge&logo=wso2" alt="WSO2 APIM" />
-        </a>
-        <img src="https://img.shields.io/badge/PR-%231437-blue?style=for-the-badge&logo=git" alt="PR #1437" />
-        <img src="https://img.shields.io/badge/Status-Under_Review-yellow?style=for-the-badge" alt="Status" />
-        <img src="https://img.shields.io/badge/CodeRabbit-Approved-brightgreen?style=for-the-badge&logo=probot" alt="CodeRabbit Approved" />
-        <img src="https://img.shields.io/badge/SonarCloud-Quality_Gate_Passed-brightgreen?style=for-the-badge&logo=sonarcloud" alt="SonarCloud Passed" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <br>
-        <strong><a href="https://github.com/wso2/apim-apps/pull/1437">WSO2 API Manager Portals | PR #1437: Fix scope listing and utils</a></strong>
-        <ul>
-          <li><strong>Publisher Portal Optimization:</strong> Refactored scopes pagination in <code>Listing.jsx</code> to respect configured <code>maxScopeCount</code> dynamically instead of hardcoded limits.</li>
-          <li><strong>Utility Robustness & Safety:</strong> Improved <code>getTypeToDisplay</code> in Shared <code>Utils.js</code> with null-safety and case-insensitive normalization matching <code>getBasePath</code> standards.</li>
-          <li><strong>Comprehensive Unit Testing:</strong> Authored extensive Jest test suites for Publisher's <code>Utils.js</code> and Devportal's <code>EndpointUtils.js</code> with parameterized testing (<code>test.each</code>).</li>
-          <li><strong>Code Quality & Compliance:</strong> Passed all automated security/quality checks including SonarCloud Quality Gate, Signed WSO2 CLA, and received approval from CodeRabbit AI.</li>
-        </ul>
-      </td>
-    </tr>
-    <!-- 4. CNCF OpenChoreo Contribution -->
-    <tr>
-      <td align="center">
-        <br>
-        <a href="https://github.com/openchoreo/openchoreo/pull/5430">
-          <img src="https://img.shields.io/badge/CNCF-openchoreo-00ADD8?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" alt="OpenChoreo Repo" />
-        </a>
-        <img src="https://img.shields.io/badge/PR-%235430-blue?style=for-the-badge&logo=git" alt="PR #5430" />
-        <img src="https://img.shields.io/badge/Status-Under_Review-yellow?style=for-the-badge" alt="Status Under Review" />
-        <img src="https://img.shields.io/badge/CodeRabbit-Review_Completed-brightgreen?style=for-the-badge&logo=probot" alt="CodeRabbit Completed" />
-        <img src="https://img.shields.io/badge/DCO-Passed-brightgreen?style=for-the-badge" alt="DCO Passed" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <br>
-        <strong><a href="https://github.com/openchoreo/openchoreo/pull/5430">CNCF OpenChoreo | PR #5430: Add stdin and dry-run support to occ apply</a></strong>
-        <ul>
-          <li><strong>CLI Stdin Streaming:</strong> Implemented standard input (<code>-f -</code>) streaming support for <code>occ apply</code>, enabling Unix piping of Kubernetes manifests from tools like Helm and Kustomize.</li>
-          <li><strong>Dry-Run Preview Execution:</strong> Introduced the <code>--dry-run</code> flag to validate manifests and simulate create/update operations against the Control Plane without mutating cluster state.</li>
-          <li><strong>Comprehensive Test Suite:</strong> Authored extensive Go unit tests covering multi-document stdin streams, empty input validation, and dry-run create/update execution paths.</li>
-          <li><strong>CNCF & DCO Standards:</strong> Fully signed-off under the Developer Certificate of Origin (DCO), strictly followed Conventional Commits, and passed all automated PR validation and linting checks.</li>
-        </ul>
-      </td>
-    </tr>
-    <!-- 5. Ballerina Platform Contribution -->
-    <tr>
-      <td align="center">
-        <br>
-        <a href="https://github.com/ballerina-platform/ballerina-dev-website/pull/10487">
-          <img src="https://img.shields.io/badge/Ballerina-dev--website-20B6B0?style=for-the-badge&logo=ballerina&logoColor=white" alt="Ballerina Platform" />
-        </a>
-        <img src="https://img.shields.io/badge/PR-%2310487-blue?style=for-the-badge&logo=git" alt="PR #10487" />
-        <img src="https://img.shields.io/badge/Status-Under_Review-yellow?style=for-the-badge" alt="Status Under Review" />
-        <img src="https://img.shields.io/badge/Ecosystem-WSO2-orange?style=for-the-badge" alt="WSO2 Ecosystem" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <br>
-        <strong><a href="https://github.com/ballerina-platform/ballerina-dev-website/pull/10487">Ballerina Platform | PR #10487: Improve project documentation, templates, and community guides</a></strong>
-        <ul>
-          <li><strong>Documentation Architecture:</strong> Refined official developer guides, resource references, and website documentation for the Ballerina platform.</li>
-          <li><strong>Community & Workflow Standardization:</strong> Improved repository templates and contributor guidelines to streamline open-source onboarding.</li>
-          <li><strong>Ecosystem Alignment:</strong> Ensured alignment with WSO2 and Ballerina open-source governance and quality standards.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="./oss-dashboard.svg" alt="Open Source Telemetry Dashboard" width="100%" />
 </div>
+
 <br>
+
+```yaml
+FOCUS_AREAS : Cloud-Native Platforms (CNCF) | Enterprise Design Systems | API Management
+STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA & DCO Signed
 
 <!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
