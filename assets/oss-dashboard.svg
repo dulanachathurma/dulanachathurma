@@ -10,29 +10,53 @@
       <stop offset="50%" stop-color="#00ADD8" />
       <stop offset="100%" stop-color="#20B6B0" />
     </linearGradient>
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF7300" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00ADD8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#20B6B0" stop-opacity="0" />
+    </linearGradient>
     <linearGradient id="cardGlow" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#1E293B" stop-opacity="0.8" />
       <stop offset="100%" stop-color="#0F172A" stop-opacity="0.9" />
     </linearGradient>
   </defs>
 
+  <!-- Main Frame -->
   <rect x="2" y="2" width="846" height="211" rx="12" fill="url(#bgGrad)" stroke="#30363D" stroke-width="1.5" />
   
+  <!-- Header Bar -->
   <path d="M 14 2 L 836 2 Q 848 2 848 14 L 848 34 L 2 34 L 2 14 Q 2 2 14 2 Z" fill="#161B22" />
-  <rect x="2" y="33" width="846" height="1.5" fill="url(#accentGrad)" />
+  <rect x="2" y="33" width="846" height="1.5" fill="url(#accentGrad)" opacity="0.4" />
+  
+  <!-- Live Scanning Beam on Top Border -->
+  <rect x="2" y="32.5" width="220" height="2.5" fill="url(#scanGrad)">
+    <animate attributeName="x" from="-220" to="850" dur="3.5s" repeatCount="indefinite" />
+  </rect>
 
+  <!-- Window Dots -->
   <circle cx="22" cy="18" r="5" fill="#FF5F56" />
   <circle cx="38" cy="18" r="5" fill="#FFBD2E" />
-  <circle cx="54" cy="18" r="5" fill="#27C93F" />
+  <circle cx="54" cy="18" r="5" fill="#27C93F">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
+  </circle>
+
   <text x="74" y="22" fill="#E6EDF3" font-family="monospace" font-size="11.5" font-weight="bold" letter-spacing="0.8">
     CONTROL-PLANE // UPSTREAM OPEN-SOURCE TELEMETRY
   </text>
-  <rect x="655" y="9" width="175" height="18" rx="4" fill="#FF7300" fill-opacity="0.15" stroke="#FF7300" stroke-width="0.8" />
-  <text x="742" y="21" text-anchor="middle" fill="#FF8C2E" font-family="monospace" font-size="10" font-weight="bold">
-    ECOSYSTEM: WSO2 + CNCF
+
+  <!-- Live Status Indicator Pill -->
+  <rect x="640" y="9" width="190" height="18" rx="4" fill="#FF7300" fill-opacity="0.15" stroke="#FF7300" stroke-width="0.8" />
+  <circle cx="652" cy="18" r="3" fill="#3FB950">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite" />
+  </circle>
+  <text x="740" y="21" text-anchor="middle" fill="#FF8C2E" font-family="monospace" font-size="10" font-weight="bold">
+    LIVE: WSO2 + CNCF
   </text>
 
-  <rect x="18" y="48" width="215" height="148" rx="8" fill="url(#cardGlow)" stroke="#FF7300" stroke-opacity="0.4" stroke-width="1.2" />
+  <!-- Left Metric Box with Breathing Border -->
+  <rect x="18" y="48" width="215" height="148" rx="8" fill="url(#cardGlow)" stroke="#FF7300" stroke-width="1.2">
+    <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite" />
+  </rect>
   <text x="125" y="102" text-anchor="middle" fill="#FF7300" font-family="sans-serif" font-size="46" font-weight="800">05</text>
   <text x="125" y="125" text-anchor="middle" fill="#F8FAFC" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.5">
     UPSTREAM PRs
@@ -45,24 +69,42 @@
     CLA AND DCO VERIFIED
   </text>
 
+  <!-- Middle Column: Active Upstream Repositories with Radar Pulse -->
   <text x="252" y="63" fill="#38BDF8" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">
     ACTIVE UPSTREAM REPOSITORIES
   </text>
   
+  <!-- Repo 1 Pulse -->
   <circle cx="258" cy="83" r="3.5" fill="#FF7300" />
-  <text x="270" y="87" fill="#E6EDF3" font-family="monospace" font-size="11.5" font-weight="bold">wso2/oxygen-ui + apim-apps</text>
-  <text x="270" y="101" fill="#8B949E" font-family="monospace" font-size="10">AI Copilot Suite | API Portal Utils</text>
+  <circle cx="258" cy="83" r="3.5" fill="none" stroke="#FF7300" stroke-width="1.2">
+    <animate attributeName="r" from="3.5" to="9" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="opacity" from="0.9" to="0" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="272" y="87" fill="#E6EDF3" font-family="monospace" font-size="11.5" font-weight="bold">wso2/oxygen-ui + apim-apps</text>
+  <text x="272" y="101" fill="#8B949E" font-family="monospace" font-size="10">AI Copilot Suite | API Portal Utils</text>
 
+  <!-- Repo 2 Pulse -->
   <circle cx="258" cy="121" r="3.5" fill="#00ADD8" />
-  <text x="270" y="125" fill="#E6EDF3" font-family="monospace" font-size="11.5" font-weight="bold">openchoreo/openchoreo (CNCF)</text>
-  <text x="270" y="139" fill="#8B949E" font-family="monospace" font-size="10">Go CLI | Stdin and Dry-Run Engine</text>
+  <circle cx="258" cy="121" r="3.5" fill="none" stroke="#00ADD8" stroke-width="1.2">
+    <animate attributeName="r" from="3.5" to="9" dur="2s" begin="0.6s" repeatCount="indefinite" />
+    <animate attributeName="opacity" from="0.9" to="0" dur="2s" begin="0.6s" repeatCount="indefinite" />
+  </circle>
+  <text x="272" y="125" fill="#E6EDF3" font-family="monospace" font-size="11.5" font-weight="bold">openchoreo/openchoreo (CNCF)</text>
+  <text x="272" y="139" fill="#8B949E" font-family="monospace" font-size="10">Go CLI | Stdin and Dry-Run Engine</text>
 
+  <!-- Repo 3 Pulse -->
   <circle cx="258" cy="159" r="3.5" fill="#20B6B0" />
-  <text x="270" y="163" fill="#E6EDF3" font-family="monospace" font-size="11.5" font-weight="bold">ballerina-platform + leetcode</text>
-  <text x="270" y="177" fill="#8B949E" font-family="monospace" font-size="10">Dev Docs | #22 Global Contributor</text>
+  <circle cx="258" cy="159" r="3.5" fill="none" stroke="#20B6B0" stroke-width="1.2">
+    <animate attributeName="r" from="3.5" to="9" dur="2s" begin="1.2s" repeatCount="indefinite" />
+    <animate attributeName="opacity" from="0.9" to="0" dur="2s" begin="1.2s" repeatCount="indefinite" />
+  </circle>
+  <text x="272" y="163" fill="#E6EDF3" font-family="monospace" font-size="11.5" font-weight="bold">ballerina-platform + leetcode</text>
+  <text x="272" y="177" fill="#8B949E" font-family="monospace" font-size="10">Dev Docs | #22 Global Contributor</text>
 
+  <!-- Divider -->
   <line x1="538" y1="50" x2="538" y2="195" stroke="#30363D" stroke-width="1" stroke-dasharray="3 3" />
 
+  <!-- Right Column: Engineering Domains -->
   <text x="556" y="63" fill="#38BDF8" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">
     ENGINEERING AND QUALITY DOMAINS
   </text>
