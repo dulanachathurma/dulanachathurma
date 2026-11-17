@@ -121,7 +121,7 @@
 <h2 align="center">🚀 Open-Source Engineering & Upstream Contributions</h2>
 
 <div align="center">
-  <img src="./oss-dashboard.svg" alt="Open Source Telemetry Dashboard" width="100%" />
+  <img src="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/main/oss-dashboard.svg" alt="Open Source Telemetry Dashboard" width="100%" />
 </div>
 
 <br>
