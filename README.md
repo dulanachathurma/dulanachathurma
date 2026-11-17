@@ -127,8 +127,8 @@
 <br>
 
 <pre>
-FOCUS_AREAS : Cloud-Native Platforms (CNCF) | Enterprise Design Systems | API Management
-STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA & DCO Signed
+FOCUS_AREAS : Cloud-Native (CNCF) | Enterprise Design Systems | API Management
+STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA/DCO
 </pre>
 
 <ul>
