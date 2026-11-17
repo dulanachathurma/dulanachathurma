@@ -153,8 +153,9 @@ STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA/D
   </li>
 </ul>
 
+<br>
 <hr>
-<br><br>
+<br>
 <!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
 
