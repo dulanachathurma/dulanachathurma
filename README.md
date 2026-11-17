@@ -121,7 +121,7 @@
 <h2 align="center">🚀 Open-Source Engineering & Upstream Contributions</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dulanachathurma/dulanachathurma/main/assets/oss-dashboard.svg" alt="Open Source Telemetry Dashboard" width="100%" />
+  <img src="./assets/oss-dashboard.svg" alt="Open Source Telemetry Dashboard" width="100%" />
 </div>
 
 <br>
@@ -131,55 +131,25 @@ FOCUS_AREAS : Cloud-Native Platforms (CNCF) | Enterprise Design Systems | API Ma
 STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA & DCO Signed
 </pre>
 
-<h3>📦 Upstream Pull Requests (Click PR links to view code, or expand for architecture)</h3>
-
 <ul>
-  <li>
-    <b>🟠 WSO2 Oxygen UI Design System</b> — <a href="https://github.com/wso2/oxygen-ui/pull/704"><code>wso2/oxygen-ui#704</code></a> · <code>🟡 In Review</code> · <code>CLA Signed</code><br>
-    <i>Introduce enterprise <code>AIAssistant</code> and Copilot component suite for Choreo &amp; Asgardeo consoles.</i>
-    <details>
-      <summary>🔍 <b>Inspect Technical Architecture &amp; QA</b></summary>
-      <ul>
-        <li><b>Enterprise AI Copilot Suite:</b> Architected the compound component suite (<code>Header</code>, <code>Messages</code>, <code>Thought</code>, <code>Suggestions</code>, <code>PromptInput</code>, <code>Trigger</code>) supporting <code>drawer</code>, <code>floating</code>, and <code>inline</code> modes.</li>
-        <li><b>Reasoning &amp; UX:</b> Built collapsible chain-of-thought disclosures, syntax-highlighted code blocks, citation badges, and multi-model selector menus.</li>
-        <li><b>Accessibility &amp; Testing:</b> Compliant with <b>WCAG 2.1 AA</b> (<code>aria-live</code>, keyboard shortcuts), backed by Vitest unit/a11y suites and Storybook stories.</li>
-      </ul>
-    </details>
+  <li><b>[UPSTREAM] WSO2</b> — 3 active contributions across <code>wso2/oxygen-ui</code>, <code>wso2/apim-apps</code> &amp; <code>ballerina-platform</code>
+    <ul>
+      <li>├─ <a href="https://github.com/wso2/oxygen-ui/pull/704"><b>[PR #704]</b></a> Architected enterprise <code>AIAssistant</code> &amp; Copilot component suite (WCAG 2.1 AA, Vitest, Storybook) → <code>wso2/oxygen-ui#704</code></li>
+      <li>├─ <a href="https://github.com/wso2/apim-apps/pull/1437"><b>[PR #1437]</b></a> Refactored dynamic scope pagination &amp; hardened utility null-safety with Jest suites → <code>wso2/apim-apps#1437</code></li>
+      <li>└─ <a href="https://github.com/ballerina-platform/ballerina-dev-website/pull/10487"><b>[PR #10487]</b></a> Improved official platform guides, resource references &amp; contributor templates → <code>ballerina-dev-website#10487</code></li>
+    </ul>
   </li>
   <br>
-  <li>
-    <b>🔵 CNCF OpenChoreo</b> — <a href="https://github.com/openchoreo/openchoreo/pull/5430"><code>openchoreo/openchoreo#5430</code></a> · <code>🟡 In Review</code> · <code>DCO Passed</code><br>
-    <i>Add standard input (<code>-f -</code>) streaming and <code>--dry-run</code> manifest validation to <code>occ apply</code> CLI.</i>
-    <details>
-      <summary>🔍 <b>Inspect Technical Architecture &amp; QA</b></summary>
-      <ul>
-        <li><b>CLI Stdin Streaming:</b> Implemented Unix piping support (<code>-f -</code>) in Go for seamless manifest streaming from Helm and Kustomize.</li>
-        <li><b>Dry-Run Engine:</b> Added client/server validation and create/update simulation without mutating Kubernetes cluster state.</li>
-        <li><b>Verification:</b> Authored comprehensive Go unit tests covering multi-document streams, empty input errors, and dry-run paths.</li>
-      </ul>
-    </details>
+  <li><b>[UPSTREAM] CNCF OpenChoreo</b> — Cloud-native internal developer platform CLI
+    <ul>
+      <li>└─ <a href="https://github.com/openchoreo/openchoreo/pull/5430"><b>[PR #5430]</b></a> Implemented <code>stdin</code> (<code>-f -</code>) streaming &amp; <code>--dry-run</code> validation for <code>occ apply</code> in Go → <code>openchoreo#5430</code></li>
+    </ul>
   </li>
   <br>
-  <li>
-    <b>🟠 WSO2 API Manager Portals</b> — <a href="https://github.com/wso2/apim-apps/pull/1437"><code>wso2/apim-apps#1437</code></a> · <code>🟡 In Review</code> · <code>SonarCloud Passed</code><br>
-    <i>Refactor dynamic scope pagination in Publisher and harden shared utility functions with Jest suites.</i>
-    <details>
-      <summary>🔍 <b>Inspect Technical Architecture &amp; QA</b></summary>
-      <ul>
-        <li><b>Publisher &amp; Utility Refactoring:</b> Replaced hardcoded scope pagination in <code>Listing.jsx</code> with dynamic <code>maxScopeCount</code> and added null-safety to <code>getTypeToDisplay</code> in <code>Utils.js</code>.</li>
-        <li><b>Test Coverage:</b> Authored parameterized Jest test suites (<code>test.each</code>) for Publisher and Devportal utilities; approved by CodeRabbit AI.</li>
-      </ul>
-    </details>
-  </li>
-  <br>
-  <li>
-    <b>🟢 Ballerina Platform</b> — <a href="https://github.com/ballerina-platform/ballerina-dev-website/pull/10487"><code>ballerina-platform/ballerina-dev-website#10487</code></a> · <code>🟡 In Review</code> · <code>WSO2 Ecosystem</code><br>
-    <i>Improve official developer guides, resource references, and open-source contributor templates.</i>
-  </li>
-  <br>
-  <li>
-    <b>🏆 Doocs LeetCode (36k+ ⭐)</b> — <a href="https://github.com/doocs/leetcode/pull/6231"><code>doocs/leetcode#6231</code></a> · <code>🟣 Merged</code> · <code>Rank #22 Contributor</code><br>
-    <i>Optimal O(n) Dynamic Programming JavaScript solution for Problem 0042 (Trapping Rain Water).</i>
+  <li><b>[MERGED] Doocs LeetCode (36k+ ⭐)</b> — Ranked <b>#22 Global Contributor</b>
+    <ul>
+      <li>└─ <a href="https://github.com/doocs/leetcode/pull/6231"><b>[PR #6231]</b></a> Optimal O(n) Dynamic Programming solution for Trapping Rain Water → <code>doocs/leetcode#6231</code></li>
+    </ul>
   </li>
 </ul>
 
