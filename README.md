@@ -129,7 +129,7 @@
 ```yaml
 FOCUS_AREAS : Cloud-Native Platforms (CNCF) | Enterprise Design Systems | API Management
 STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA & DCO Signed
-
+```
 <!-- 🏗️ FEATURED PROJECTS (BENTO BOX GRID UI) -->
 <h2 align="center">🔥 Featured Engineering Projects</h2>
 
