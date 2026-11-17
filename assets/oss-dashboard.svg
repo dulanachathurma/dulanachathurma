@@ -1,0 +1,91 @@
+<svg width="850" height="215" viewBox="0 0 850 215" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="50%" stop-color="#131926" />
+      <stop offset="100%" stop-color="#0B0F19" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF7300" />
+      <stop offset="50%" stop-color="#00ADD8" />
+      <stop offset="100%" stop-color="#20B6B0" />
+    </linearGradient>
+    <linearGradient id="cardGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="846" height="211" rx="12" fill="url(#bgGrad)" stroke="#30363D" stroke-width="1.5" />
+  
+  <path d="M 14 2 L 836 2 Q 848 2 848 14 L 848 34 L 2 34 L 2 14 Q 2 2 14 2 Z" fill="#161B22" />
+  <rect x="2" y="33" width="846" height="1.5" fill="url(#accentGrad)" />
+
+  <circle cx="22" cy="18" r="5" fill="#FF5F56" />
+  <circle cx="38" cy="18" r="5" fill="#FFBD2E" />
+  <circle cx="54" cy="18" r="5" fill="#27C93F" />
+  <text x="74" y="22" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="bold" letter-spacing="0.8">
+    CONTROL-PLANE // UPSTREAM OPEN-SOURCE TELEMETRY
+  </text>
+  <rect x="655" y="9" width="175" height="18" rx="4" fill="#FF7300" fill-opacity="0.15" stroke="#FF7300" stroke-width="0.8" />
+  <text x="742" y="21" text-anchor="middle" fill="#FF8C2E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="bold">
+    ECOSYSTEM: WSO2 & CNCF
+  </text>
+
+  <rect x="18" y="48" width="215" height="148" rx="8" fill="url(#cardGlow)" stroke="#FF7300" stroke-opacity="0.4" stroke-width="1.2" />
+  <text x="125" y="102" text-anchor="middle" fill="#FF7300" font-family="system-ui, -apple-system, sans-serif" font-size="46" font-weight="800">05</text>
+  <text x="125" y="125" text-anchor="middle" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="bold" letter-spacing="0.5">
+    UPSTREAM PRs
+  </text>
+  <rect x="42" y="138" width="166" height="20" rx="4" fill="#238636" fill-opacity="0.2" stroke="#2EA043" stroke-width="0.8" />
+  <text x="125" y="151" text-anchor="middle" fill="#3FB950" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" font-weight="bold">
+    1 MERGED · 4 IN REVIEW
+  </text>
+  <text x="125" y="178" text-anchor="middle" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9">
+    CLA & DCO VERIFIED
+  </text>
+
+  <text x="252" y="63" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="bold" letter-spacing="0.6">
+    ACTIVE UPSTREAM REPOSITORIES
+  </text>
+  
+  <circle cx="258" cy="83" r="3.5" fill="#FF7300" />
+  <text x="270" y="87" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="bold">wso2/oxygen-ui & apim-apps</text>
+  <text x="270" y="101" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">AI Copilot Suite · API Portal Utils</text>
+
+  <circle cx="258" cy="121" r="3.5" fill="#00ADD8" />
+  <text x="270" y="125" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="bold">openchoreo/openchoreo (CNCF)</text>
+  <text x="270" y="139" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">Go CLI · Stdin & Dry-Run Engine</text>
+
+  <circle cx="258" cy="159" r="3.5" fill="#20B6B0" />
+  <text x="270" y="163" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="bold">ballerina-platform & doocs/leetcode</text>
+  <text x="270" y="177" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">Dev Docs · #22 Global Contributor</text>
+
+  <line x1="538" y1="50" x2="538" y2="195" stroke="#30363D" stroke-width="1" stroke-dasharray="3 3" />
+
+  <text x="556" y="63" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="bold" letter-spacing="0.6">
+    ENGINEERING & QUALITY DOMAINS
+  </text>
+
+  <rect x="556" y="75" width="132" height="26" rx="5" fill="#161B22" stroke="#FF7300" stroke-width="0.9" />
+  <text x="622" y="92" text-anchor="middle" fill="#FFA657" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">⚛️ React / TypeScript</text>
+
+  <rect x="696" y="75" width="134" height="26" rx="5" fill="#161B22" stroke="#00ADD8" stroke-width="0.9" />
+  <text x="763" y="92" text-anchor="middle" fill="#56D4DD" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">🐹 Golang CLI / K8s</text>
+
+  <rect x="556" y="110" width="132" height="26" rx="5" fill="#161B22" stroke="#A371F7" stroke-width="0.9" />
+  <text x="622" y="127" text-anchor="middle" fill="#D2A8FF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">🤖 Enterprise AI UI</text>
+
+  <rect x="696" y="110" width="134" height="26" rx="5" fill="#161B22" stroke="#3FB950" stroke-width="0.9" />
+  <text x="763" y="127" text-anchor="middle" fill="#7EE787" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">♿ WCAG 2.1 AA</text>
+
+  <rect x="556" y="145" width="132" height="26" rx="5" fill="#161B22" stroke="#F778BA" stroke-width="0.9" />
+  <text x="622" y="162" text-anchor="middle" fill="#FF9BCE" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">🧪 Vitest / Jest / Go</text>
+
+  <rect x="696" y="145" width="134" height="26" rx="5" fill="#161B22" stroke="#20B6B0" stroke-width="0.9" />
+  <text x="763" y="162" text-anchor="middle" fill="#56D4DD" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">🛡️ SonarCloud & CI</text>
+  
+  <text x="693" y="189" text-anchor="middle" fill="#6E7681" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5">
+    PRODUCTION-GRADE TESTING & GOVERNANCE
+  </text>
+</svg>
