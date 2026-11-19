@@ -347,7 +347,7 @@ STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA/D
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanachathurma&theme=radical" alt="Profile Details" width="700px"/><br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulanachathurma&theme=radical" alt="Stats" width="400px"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=dulanachathurma&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Dulana's GitHub Stats" width="450px"/><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulanachathurma&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=9E9E9E" alt="GitHub Streak" width="500px"/>
 </div>
 
