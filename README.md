@@ -146,9 +146,11 @@ STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA/D
     </ul>
   </li>
   <br>
-  <li><b>[UPSTREAM]</b> $\color{#00ADD8}{\textsf{\textbf{CNCF OpenChoreo}}}$ — Cloud-native internal developer platform CLI
+  <li><b>[UPSTREAM]</b> $\color{#00ADD8}{\textsf{\textbf{CNCF OpenChoreo}}}$ — 3 active Go contributions across <code>occ</code> CLI, API &amp; AuthZ engine[cite: 5, 11, 12]
     <ul>
-      <li>└─ <a href="https://github.com/openchoreo/openchoreo/pull/5430"><b>[PR #5430]</b></a> Implemented <code>stdin</code> (<code>-f -</code>) streaming &amp; <code>--dry-run</code> validation for <code>occ apply</code> in Go → <code>openchoreo#5430</code></li>
+      <li>├─ <a href="https://github.com/openchoreo/openchoreo/pull/5430"><b>[PR #5430]</b></a> Implemented <code>stdin</code> (<code>-f -</code>) streaming &amp; <code>--dry-run</code> validation for <code>occ apply</code> in Go → <code>openchoreo#5430</code></li>
+      <li>├─ <a href="https://github.com/openchoreo/openchoreo/pull/5509"><b>[PR #5509]</b></a> Added <code>resource.name</code> condition evaluation for fine-grained secret authorization policies → <code>openchoreo#5509</code>[cite: 12]</li>
+      <li>└─ <a href="https://github.com/openchoreo/openchoreo/pull/5510"><b>[PR #5510]</b></a> Enforced duplicate release binding detection during environment promotion in <code>occ</code> CLI → <code>openchoreo#5510</code>[cite: 8]</li>
     </ul>
   </li>
   <br>
