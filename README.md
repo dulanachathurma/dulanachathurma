@@ -1,4 +1,4 @@
-<!-- 🌟 HEADER SECTIONs (Auto-running Terminal SVG) 🌟 -->
+<!-- 🌟 HEADER SECTION (Auto-running Terminal SVG) 🌟 -->
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="Dulana Chathurma Terminal Header"/>
 </div>
