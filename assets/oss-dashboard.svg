@@ -84,7 +84,7 @@
   <!-- Breakdown Pill (Neon Blue / Cyan) -->
   <rect x="36" y="128" width="178" height="20" rx="4" fill="#0284C7" fill-opacity="0.25" stroke="#38BDF8" stroke-width="0.9" />
   <text x="125" y="141" text-anchor="middle" fill="#38BDF8" font-family="monospace" font-size="9.5" font-weight="bold">
-    10 MERGED | 5 IN REVIEW
+    11 MERGED | 4 IN REVIEW
   </text>
 
   <text x="125" y="162" text-anchor="middle" fill="#7DD3FC" font-family="monospace" font-size="9">
