@@ -138,7 +138,7 @@ STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA/D
 </pre>
 
 <ul>
-  <li><b>[UPSTREAM]</b> $\color{#FF7300}{\textsf{\textbf{WSO2}}}$ — 3 active contributions across <code>wso2/oxygen-ui</code>, <code>wso2/apim-apps</code> &amp; <code>ballerina-platform</code>
+  <li><b>[UPSTREAM]</b> $\color{#FF7300}{\textsf{\textbf{WSO2}}}$ — 3 upstream contributions across <code>wso2/oxygen-ui</code>, <code>wso2/apim-apps</code> &amp; <code>ballerina-platform</code>
     <ul>
       <li>├─ <a href="https://github.com/wso2/oxygen-ui/pull/704"><b>[PR #704]</b></a> Architected enterprise <code>AIAssistant</code> &amp; Copilot component suite (WCAG 2.1 AA, Vitest, Storybook) → <code>wso2/oxygen-ui#704</code></li>
       <li>├─ <a href="https://github.com/wso2/apim-apps/pull/1437"><b>[PR #1437]</b></a> Refactored dynamic scope pagination &amp; hardened utility null-safety with Jest suites → <code>wso2/apim-apps#1437</code></li>
@@ -146,11 +146,11 @@ STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA/D
     </ul>
   </li>
   <br>
-  <li><b>[UPSTREAM]</b> $\color{#00ADD8}{\textsf{\textbf{CNCF OpenChoreo}}}$ — 3 active Go contributions across <code>occ</code> CLI, API &amp; AuthZ engine[cite: 5, 11, 12]
+  <li><b>[MERGED]</b> $\color{#00ADD8}{\textsf{\textbf{CNCF OpenChoreo}}}$ — Merged <b>PR #5510</b> (<code>02b2ca3</code>) &amp; upstream Go contributions across <code>occ</code> CLI, API &amp; AuthZ
     <ul>
+      <li>├─ <a href="https://github.com/openchoreo/openchoreo/pull/5510"><b>[PR #5510 · MERGED]</b></a> Enforced duplicate release binding detection during environment promotion in <code>occ</code> CLI (Issue <a href="https://github.com/openchoreo/openchoreo/issues/5640">#5640</a>) → <code>openchoreo#5510</code></li>
       <li>├─ <a href="https://github.com/openchoreo/openchoreo/pull/5430"><b>[PR #5430]</b></a> Implemented <code>stdin</code> (<code>-f -</code>) streaming &amp; <code>--dry-run</code> validation for <code>occ apply</code> in Go → <code>openchoreo#5430</code></li>
-      <li>├─ <a href="https://github.com/openchoreo/openchoreo/pull/5509"><b>[PR #5509]</b></a> Added <code>resource.name</code> condition evaluation for fine-grained secret authorization policies → <code>openchoreo#5509</code>[cite: 12]</li>
-      <li>└─ <a href="https://github.com/openchoreo/openchoreo/pull/5510"><b>[PR #5510]</b></a> Enforced duplicate release binding detection during environment promotion in <code>occ</code> CLI → <code>openchoreo#5510</code>[cite: 8]</li>
+      <li>└─ <a href="https://github.com/openchoreo/openchoreo/pull/5509"><b>[PR #5509]</b></a> Added <code>resource.name</code> condition evaluation for fine-grained secret authorization policies → <code>openchoreo#5509</code></li>
     </ul>
   </li>
   <br>
