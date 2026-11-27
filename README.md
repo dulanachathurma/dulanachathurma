@@ -138,14 +138,6 @@ STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA/D
 </pre>
 
 <ul>
-  <li><b>[UPSTREAM]</b> $\color{#FF7300}{\textsf{\textbf{WSO2}}}$ — 3 upstream contributions across <code>wso2/oxygen-ui</code>, <code>wso2/apim-apps</code> &amp; <code>ballerina-platform</code>
-    <ul>
-      <li>├─ <a href="https://github.com/wso2/oxygen-ui/pull/704"><b>[PR #704]</b></a> Architected enterprise <code>AIAssistant</code> &amp; Copilot component suite (WCAG 2.1 AA, Vitest, Storybook) → <code>wso2/oxygen-ui#704</code></li>
-      <li>├─ <a href="https://github.com/wso2/apim-apps/pull/1437"><b>[PR #1437]</b></a> Refactored dynamic scope pagination &amp; hardened utility null-safety with Jest suites → <code>wso2/apim-apps#1437</code></li>
-      <li>└─ <a href="https://github.com/ballerina-platform/ballerina-dev-website/pull/10487"><b>[PR #10487]</b></a> Improved official platform guides, resource references &amp; contributor templates → <code>ballerina-dev-website#10487</code></li>
-    </ul>
-  </li>
-  <br>
   <li><b>[MERGED]</b> $\color{#00ADD8}{\textsf{\textbf{CNCF OpenChoreo}}}$ — Merged <b>PR #5510</b> (<code>02b2ca3</code>) &amp; upstream Go contributions across <code>occ</code> CLI, API &amp; AuthZ
     <ul>
       <li>├─ <a href="https://github.com/openchoreo/openchoreo/pull/5510"><b>[PR #5510 · MERGED]</b></a> Enforced duplicate release binding detection during environment promotion in <code>occ</code> CLI (Issue <a href="https://github.com/openchoreo/openchoreo/issues/5640">#5640</a>) → <code>openchoreo#5510</code></li>
@@ -156,7 +148,15 @@ STANDARDS   : WCAG 2.1 AA · Unit & Regression Testing (Go/Vitest/Jest) · CLA/D
   <br>
   <li><b>[MERGED]</b> $\color{#FFA116}{\textsf{\textbf{Doocs LeetCode}}}$ <b>(36k+ ⭐)</b> — Ranked <b>#22 Global Contributor</b>
     <ul>
-      <li>└─ <a href="https://github.com/doocs/leetcode/pull/6231"><b>[PR #6231]</b></a> Optimal O(n) Dynamic Programming solution for Trapping Rain Water → <code>doocs/leetcode#6231</code></li>
+      <li>└─ <a href="https://github.com/doocs/leetcode/pull/6231"><b>[PR #6231 · MERGED]</b></a> Optimal O(n) Dynamic Programming solution for Trapping Rain Water → <code>doocs/leetcode#6231</code></li>
+    </ul>
+  </li>
+  <br>
+  <li><b>[UPSTREAM]</b> $\color{#FF7300}{\textsf{\textbf{WSO2}}}$ — 3 upstream contributions across <code>wso2/oxygen-ui</code>, <code>wso2/apim-apps</code> &amp; <code>ballerina-platform</code>
+    <ul>
+      <li>├─ <a href="https://github.com/wso2/oxygen-ui/pull/704"><b>[PR #704]</b></a> Architected enterprise <code>AIAssistant</code> &amp; Copilot component suite (WCAG 2.1 AA, Vitest, Storybook) → <code>wso2/oxygen-ui#704</code></li>
+      <li>├─ <a href="https://github.com/wso2/apim-apps/pull/1437"><b>[PR #1437]</b></a> Refactored dynamic scope pagination &amp; hardened utility null-safety with Jest suites → <code>wso2/apim-apps#1437</code></li>
+      <li>└─ <a href="https://github.com/ballerina-platform/ballerina-dev-website/pull/10487"><b>[PR #10487]</b></a> Improved official platform guides, resource references &amp; contributor templates → <code>ballerina-dev-website#10487</code></li>
     </ul>
   </li>
 </ul>
